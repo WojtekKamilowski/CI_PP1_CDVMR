@@ -17,19 +17,21 @@ h2 {
 
 /* headings and logo */
 
-header {
-    background-color: #0e86d4;   
+#my-header {
+    background-color: #0e86d4;
 }
 
-#logo h1,h2 {
+h1 {
     font-family: Great Vibes, sans-serif;
     color: #fafafa;
     letter-spacing: 4px; 
+    background-color: #0e86d4;
+    height: 70px;
 }
-
+    
 #logo {
     float: left; 
-    font-size: 100%;
+    font-size: 280%;
     margin-left: 10px; 
     margin-top: 5px;
 }
@@ -47,24 +49,43 @@ header {
 }
 
 #menu ul {
-    float: right;
+    display: flex;
+    align-items: center;
+    justify-content: right;
 }
 
 #menu li {
-    float: left;
     list-style-type: none;
-    margin-right: 30px;
 }
 
 #menu a {
     text-decoration: none;
-    color: inherit;
+    color: #fafafa;
+    padding: 20px;
+    font-family: Raleway, sans-serif;
+}
+
+/* plate image */
+
+#plate-outer {
+    height:600px;
+    width:100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+#plate-image {
+    height:600px;
+    width:100%;
+    background: url('../images/FOOD\ PLATE.jpg') no-repeat center center;
 }
 
 #menu a:hover {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #fafafa;
 }
 
 .active {
-    border-bottom: 1px solid #3a3a3a;
+    border-bottom: 1px solid #fafafa;
 }
+
