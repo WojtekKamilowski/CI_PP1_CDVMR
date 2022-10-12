@@ -11,30 +11,28 @@ body {
     border: none;
 }
 
+h2 {
+    font-family: Raleway;
+}
+
 /* headings and logo */
 
 header {
     background-color: #0e86d4;   
 }
 
-h1 h2 {
+#logo h1 {
     font-family: Great Vibes, sans-serif;
     color: #fafafa;
-    letter-spacing: 4px
+    letter-spacing: 4px; 
 }
 
-#logo {
+#logo h2{
     font-family: Great Vibes, sans-serif;
     color: #fafafa;
     letter-spacing: 4px;    
 }
 
-#sublogo {
-    font-family: Great Vibes, sans-serif;
-    color: #fafafa;
-    letter-spacing: 4px;
-}
-
-h2 {
-    font-family: Raleway;
+#logo {
+    float: left;  
 }
