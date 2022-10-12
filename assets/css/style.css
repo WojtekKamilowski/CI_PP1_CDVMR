@@ -3,6 +3,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
+    color: red;
 }
 
 * {
@@ -87,5 +88,15 @@ h1 {
 
 .active {
     border-bottom: 1px solid #fafafa;
+}
+
+fieldset {
+    border: 1px solid transparent; 
+    border-color: black; 
+    box-sizing: border-box; 
+    padding: 20px; 
+    width: 700px;
+    height: 400px;
+    margin: 30px;
 }
 
