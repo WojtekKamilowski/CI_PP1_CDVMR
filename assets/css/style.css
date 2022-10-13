@@ -3,7 +3,7 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 300;
-    color: red;
+    color: black;
 }
 
 * {
@@ -89,18 +89,14 @@ h1 {
 .active {
     border-bottom: 1px solid #fafafa;
 }
-
-#announcements {
-    height: 600px;
-    margin-top: 30px;
-}
-
-#center-about {
     
-}
+#announcements {
+    height: 300px;
+    margin: 20px 0;
 
+}
 #announcements-box {
-    border: 1px solid transparent; 
+    border: 2px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
     padding: 20px; 
@@ -110,10 +106,44 @@ h1 {
 
 .info-box {
     border: 1px solid transparent; 
-    border-color: black; 
+    border-color: black;
     box-sizing: border-box; 
     padding: 20px; 
     width: 80%;
-    margin: auto;
+    margin: 0 auto;
 }
+
+#opening-hours{
+    height: 300px;
+    margin: 100px 0;
+}
+
+#hours-box {
+    border: 2px solid transparent; 
+    border-color: black; 
+    box-sizing: border-box; 
+    padding: 10px; 
+    width: 66%;
+    margin: 0 auto;
+}
+
+#week-days {
+    margin-left: 30px;
+    padding-top: 10px;
+    width: 45%;
+    float: left;
+}
+
+#weekend {
+    padding-top: 10px;
+    width: 45%;
+    float: right;
+}
+
+.week {
+    font-size: 200%;
+    font-weight: 900;
+}
+
+
 
