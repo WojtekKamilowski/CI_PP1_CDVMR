@@ -115,7 +115,7 @@ h1 {
 
 #opening-hours{
     height: 300px;
-    margin: 100px 0;
+    margin-top: 100px;
 }
 
 #hours-box {
@@ -145,5 +145,73 @@ h1 {
     font-weight: 900;
 }
 
+/* footer */
 
+#my-footer {
+    display: flex;
+    align-items: baseline;
+    justify-content: right;
+    font-family: Raleway, sans-serif;
+    background-color: #0e86d4;
+    height: 150px;
+}
 
+#phone-email {
+    margin-left: 30px;
+    width: 33%;
+    color: #fafafa;
+}
+
+#phone-email p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 30px;
+}
+
+#address {
+    margin: 30px auto;
+    width: 33%; 
+    text-align: center; 
+    color: #fafafa; 
+}
+
+#address p {
+    margin-bottom: 20px;
+    padding: 0;
+    border: 0;
+    height: 20px;
+}
+
+#phone-email, #address, #social {
+    line-height: 75px;
+}
+
+#social {
+    margin-right: 30px;
+    width: 33%;
+}
+
+#social ul {
+    display: flex;
+    align-items: baseline;
+    justify-content: right;
+}
+
+#social li {
+    list-style-type: none;
+}
+
+#social a {
+    margin: 10px 20px;
+    padding: 30px 0;
+    border: 30px 0;
+    text-decoration: none;
+    text-align: center;
+    color: #fafafa;
+    font-family: Raleway, sans-serif;
+}
+
+.social-icon {
+    font-size: 150%;
+}
