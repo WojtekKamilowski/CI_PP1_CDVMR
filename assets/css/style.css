@@ -219,3 +219,42 @@ h1 {
 .social-icon {
     font-size: 150%;
 }
+
+/* Restaurant Menu */
+
+hr {
+    border-bottom: 1px solid #0e86d4;
+    border-top: none;
+    width: 100%;
+}
+
+#restaurant-menu-header {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin: 40px 0;
+    padding: 20px 0;
+    height: 20px;
+}
+
+#menu-photos {
+    margin: 5px;
+    display: grid;
+    overflow: hidden;
+}
+
+.menu-image-feta {
+    grid-column: 1;
+    width: 33%;   
+}
+
+.menu-image-cannoli {
+    grid-column: 2;
+    width: 33%;   
+}
+
+.menu-image-wine {
+    grid-column: 3;
+    width: 33%;   
+}
+
