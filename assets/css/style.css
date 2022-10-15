@@ -12,7 +12,7 @@ body {
     border: none;
 }
 
-h2 {
+h2, h3 {
     font-family: Raleway, sans-serif;
 }
 
@@ -98,35 +98,36 @@ h1 {
 
 }
 #announcements-box {
+    margin: auto;
+    padding: 20px; 
     border: 2px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
-    padding: 20px; 
     width: 66%;
-    margin: auto;
 }
 
 .info-box {
+    
+    margin: 0 auto;
+    padding: 20px; 
     border: 1px solid transparent; 
     border-color: black;
     box-sizing: border-box; 
-    padding: 20px; 
     width: 80%;
-    margin: 0 auto;
 }
 
 #opening-hours{
-    height: 200px;
     margin-top: 100px;
+    height: 200px;
 }
 
 #hours-box {
+    margin: 0 auto;
+    padding: 10px; 
     border: 2px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
-    padding: 10px; 
     width: 66%;
-    margin: 0 auto;
 }
 
 #week-days {
@@ -229,17 +230,18 @@ hr {
 }
 
 #restaurant-menu-header {
+    margin: 40px 0;
+    padding: 20px 0;
     display: flex;
     align-content: center;
     justify-content: center;
-    margin: 40px 0;
-    padding: 20px 0;
     height: 20px;
 }
 
 #menu-photos {
+    margin:5px;
+    padding-top: 10px;
     clear: both;
-    margin: 5px;
     display: grid;
     column-gap: 10px;;
 }
@@ -247,18 +249,89 @@ hr {
 .menu-image-apetizers {
     margin-left: 35px;
     grid-column: 1;
+    width: 33%;
     max-width: 450px;
 }
 
 .menu-image-gelato {
     grid-column: 2;
+    width: 33%;
     max-width: 450px;
 }
 
 .menu-image-wine {
     grid-column: 3;
+    width: 33%;
     max-width: 450px;
 }
 
+#menu-list {
+    display: grid;
+    column-gap: 30px;
+}
 
+.food-menu {
+    grid-column-start: 1;
+    grid-column-end: 8;
+    grid-row-start: 1;
+    grid-row-end: 12;
+}
+    
+.drinks-menu {
+    grid-column-start: 8;
+    grid-column-end: 12;
+    grid-row-start: 1;
+    grid-row-end: 12;
+}
 
+#food-box {
+    margin-right: 15px;
+    margin-left: 35px;
+    margin-bottom: 10px;
+    padding: 20px; 
+    border: 2px solid transparent; 
+    border-color: black; 
+    box-sizing: border-box; 
+    display: grid;
+    gap: 10px;
+}
+
+#food-box h3, #food-box p, #drinks-box h3, #drinks-box p {
+    margin: 4px 0;
+    padding: 2px;
+}
+
+.cuisine-type {
+    font-family: Raleway, sans-serif;
+    font-weight: 600;
+}
+
+.appetizers {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.main-courses {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.salads {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.desserts {
+    grid-column: 2;
+    grid-row: 2;
+}
+
+#drinks-box {
+    margin-right: 35px;
+    padding: 20px 15px 30px 35px; 
+    border: 2px solid transparent; 
+    border-color: black; 
+    box-sizing: border-box; 
+    display: grid;
+    gap: 10px;
+}
