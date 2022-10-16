@@ -409,7 +409,7 @@ hr {
     box-sizing: border-box;
 }
 
-.place-box p, .chef-box {
+.place-box p, .chef-box p, .guests-box p {
     line-height: 30px;
 }
 
@@ -436,6 +436,11 @@ hr {
     border: 1px solid transparent; 
     border-color: black; 
     box-sizing: border-box;
+}
+
+.guests {
+    margin-top: 10px;
+    margin-bottom: 20px;
 }
 
 .guests-box {
