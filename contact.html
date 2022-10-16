@@ -30,19 +30,37 @@
     </div>
     </header>
     <section>
-        <div id="contact">
-        <fieldset id="contact-box">
-            <legend>Send us a message!</legend>
-            <form action="https://formdump.codeinstitute.net" method="POST">
-            <label for="name">Name</label>
-            <input id="name" type="text" name="username" required>
-            <label for="email-address">Email address</label>
-            <input id="email-address" type="email" name="useremailaddress" required>
+        <div class="contact-map">
+        <div class="contact">
+        <fieldset class="contact-box">
+            <legend><h2>Send us a message!</h2></legend>
+            <form action="https://formdump.codeinstitute.net" method="POST" class="contact-form">
+            <div class="user-details">
+            <input id="name-input" class="user-details-input" type="text" name="username" placeholder="Name" required>
+            </div>
+            <div class="user-details">
+            <input id="email" class="user-details-input" type="email" name="email_address" placeholder="Email address" required>
+            </div>
+            <div class="user-details">
+            <input id="phone" class="user-details-input" type="tel" name="phone-number" placeholder="Phone number" required>
+            </div>
+            <div class="user-text">
+            <fieldset class="message-box">
+                <legend>Your feedback/questions/suggestions:</legend>
+                <textarea rows="5" cols="68" id="text-input" name="usermessage" 
+                placeholder="Dear customer, thank you for your message. We greatly appreciate it. It will be read and addressed as soon as possible!" required></textarea>
+            </fieldset>
+            </div>
+            <div class="submit-button">
+            <input id="submit" class="submit-input" type="submit" name="submit" value="Submit">
+            </div>
+            </fieldset>
             </form>
-            
-        </fieldset>
         </div>
-        <div>MAP</div>
+        <div class="map">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1432.280324110586!2d-8.467920081390684!3d51.90577518450656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4844900da719fc8f%3A0x1fb63f08bf607e0e!2sBell&#39;s%20Field!5e0!3m2!1sen!2sie!4v1665927699886!5m2!1sen!2sie" width="600" height="409"></iframe>
+        </div>
+        </div>
     </section>
     <footer id="my-footer">
         <div id="phone-email">
