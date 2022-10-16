@@ -394,3 +394,55 @@ hr {
     border-color: black;
 }
 
+.place {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.place-box {
+    margin: 10px 15px 10px 60px;
+    padding: 35px 20px 40px 20px; 
+    border: 1px solid transparent; 
+    border-color: black; 
+    box-sizing: border-box;
+}
+
+.place-box p, .chef-box {
+    line-height: 30px;
+}
+
+.place-photo {
+    margin-top: 20px;
+    margin-right: 60px;
+}
+
+.chef {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.chef-photo {
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+.chef-box {
+    margin: 10px 60px 10px 15px;
+    padding: 98px 20px;
+    border: 1px solid transparent; 
+    border-color: black; 
+    box-sizing: border-box;
+}
+
+.guests-box {
+    margin: 10px 60px;
+    padding: 20px;
+    border: 1px solid transparent; 
+    border-color: black; 
+    box-sizing: border-box;
+}
+
