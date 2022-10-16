@@ -451,3 +451,7 @@ hr {
     box-sizing: border-box;
 }
 
+.guests-box ul{
+    margin-left: 10px;
+}
+
