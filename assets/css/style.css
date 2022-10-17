@@ -237,13 +237,8 @@ h1 {
 
 .restaurant-menu{
     display: grid;
-    column-gap: 20px;
-}
-
-hr {
-    border-bottom: 1px solid #0e86d4;
-    border-top: none;
-    width: 100%;
+    column-gap: 10px;
+    row-gap: 5px;
 }
 
 #restaurant-menu-header {
@@ -251,8 +246,14 @@ hr {
     padding: 20px 0;
     height: 20px;
     grid-column: 1 / 30;
-    grid-row: 1 /3;
-    display: grid;
+    grid-row: 1;
+}
+
+.menu-hr {
+    border-bottom: 1px solid #0e86d4;
+    border-top: none;
+    grid-column: 1 / 30;
+    grid-row: 2;
 }
 
 #restaurant-menu-header h2 {
@@ -260,6 +261,7 @@ hr {
 }
     
 .menu-image-apetizers {
+    margin-top: 20px;
     margin-left: 35px;
     width: 33%;
     max-width: 450px;
@@ -268,6 +270,7 @@ hr {
 }
 
 .menu-image-gelato {
+    margin-top: 20px;
     width: 33%;
     max-width: 450px;
     grid-column: 10 / 20;
@@ -275,6 +278,7 @@ hr {
 }
 
 .menu-image-wine {
+    margin-top: 20px;
     width: 33%;
     max-width: 450px;
     grid-column: 20 / 30;
@@ -292,10 +296,10 @@ hr {
 }
 
 .food-box {
-    margin-right: 35px;
+    margin-right: 40px;
     margin-left: 35px;
     margin-bottom: 10px;
-    padding: 20px; 
+    padding: 20px 25px 20px 20px; 
     border: 1px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
@@ -476,5 +480,14 @@ hr {
         height: 500px;
         margin: 50px auto 0 auto;
     }
+
+    .menu-image-wine {
+        margin-top: 20px;
+        width: 33%;
+        max-width: 450px;
+        grid-column: 10 / 20;
+        grid-row: 9;
+    }
+
 
 }
