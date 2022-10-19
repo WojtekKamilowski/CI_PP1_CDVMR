@@ -470,6 +470,38 @@ h1 {
     border-color: black;
 }
 
+/* 404 */
+
+#broken-plate-outer {
+    height:600px;
+    width:100%;
+    overflow: hidden;
+
+    position: relative;
+}
+
+#broken-plate-image {
+    height:600px;
+    width:100%;
+    background: url('../images/broken_plate.jpg') no-repeat center center;
+}
+
+#not-found-text {
+    background-color: #0e86d4;
+    color:#fafafa;
+}
+
+.not-found-text input {
+    margin: 5px 0;
+    padding: 10px;
+    border: 1px solid transparent;
+    border-color: #0e86d4;
+    width: 50px;
+    background-color: #0e86d4;
+    color: #fafafa;
+}
+
+
 /* Media queries */ 
 
 /* 1200px */
@@ -488,6 +520,5 @@ h1 {
         grid-column: 10 / 20;
         grid-row: 9;
     }
-
 
 }
