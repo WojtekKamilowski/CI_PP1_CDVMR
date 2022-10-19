@@ -263,24 +263,18 @@ h1 {
 .menu-image-apetizers {
     margin-top: 20px;
     margin-left: 35px;
-    width: 33%;
-    max-width: 450px;
     grid-column: 1 / 10;
     grid-row: 4 / 6;
 }
 
 .menu-image-gelato {
     margin-top: 20px;
-    width: 33%;
-    max-width: 450px;
     grid-column: 10 / 20;
     grid-row: 4 / 6;
 }
 
 .menu-image-wine {
     margin-top: 20px;
-    width: 33%;
-    max-width: 450px;
     grid-column: 20 / 30;
     grid-row: 4 / 6;
 }
@@ -289,17 +283,25 @@ h1 {
     grid-column: 1 / 20;
     grid-row: 6 / 9;
 }
+
+.food-menu fieldset {
+    margin: 20px 40px 20px 35px;
+    padding: 20px;
+    border: 1px solid transparent; 
+    border-color: black; 
+    box-sizing: border-box; 
+    display: grid;
+    gap: 10px;
+}
     
 .drinks-menu {
     grid-column: 20 / 30;
     grid-row: 6 / 9;
 }
 
-.food-box {
-    margin-right: 40px;
-    margin-left: 35px;
-    margin-bottom: 10px;
-    padding: 20px 25px 20px 20px; 
+.drinks-menu fieldset {
+    margin: 20px 35px 20px 0;
+    padding: 20px 20px 31px 20px; 
     border: 1px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
@@ -307,7 +309,7 @@ h1 {
     gap: 10px;
 }
 
-.food-box h3, .food-box p, #drinks-box h3, #drinks-box p {
+.food-menu fieldset h3, .food-menu fieldset p, .drinks-menu fieldset h3, .drinks-menu fieldset p {
     margin: 4px 0;
     padding: 2px;
 }
@@ -335,16 +337,6 @@ h1 {
 .desserts {
     grid-column: 2;
     grid-row: 2;
-}
-
-#drinks-box {
-    margin-right: 35px;
-    padding: 20px 15px 30px 40px; 
-    border: 1px solid transparent; 
-    border-color: black; 
-    box-sizing: border-box; 
-    display: grid;
-    gap: 10px;
 }
 
 /* About us */
@@ -506,19 +498,48 @@ h1 {
 
 /* 1200px */
 
-@media screen and (max-width: 1200px) {
+
+
+@media screen and (max-width: 1400px) {
+
+/* Home 1200px */
+
     #announcements {
         width: 65%;
         height: 500px;
         margin: 50px auto 0 auto;
     }
 
-    .menu-image-wine {
+/* Restaurant Menu 1200px */
+
+     
+    .menu-image-apetizers {
         margin-top: 20px;
-        width: 33%;
-        max-width: 450px;
+        margin-left: 60px;
+        grid-column: 1 / 10;
+        grid-row: 4 / 6;
+    }
+    
+    .menu-image-gelato {
+        margin-top: 20px;
         grid-column: 10 / 20;
-        grid-row: 9;
+        grid-row: 4 / 6;
+    }
+    
+    .menu-image-wine {
+        margin-left: 60px;
+        grid-column: 1 / 10;
+        grid-row: 11;
+    }
+    
+    .food-menu {
+        grid-column: 1 / 20;
+        grid-row: 6 / 9;
+    }
+        
+    .drinks-menu {
+        grid-column: 10 / 20;
+        grid-row: 9 / 15;
     }
 
 }
