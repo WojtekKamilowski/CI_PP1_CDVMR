@@ -483,8 +483,7 @@ h1 {
     margin: auto;
     padding: 40px;
     border: 1px solid transparent;
-    background-color: #0e86d4;
-    color:#fafafa;
+    color: #0e86d4;
 }
 
 .not-found-text input {
