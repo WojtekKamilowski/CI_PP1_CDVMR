@@ -128,7 +128,6 @@ h1 {
 }
 
 #opening-hours{
-    margin-top: 20px;
     height: 200px;
 }
 
@@ -282,6 +281,7 @@ h1 {
 .food-menu {
     grid-column: 1 / 20;
     grid-row: 6 / 9;
+    width: 100%;
 }
 
 .food-menu fieldset {
@@ -297,6 +297,7 @@ h1 {
 .drinks-menu {
     grid-column: 20 / 30;
     grid-row: 6 / 9;
+    width: 100%;
 }
 
 .drinks-menu fieldset {
@@ -479,12 +480,14 @@ h1 {
 }
 
 #not-found-text {
+    margin: auto;
+    padding: 40px;
+    border: 1px solid transparent;
     background-color: #0e86d4;
     color:#fafafa;
 }
 
 .not-found-text input {
-    margin: 5px 0;
     padding: 10px;
     border: 1px solid transparent;
     border-color: #0e86d4;
@@ -493,53 +496,80 @@ h1 {
     color: #fafafa;
 }
 
-
 /* Media queries */ 
 
-/* 1200px */
-
-
+/* 1400px */
 
 @media screen and (max-width: 1400px) {
 
-/* Home 1200px */
+/* Home 1400px */
 
     #announcements {
         width: 65%;
         height: 500px;
-        margin: 50px auto 0 auto;
+        margin: 10px auto 0 auto;
     }
 
-/* Restaurant Menu 1200px */
+/* Restaurant Menu 1400px */
 
-     
     .menu-image-apetizers {
         margin-top: 20px;
-        margin-left: 60px;
+        margin-left: 160px;
         grid-column: 1 / 10;
         grid-row: 4 / 6;
     }
     
     .menu-image-gelato {
         margin-top: 20px;
+        margin-right: 80px;
         grid-column: 10 / 20;
         grid-row: 4 / 6;
     }
     
     .menu-image-wine {
-        margin-left: 60px;
+        margin-left: 160px;
         grid-column: 1 / 10;
         grid-row: 11;
     }
     
     .food-menu {
+        margin: 20px 80px 20px 160px;
         grid-column: 1 / 20;
         grid-row: 6 / 9;
-    }
-        
-    .drinks-menu {
-        grid-column: 10 / 20;
-        grid-row: 9 / 15;
+        width: 90%;
     }
 
+    .food-menu fieldset {
+        margin: 20px 140px 20px 0;
+        padding: 20px 0 20px 20px;
+    }
+     
+    .drinks-menu {
+        margin-right: 80px;
+        margin-bottom: 20px;
+        grid-column: 10 / 20;
+        grid-row: 9 / 15;
+        width: 90%;
+    }
+
+    .drinks-menu fieldset {
+        margin: 20px 40px 20px 0;
+        padding: 20px 0 31px 20px; 
+    }
+
+/* Contact 1400px */
+
+.contact {
+    margin-top: 10px;
+    grid-column: 2;
+    grid-row: 1 / 4;
+    
+}
+
+.map {
+    margin: 20px 80px;
+    grid-column: 2;
+    grid-row: 4 / 8;
+}
+    
 }
