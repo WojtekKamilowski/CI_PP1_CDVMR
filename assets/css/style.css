@@ -526,34 +526,36 @@ h1 {
     }
     
     .menu-image-wine {
-        margin-left: 160px;
-        grid-column: 1 / 10;
-        grid-row: 11;
+        grid-column: 8 / 12;
+        grid-row: 10;
     }
     
     .food-menu {
-        margin: 20px 80px 20px 160px;
+        margin: 10px 80px 10px 160px;
         grid-column: 1 / 20;
         grid-row: 6 / 9;
         width: 90%;
     }
 
     .food-menu fieldset {
-        margin: 20px 140px 20px 0;
+        margin: 20px 160px 20px 0;
         padding: 20px 0 20px 20px;
     }
      
     .drinks-menu {
-        margin-right: 80px;
-        margin-bottom: 20px;
-        grid-column: 10 / 20;
-        grid-row: 9 / 15;
+        margin: 10px 160px 20px 160px;
+        grid-column: 1 / 20;
+        grid-row: 11 / 14;
         width: 90%;
     }
 
     .drinks-menu fieldset {
-        margin: 20px 40px 20px 0;
+        margin: 20px 160px 20px 0;
         padding: 20px 0 31px 20px; 
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-evenly;
     }
 
 /* Contact 1400px */
@@ -571,4 +573,56 @@ h1 {
     grid-row: 4 / 8;
 }
     
+}
+
+/* 1100px */
+
+@media screen and (max-width: 1100px) {
+
+/* 1100px footer */
+
+#address, #address p {
+    margin: 0 20px;
+}
+
+/* 1100px Restaurant Menu */
+
+#restaurant-menu-header {
+    margin: 20px 0;
+    padding: 10px 0;
+    height: 10px;
+    grid-column: 1 / 3;
+    grid-row: 1;
+}
+
+.restaurant-menu {
+    column-gap: 20px;
+}
+
+.menu-image-apetizers {
+    margin-left: 20px;
+    grid-column: 1;
+}
+
+.menu-image-gelato {
+    margin-right: 20px;
+    grid-column: 2;
+}
+
+.menu-image-wine {
+    margin: auto;
+    grid-column: 1 / 3;
+}
+
+.food-menu, .drinks-menu {
+    margin: 20px;
+}
+
+.food-menu fieldset, .drinks-menu fieldset {
+    margin: 0;
+    padding: 5px;
+    max-width: 920px;
+}
+
+
 }
