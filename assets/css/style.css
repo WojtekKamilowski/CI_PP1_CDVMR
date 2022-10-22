@@ -66,6 +66,7 @@ h1 {
     display: flex;
     align-items: center;
     justify-content: right;
+    flex-wrap: wrap;
 }
 
 #menu li {
@@ -104,9 +105,7 @@ h1 {
 }
     
 #announcements {
-    height: 300px;
     margin: 20px 0;
-
 }
 #announcements-box {
     margin: auto;
@@ -128,7 +127,7 @@ h1 {
 }
 
 #opening-hours{
-    height: 200px;
+    margin-bottom: 100px;
 }
 
 #hours-box {
@@ -164,10 +163,12 @@ h1 {
     padding: 1em;
     display: flex;
     align-items: baseline;
-    justify-content: right;
+    justify-content: space-evenly;
     font-family: Raleway, sans-serif;
     background-color: #0e86d4;
     flex-shrink: 0;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 #phone-email {
@@ -185,7 +186,7 @@ h1 {
 
 #address {
     margin: 30px auto;
-    width: 40%; 
+    width: 50%; 
     text-align: center; 
     color: #fafafa; 
 }
@@ -205,7 +206,7 @@ h1 {
 
 #social {
     margin-right: 30px;
-    width: 20%;
+    width: 20%
 }
 
 #social ul {
@@ -694,3 +695,81 @@ h1 {
 
 /* 800px */
 
+@media screen and (max-width: 800px) {
+  
+/* 800px Header */
+
+#logo {
+    margin-top: 2px;
+    margin-left: 20px;
+    letter-spacing: 1px;
+    font-size: 150%;
+}
+
+#menu {
+    letter-spacing: 1px;
+    margin-right: 20px;
+    font-size: 70%;
+}
+
+#menu a {
+    margin-top: 2px;
+    padding: 5px;
+    line-height: 40px;
+}
+
+/* 800px Home */
+
+#plate-image {
+    height: 300px;
+}
+
+#plate-outer {
+    height: 300px;
+}
+
+#announcements {
+    margin-top: 5px;
+    width: 95%;
+}
+
+#hours-box {
+    width: 80%;
+}
+.week {
+    font-size: 100%;
+    font-weight: 900;
+}
+
+#week-days, #weekend {
+    margin-left: 20px;
+    padding-top: 5px;
+    width: 90%;
+    float: left;
+}
+}
+
+/* 550px */
+
+@media screen and (max-width: 550px) {
+
+#my-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex-wrap: nowrap;
+}
+
+#logo {
+    margin-left: 5px;
+}
+
+#menu a {
+    margin-right: 5px;
+}
+
+#announcements {
+    height: 800px;
+}
+
+}
