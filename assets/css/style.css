@@ -479,7 +479,7 @@ h1 {
     background: url('../images/broken_plate.jpg') no-repeat center center;
 }
 
-#not-found-text {
+.not-found-text {
     margin: auto;
     padding: 40px;
     border: 1px solid transparent;
@@ -638,3 +638,4 @@ h1 {
 }
 
 }
+
