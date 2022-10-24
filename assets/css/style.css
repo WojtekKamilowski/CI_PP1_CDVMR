@@ -267,7 +267,7 @@ h1 {
     align-items: center;
     justify-content: space-around;
     gap: 20px;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
 }
 
 /* Restaurant Menu */
@@ -278,6 +278,14 @@ h1 {
     align-items: center;
     justify-content: space-evenly;
     gap: 20px;
+    flex-wrap: nowrap;
+}
+
+/* Food & Drinks Menus h3&p styles */
+
+.food-menu fieldset h3, .food-menu fieldset p, .drinks-menu fieldset h3, .drinks-menu fieldset p {
+    margin: 4px 0;
+    padding: 2px;
 }
 
 /* Food Menu */
@@ -287,12 +295,38 @@ h1 {
 }
 
 .food-menu fieldset {
-    margin: 2vh 1vw;
+    margin: 2vh 1vw 2vh 2vw;
     padding: 5vh 1vw;
     border: 1px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
     gap: 10px;
+    display: grid;
+}
+
+.cuisine-type {
+    font-family: Raleway, sans-serif;
+    font-weight: 600;
+}
+
+.appetizers {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.main-courses {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.salads {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+.desserts {
+    grid-column: 2;
+    grid-row: 2;
 }
 
 /* Drinks Menu */
@@ -300,6 +334,16 @@ h1 {
 .drinks-menu {
     width: 33%;
 }
+
+.drinks-menu fieldset {
+    margin: 2vh 2vw 2vh 1vw;
+    padding: 7.5vh 2vw;
+    border: 1px solid transparent; 
+    border-color: black; 
+    box-sizing: border-box; 
+    gap: 10px;
+}
+
 
 
 /*
@@ -385,10 +429,7 @@ h1 {
     gap: 10px;
 }
 
-.food-menu fieldset h3, .food-menu fieldset p, .drinks-menu fieldset h3, .drinks-menu fieldset p {
-    margin: 4px 0;
-    padding: 2px;
-}
+
 
 .cuisine-type {
     font-family: Raleway, sans-serif;
@@ -616,7 +657,7 @@ h1 {
         margin: 10px auto 0 auto;
     }
 
-/* Restaurant Menu 1400px */
+/* Restaurant Menu 1400px 
 
 
     .menu-image-apetizers {
@@ -668,7 +709,7 @@ h1 {
         align-items: center;
         justify-content: space-evenly;
     }
-
+*/
 /* Contact 1400px */
 
 .contact {
