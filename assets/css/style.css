@@ -270,6 +270,25 @@ h1 {
     flex-wrap: wrap;
 }
 
+/* Restaurant Menu */
+
+/* Food Menu */
+
+.restaurant-menu {
+    grid-column: 1 / 10;
+    grid-row: 6 / 9;
+    width: 100%;
+}
+
+.food-menu fieldset {
+    margin: 20px 40px 20px 35px;
+    padding: 20px;
+    border: 1px solid transparent; 
+    border-color: black; 
+    box-sizing: border-box; 
+    display: grid;
+    gap: 10px;
+}
 
 /*.restaurant-menu{
     display: grid;
@@ -318,22 +337,7 @@ h1 {
     grid-row: 4 / 6;
 }
 
-.food-menu {
-    padding: 0;
-    grid-column: 1 / 10;
-    grid-row: 6 / 9;
-    width: 100%;
-}
 
-.food-menu fieldset {
-    margin: 20px 40px 20px 35px;
-    padding: 20px;
-    border: 1px solid transparent; 
-    border-color: black; 
-    box-sizing: border-box; 
-    display: grid;
-    gap: 10px;
-}
     
 .drinks-menu {
     padding: 0;
