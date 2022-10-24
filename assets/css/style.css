@@ -239,6 +239,21 @@ h1 {
 
 /* Restaurant Menu */
 
+/* Restaurant Menu Header */
+
+.restaurant-menu-header {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Restaurant Menu Header Underline */
+
+
+
 /* Restaurant Menu Images */
 
 .menu-images {
