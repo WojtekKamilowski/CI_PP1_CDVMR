@@ -252,11 +252,16 @@ h1 {
 
 /* Restaurant Menu Header Underline */
 
-
+.menu-hr{
+    border-bottom: 1px solid #0e86d4;
+    border-top: none;
+    width: 100%;
+}
 
 /* Restaurant Menu Images */
 
 .menu-images {
+    margin-top: 2vh;
     display: flex;
     flex-direction: row;
     align-items: center;
