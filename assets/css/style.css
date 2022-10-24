@@ -267,7 +267,6 @@ h1 {
     align-items: center;
     justify-content: space-around;
     gap: 20px;
-    flex-wrap: nowrap;
 }
 
 /* Restaurant Menu */
@@ -278,7 +277,6 @@ h1 {
     align-items: center;
     justify-content: space-evenly;
     gap: 20px;
-    flex-wrap: nowrap;
 }
 
 /* Food & Drinks Menus h3&p styles */
@@ -343,119 +341,6 @@ h1 {
     box-sizing: border-box; 
     gap: 10px;
 }
-
-
-
-/*
-.restaurant-menu {
-    grid-column: 1 / 10;
-    grid-row: 6 / 9;
-    width: 100%;
-}
-
-.food-menu fieldset {
-    margin: 20px 40px 20px 35px;
-    padding: 20px;
-    border: 1px solid transparent; 
-    border-color: black; 
-    box-sizing: border-box; 
-    display: grid;
-    gap: 10px;
-}
-*/
-/*.restaurant-menu{
-    display: grid;
-    column-gap: 10px;
-    row-gap: 5px;
-    column-count: 30;
-}
-
-#restaurant-menu-header {
-    margin: 40px 0;
-    padding: 20px 0;
-    height: 20px;
-    grid-column: 1 / 30;
-    grid-row: 1;
-}
-
-.menu-hr {
-    border-bottom: 1px solid #0e86d4;
-    border-top: none;
-    width: 100%;
-}
-
-#restaurant-menu-header h2 {
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-.menu-image-apetizers {
-    margin-top: 20px;
-    margin-left: 35px;
-    grid-column: 1 / 10;
-    grid-row: 4 / 6;
-}
-
-.menu-image-gelato {
-    margin-top: 20px;
-    grid-column: 10 / 20;
-    grid-row: 4 / 6;
-}
-
-.menu-image-wine {
-    margin-top: 20px;
-    grid-column: 20 / 30;
-    grid-row: 4 / 6;
-}
-
-
-    
-.drinks-menu {
-    padding: 0;
-    grid-column: 20 / 30;
-    grid-row: 6 / 9;
-    width: 100%;
-}
-
-.drinks-menu fieldset {
-    margin: 20px 35px 20px 0;
-    padding: 20px 20px 31px 20px; 
-    border: 1px solid transparent; 
-    border-color: black; 
-    box-sizing: border-box; 
-    display: grid;
-    gap: 10px;
-}
-
-
-
-.cuisine-type {
-    font-family: Raleway, sans-serif;
-    font-weight: 600;
-}
-
-.appetizers {
-    grid-column: 1;
-    grid-row: 1;
-}
-
-.main-courses {
-    grid-column: 1;
-    grid-row: 2;
-}
-
-.salads {
-    grid-column: 2;
-    grid-row: 1;
-}
-
-.desserts {
-    grid-column: 2;
-    grid-row: 2;
-}
-*/
 
 /* About us */
 
@@ -649,7 +534,7 @@ h1 {
     width: 33%;
 }
 
-/* Home 1400px */
+/* 1400px Home */
 
     #announcements {
         width: 65%;
@@ -657,60 +542,13 @@ h1 {
         margin: 10px auto 0 auto;
     }
 
-/* Restaurant Menu 1400px 
+/* 1400px Restaurant Menu */
 
+.menu-images {
+    flex-wrap: wrap;
+}
 
-    .menu-image-apetizers {
-        margin-top: 20px;
-        margin-left: 160px;
-        grid-column: 1 / 10;
-        grid-row: 4 / 6;
-
-    }
-    
-    .menu-image-gelato {
-        margin-top: 20px;
-        margin-right: 80px;
-        grid-column: 10 ;
-        grid-row: 4 / 6;
-    }
-    
-    .menu-image-wine {
-        grid-column: 8 / 10;
-        grid-row: 10;
-    }
-    
-    .food-menu {
-        margin: 10px 80px 10px 160px;
-        padding: 0;
-        grid-column: 1 / 10;
-        grid-row: 6 / 9;
-        width: 90%;
-    }
-
-    .food-menu fieldset {
-        margin: 20px 160px 20px 0;
-        padding: 20px 0 20px 20px;
-    }
-     
-    .drinks-menu {
-        padding: 0;
-        margin: 10px 160px 20px 160px;
-        grid-column: 1 / 10;
-        grid-row: 11 / 14;
-        width: 90%;
-    }
-
-    .drinks-menu fieldset {
-        margin: 20px 160px 20px 0;
-        padding: 20px 0 31px 20px; 
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: space-evenly;
-    }
-*/
-/* Contact 1400px */
+/* 1400px Contact*/
 
 .contact {
     margin-top: 10px;
@@ -727,52 +565,13 @@ h1 {
     
 }
 
+/* 1400px Restaurant Menu */
+
+
+
 /* 1100px */
 
 @media screen and (max-width: 1100px) {
-
-/* 1100px Restaurant Menu */
-
-#restaurant-menu-header {
-    margin: 20px auto 20px 50vw;
-    padding: 10px 0;
-    height: 10px;
-    grid-column: 1 / 3;
-    grid-row: 1;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.restaurant-menu {
-    column-gap: 20px;
-}
-
-.menu-image-apetizers {
-    margin-left: 20px;
-    grid-column: 1;
-}
-
-.menu-image-gelato {
-    margin-right: 20px;
-    grid-column: 2;
-}
-
-.menu-image-wine {
-    margin: auto;
-    grid-column: 1 / 3;
-}
-
-.food-menu, .drinks-menu {
-    margin: 20px;
-    padding: 0;
-}
-
-.food-menu fieldset, .drinks-menu fieldset {
-    margin: 0;
-    padding: 5px;
-    max-width: 920px;
-}
 
 /* 1100px About us */
 
