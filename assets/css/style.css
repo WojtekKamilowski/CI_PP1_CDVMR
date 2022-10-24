@@ -701,6 +701,7 @@ h1 {
 }
 
 #menu {
+    margin-right: 30px;
     letter-spacing: 1px;
 }
 
@@ -800,10 +801,6 @@ h1 {
     justify-content: left;
 }
 
-/*#menu a {
-    margin-right: 5px;
-}
-*/
 
 /* 650px footer */
 
@@ -860,40 +857,9 @@ h1 {
 
 /* 650px Restaurant Menu */
 
-#restaurant-menu-header {
-    margin: 20px 20vw 20px 30vw;
-}
-
-.menu-image-apetizers {
-    margin: 5px 10vw 5px 10vw;
-    width: 90%;
-    max-width: 80vw;
-}
-
-.menu-image-gelato {
-    margin: 5px 10vw 5px 10vw;
-    width: 90%;
-    max-width: 80vw;
-}
-
-.menu-image-wine {
-    margin: 5px 10vw 5px 10vw;
-    width: 90%;
-    max-width: 80vw;
-}
-
-.food-menu {
-    margin: 5px 1vw 5px 1vw;
-    padding: 0;
-    width: 100%;
-    overflow: scroll;
-}
-
-.drinks-menu {
-    margin: 5px 1vw 5px 1vw;
-    padding: 0;
-    width: 100%;
-    overflow: scroll;
+.menu-images img {
+    max-width: 100%;
+    height: auto;
 }
 
 /* 650px Contact */
