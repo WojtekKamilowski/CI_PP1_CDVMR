@@ -955,4 +955,10 @@ h1 {
     flex-wrap: wrap;
 }
 
+/* 250px Contact Menu */
+
+.user-details input {
+    padding: 1vh 1vw;
+}
+
 }
