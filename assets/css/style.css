@@ -294,7 +294,7 @@ h1 {
 
 .food-menu fieldset {
     margin: 2vh 1vw 2vh 2vw;
-    padding: 5vh 1vw;
+    padding: 5vh 2vw;
     border: 1px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
@@ -350,6 +350,8 @@ h1 {
 
 /* About us */
 
+/* Place */
+
 .place {
     display: flex;
     flex-direction: row;
@@ -359,7 +361,7 @@ h1 {
 }
 
 .place-box {
-    margin: 10px 15px 10px 60px;
+    margin: 1vh 1vw 1vh 4vw;
     padding: 35px 20px 40px 20px; 
     border: 1px solid transparent; 
     border-color: black; 
@@ -671,7 +673,8 @@ h1 {
 }
 
 .food-menu fieldset {
-    margin: 0 auto;
+    margin: 2vh auto;
+    padding: 4vh 1vw;
 }
 
 .drinks-menu {
@@ -681,6 +684,7 @@ h1 {
 
 .drinks-menu fieldset {
     margin: 2vh auto;
+    padding: 4vh 1vw;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
