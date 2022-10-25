@@ -874,7 +874,23 @@ h1 {
 
 @media screen and (max-width: 250px) {
 
-    /* 250px Header */
+/* 250px Header */
 
+#logo {
+    padding-top: 2vh;
+    margin-left: 1vw;
+    font-size: 100%;
+    line-height: 20px; 
+    max-height: 20px;
+}
+  
+#menu {
+    margin-left: 1vw;
+    padding-bottom: 1vh;
+    font-size: 40%;
+    line-height: 20px;
+}
+
+/* 250px Home */
 
 }
