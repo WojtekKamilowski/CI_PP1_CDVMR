@@ -109,11 +109,12 @@ h1 {
 }
     
 #announcements {
-    margin: 20px 0;
+    margin: 5vh 10vw;
 }
+
 #announcements-box {
     margin: auto;
-    padding: 20px; 
+    padding: 5vh 5vw; 
     border: 2px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
@@ -121,8 +122,7 @@ h1 {
 }
 
 .info-box {
-    
-    margin: 0 auto;
+    margin: 4vh auto;
     padding: 20px; 
     border: 1px solid transparent; 
     border-color: black;
@@ -927,7 +927,17 @@ h1 {
 }
 }
 
-
 /* 250px Home */
 
+#announcements-box {
+    width: 100%;
+    height: auto;
+    padding: 0;
+}
 
+#opening-hours {
+    margin-top: 40vh;
+    width: 100%;
+    padding: 0;
+    height: auto;
+}
