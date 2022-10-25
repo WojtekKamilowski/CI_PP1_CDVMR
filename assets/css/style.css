@@ -354,7 +354,6 @@ h1 {
     line-height: 30px;
 }
 
-
 /* Place */
 
 .place {
@@ -575,73 +574,6 @@ h1 {
     
 }
 
-/* 1200px */
-
-@media screen and (max-width: 1200px) {
-
-/* 1200px About us */
-
-.place {
-    flex-wrap: wrap;
-}
-
-.place-text {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin: 0 5vw;
-}
-
-.place-photo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  
-}
-
-.chef-photo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-    
-.chef {
-    flex-wrap: wrap;
-}
-
-.chef-text {
-    margin-top: 20px;
-    margin-right: 5vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 95%;
-}
-
-
-
-.chef-box {
-    margin: 0 5vw 0 60px;
-}
-
-
-
-.chef-photo img {
-    margin-right: 50px;
-}
-
-.guests {
-    margin-top: 20px;
-}
-
-.guests-box {
-    padding-right: 20px;
-    margin-right: 10vw;
-}
-
-
-}
-
 /* 950px */
 
 @media screen and (max-width: 950px) {
@@ -686,6 +618,44 @@ h1 {
     flex-direction: row;
     justify-content: space-evenly;
     align-items: center;
+}
+
+/* 950px About us */
+
+.place {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.place-box {
+    margin: 2vh 2vw;
+}
+
+.place-photo {
+    margin: 2vh 2vw;
+}
+
+.chef {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.chef-box {
+    margin: 2vh 2vw;
+}
+
+.chef-photo {
+    margin: 2vh 2vw;
+}
+
+.guests-box {
+    margin: 2vh 2vw;
 }
 
 }
@@ -781,7 +751,6 @@ h1 {
 
 /* 650px Header */
 
-
 #logo {
     padding-top: 20px;
     margin-left: 20px;
@@ -859,6 +828,13 @@ h1 {
 /* 650px Restaurant Menu */
 
 .menu-images img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* 650px About us */
+
+.place-photo img, .chef-photo img {
     max-width: 100%;
     height: auto;
 }
