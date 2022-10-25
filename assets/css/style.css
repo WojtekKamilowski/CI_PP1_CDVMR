@@ -356,13 +356,13 @@ h1 {
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-items: center;
+    justify-content: center;
     column-gap: 20px;
 }
 
 .place-box {
     margin: 1vh 1vw 1vh 4vw;
-    padding: 35px 20px 40px 20px; 
+    padding: 5vh 2vw; 
     border: 1px solid transparent; 
     border-color: black; 
     box-sizing: border-box;
@@ -373,33 +373,35 @@ h1 {
 }
 
 .place-photo {
-    margin-top: 20px;
-    margin-right: 60px;
+    margin-top: 2vh;
+    margin-right: 4vw;
 }
+
+/* Chef */
 
 .chef {
     display: flex;
     flex-direction: row;
+    justify-content: center;
     align-items: center;
     column-gap: 20px;
 }
 
 .chef-photo {
-    margin-top: 20px;
-    margin-left: 60px;
+    margin-top: 2vh;
+    margin-left: 4vw;
+}
+
+.chef-text {
+    margin-top: 1vh;
 }
 
 .chef-box {
-    margin: 10px 60px 10px 15px;
-    padding: 98px 20px;
+    margin: 1vh 4vw 1vh 1vw;
+    padding: 14vh 2vw;
     border: 1px solid transparent; 
     border-color: black; 
-    box-sizing: border-box;
-}
-
-.guests {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    box-sizing: border-box; 
 }
 
 .guests-box {
