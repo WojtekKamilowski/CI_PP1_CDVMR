@@ -177,8 +177,7 @@ h1 {
 }
 
 #phone-email {
-    margin-left: 30px;
-    width: 20%;
+    margin-left: 2vw;
     color: #fafafa;
 }
 
@@ -525,25 +524,6 @@ h1 {
 /* 1400px */
 
 @media screen and (max-width: 1400px) {
-
-/*
-
-/* 1400px footer */
-
-#phone-email {
-    margin: 0 0 0 30px;
-    width: 33%;
-}
-
-#address{
-    margin: 0 30px 15px 0;
-    line-height: 30px;
-    width: 33%;
-}
-
-#social {
-    width: 33%;
-}
 
 /* 1400px Home */
 
