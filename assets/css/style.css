@@ -402,16 +402,18 @@ h1 {
     box-sizing: border-box; 
 }
 
+/* Guests Reviews */
+
 .guests-box {
-    margin: 10px 60px;
-    padding: 20px;
+    margin: 2vh 4vw;
+    padding: 2rem;
     border: 1px solid transparent; 
     border-color: black; 
     box-sizing: border-box;
 }
 
 .guests-box ul{
-    margin-left: 10px;
+    margin-left: 1vw;
 }
 
 /* Contact */
@@ -573,11 +575,11 @@ h1 {
     
 }
 
-/* 1100px */
+/* 1200px */
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 1200px) {
 
-/* 1100px About us */
+/* 1200px About us */
 
 .place {
     flex-wrap: wrap;
@@ -587,19 +589,20 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 95%;
-    margin-right: 5vw;
+    margin: 0 5vw;
 }
 
 .place-photo {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 90%;
+  
 }
 
-.place-photo img {
-    margin-left: 70px;
+.chef-photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
     
 .chef {
@@ -615,16 +618,13 @@ h1 {
     width: 95%;
 }
 
+
+
 .chef-box {
     margin: 0 5vw 0 60px;
 }
 
-.chef-photo {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 90%;
-}
+
 
 .chef-photo img {
     margin-right: 50px;
@@ -638,6 +638,7 @@ h1 {
     padding-right: 20px;
     margin-right: 10vw;
 }
+
 
 }
 
