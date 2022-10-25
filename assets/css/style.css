@@ -428,9 +428,14 @@ h1 {
 
 /* Contact Form */
 
+.contact {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
 .contact-box {
     margin: 1vh 4vw;
-    padding: 4vh 2vw; 
+    padding: 3vh 1vw; 
     border: 2px solid transparent; 
     border-color: black; 
     box-sizing: border-box;
@@ -462,6 +467,13 @@ h1 {
     padding: 1vh 2vw;
     border: 1px solid transparent;
     border-color: black;
+}
+
+/* Map */
+
+.map {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
 }
 
 /* 404 */
@@ -828,57 +840,33 @@ h1 {
     height: auto;
 }
 
-/* 650px Contact 
-
-.contact {
-    margin-left: 10px;
-    width: 100%;
-    max-width: 90vw;
-    height: 500px;
-}
-
-.contact-box {
-    margin: 2px;
-    width: 90%;
-    max-width: 80vw;
-    height: 480px;
-}
+/* 650px Contact */
 
 .contact-box legend {
-    font-size: 70%;
-    text-align: center;
+    font-size: 60%;
 }
 
-.message-box, .contact-form {
-    margin: 0 2px;
-    width: 80%;
-    padding: 2px;
-    max-width: 50vw;
+.contact-box, .message-box {
+    margin: 2vh 1vw;
+    padding: 1vw;
 }
 
 .user-details {
-    width: 70%;
     max-width: 30vw;
 }
 
 #text-input {
-    height: 200px;
-    width: 70%;
-    max-width: 30vw;
-}
-
-.message-box legend {
-    font-size: 50%;
+    max-width: 80vw;
 }
 
 .map {
-    margin: 10px 10px 10px 20px;
+    margin: 2vh 1vw;
 }
 
 .map iframe {
-    max-width: 70vw;
-    max-height: 600px;
+    max-width: 85vw;
+    height: auto;
 }
-*/
+
 }
 
