@@ -185,7 +185,6 @@ h1 {
     padding: 0;
     border: 0;
     height: 4vh;
-    text-align: center;
 }
 
 #address {
@@ -223,7 +222,7 @@ h1 {
 }
 
 #social a {
-    margin: 10px 20px;
+    margin: 1vh 2vw;
     padding: 30px 0;
     border: 30px 0;
     text-decoration: none;
@@ -630,7 +629,7 @@ h1 {
 
 @media screen and (max-width: 800px) {
   
-/* 800px Header */
+/* 800px header */
 
 #logo {
     margin-top: 2px;
@@ -646,6 +645,40 @@ h1 {
     margin-top: 2px;
     padding: 5px;
     line-height: 40px;
+}
+
+/* 800px footer */
+
+#my-footer {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+#phone-email {
+    margin: 1vh 4vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+#address {
+    margin-top: 1vh;
+    margin-left: 4vw;
+    margin-bottom: 0;
+    padding-right: 0;
+    text-align: left;
+}
+
+#social {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#social ul {
+    margin: 1vh 2vw;
 }
 
 /* 800px Home */
@@ -678,37 +711,6 @@ h1 {
     float: left;
 }
 
-/* 800px Contact 
-
-.contact {
-    margin-left: 50px;
-    width: 90%;
-    max-width: 80vw;
-    max-height: 600px;
-}
-
-.contact-box {
-    margin-left: 0;
-    width: 90%;
-    max-width: 80vw;
-    max-height: 600px;
-}
-
-.user-details, #text-input, .message-box {
-    width: 90%;
-    max-width: 80vw;
-    max-height: 600px;
-}
-
-.map {
-    margin: 5px 2vw;
-}
-
-.map iframe {
-    max-width: 80vw;
-    max-height: 600px;
-}
-*/
 }
 
 /* 650px */
@@ -735,41 +737,6 @@ h1 {
 
 #menu ul {
     justify-content: left;
-}
-
-
-/* 650px footer */
-
-#my-footer {
-    padding-top: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: stretch;
-    flex-wrap: nowrap;
-}
-
-#phone-email {
-    margin: 20px;
-    padding-top: 5px;
-    padding-bottom: 20px;
-    width: 90%;
-}
-
-#address {
-    margin-top: 20px;
-    margin-left: 20px;
-    padding-right: 0;
-    text-align: left;
-    width: 90%;
-}
-
-#social {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    align-items: center;
-    width: 90%;
-
 }
 
 /* 650px Home */
