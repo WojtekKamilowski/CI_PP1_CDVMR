@@ -891,6 +891,43 @@ h1 {
     line-height: 20px;
 }
 
+/* 250px Footer */
+
+#phone-email { 
+    margin: 1vh 1vw;
+    padding: 0;
+    max-width: 80vw;
+    height: auto;
+}
+
+#phone-email p {
+    font-size: 60%;
+}
+
+#address { 
+    margin: 1vh 1vw;
+    padding: 0;
+    max-width: 80vw;
+    height: auto;
+}
+
+#address a {
+    font-size: 60%;
+}
+
+#social ul {
+    margin: 1vh 2vw;
+    padding: 0;
+    max-width: 80vw;
+    height: auto;
+}
+
+#social a {
+    font-size: 90%;
+}
+}
+
+
 /* 250px Home */
 
-}
+
