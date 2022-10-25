@@ -818,7 +818,7 @@ h1 {
 }
 
 #opening-hours {
-    margin-top: 15vh;
+    margin-top: 20vh;
     margin-bottom: 40vh;
 }
 
@@ -870,3 +870,11 @@ h1 {
 
 }
 
+/* 250px */
+
+@media screen and (max-width: 250px) {
+
+    /* 250px Header */
+
+
+}
