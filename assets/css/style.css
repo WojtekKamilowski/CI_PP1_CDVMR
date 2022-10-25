@@ -346,9 +346,14 @@ h1 {
     align-items: flex-start;
 }
 
-
-
 /* About us */
+
+/* About us paragraphs */
+
+.place-box p, .chef-box p, .guests-box p {
+    line-height: 30px;
+}
+
 
 /* Place */
 
@@ -368,10 +373,6 @@ h1 {
     box-sizing: border-box;
 }
 
-.place-box p, .chef-box p, .guests-box p {
-    line-height: 30px;
-}
-
 .place-photo {
     margin-top: 2vh;
     margin-right: 4vw;
@@ -382,18 +383,15 @@ h1 {
 .chef {
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: baseline;
     align-items: center;
     column-gap: 20px;
 }
 
 .chef-photo {
-    margin-top: 2vh;
+    margin-top: 3vh;
+    margin-bottom: 1vh;
     margin-left: 4vw;
-}
-
-.chef-text {
-    margin-top: 1vh;
 }
 
 .chef-box {
@@ -574,10 +572,6 @@ h1 {
 }
     
 }
-
-/* 1400px Restaurant Menu */
-
-
 
 /* 1100px */
 
