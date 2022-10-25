@@ -131,7 +131,8 @@ h1 {
 }
 
 #opening-hours{
-    margin-bottom: 100px;
+    margin-top: 40vh;
+    margin-bottom: 40vh;
 }
 
 #hours-box {
@@ -557,22 +558,7 @@ h1 {
 .menu-images {
     flex-wrap: wrap;
 }
-
-/* 1400px Contact
-
-.contact {
-    margin-top: 10px;
-    grid-column: 2;
-    grid-row: 1 / 4;
-    
-}
-
-.map {
-    margin: 20px 80px;
-    grid-column: 2;
-    grid-row: 4 / 8;
-}
-*/   
+  
 }
 
 /* 950px */
@@ -817,11 +803,6 @@ h1 {
     width: 100%;
 }
 
-#opening-hours {
-    margin-top: 20vh;
-    margin-bottom: 40vh;
-}
-
 #hours-box {
     width: 95%;
 }
@@ -925,7 +906,6 @@ h1 {
 #social a {
     font-size: 90%;
 }
-}
 
 /* 250px Home */
 
@@ -940,4 +920,39 @@ h1 {
     width: 100%;
     padding: 0;
     height: auto;
+}
+
+/* 250px Restaurant Menu */
+
+.food-menu fieldset {
+    margin: 1vh 1vw;
+    padding: 41h 1vw;
+    gap: 5px;
+}
+
+.appetizers {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.main-courses {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.salads {
+    grid-column: 1;
+    grid-row: 3;
+}
+
+.desserts {
+    grid-column: 1;
+    grid-row: 4;
+}
+
+.drinks-menu fieldset {
+    padding: 1vh 2vw;
+    flex-wrap: wrap;
+}
+
 }
