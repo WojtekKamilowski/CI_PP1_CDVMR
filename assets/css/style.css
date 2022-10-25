@@ -173,7 +173,6 @@ h1 {
     background-color: #0e86d4;
     flex-shrink: 0;
     flex-direction: row;
-    flex-wrap: wrap;
 }
 
 #phone-email {
@@ -186,20 +185,20 @@ h1 {
     padding: 0;
     border: 0;
     height: 4vh;
+    text-align: center;
 }
 
 #address {
-    margin: 30px auto;
-    width: 50%; 
+    margin: 4vh 6vw 4vh 12vw;
     text-align: center; 
     color: #fafafa; 
 }
 
 #address a {
-    margin-bottom: 20px;
+    margin-bottom: 2vh;
     padding: 0;
     border: 0;
-    height: 20px;
+    height: 1vh;
     color: #fafafa; 
     text-decoration: none;
 }
