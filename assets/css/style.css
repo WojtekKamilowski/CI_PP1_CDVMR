@@ -347,7 +347,7 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
 }
 
 .place-box p, .chef-box p, .guests-box p {
@@ -357,18 +357,17 @@ h1 {
 /* Place */
 
 .place {
-    margin: 4vh auto;
+    margin: 4vh 2vw;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     column-gap: 20px;
-    max-width: 80%;
 }
 
 .place-box {
     margin: 1vh 1vw 1vh 4vw;
-    padding: 5vh 2vw; 
+    padding: 9vh 2vw; 
     border: 1px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
@@ -382,12 +381,12 @@ h1 {
 /* Chef */
 
 .chef {
+    margin: 4vh 4vw;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
     column-gap: 20px;
-    max-width: 80%;
 }
 
 .chef-photo {
@@ -407,7 +406,7 @@ h1 {
 /* Guests Reviews */
 
 .guests {
-    max-width: 80%;
+    margin: 4vh 1vw;
 } 
 
 .guests-box {
