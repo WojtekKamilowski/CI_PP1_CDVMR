@@ -112,7 +112,7 @@ h1 {
     background: url('../images/food_plate.jpg') no-repeat center center;
 }
 
-/* Users notice board */
+/* notice board */
 
 #notice-board {
     display: flex;
@@ -126,7 +126,7 @@ h1 {
 }
 
 #announcements-box {
-    margin: auto;
+    margin: 2vh 2vw;
     padding: 5vh 5vw; 
     border: 2px solid transparent; 
     border-color: black; 
@@ -134,26 +134,23 @@ h1 {
 }
 
 .info-box {
-    margin: 4vh auto;
-    padding: 20px; 
+    margin: 4vh 4vw;
+    padding: 2em; 
     border: 1px solid transparent; 
     border-color: black;
     box-sizing: border-box; 
-    width: 80%;
 }
 
 #opening-hours{
-    margin-top: 40vh;
-    margin-bottom: 40vh;
+    margin: 4vh 4vw;
 }
 
 #hours-box {
-    margin: 0 auto;
+    margin: 4vh 8vw;
     padding: 10px; 
     border: 2px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
-    width: 66%;
 }
 
 #week-days {
