@@ -219,7 +219,7 @@ h1 {
 
 #social a {
     margin: 1vh 2vw;
-    padding: 30px 0;
+    padding: 2vh 0;
     border: 30px 0;
     text-decoration: none;
     text-align: center;
@@ -666,6 +666,7 @@ h1 {
 }
 
 #social {
+    margin-bottom: 6vh;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -816,7 +817,7 @@ h1 {
 /* 250px Footer */
 
 #phone-email { 
-    margin: 1vh 1vw;
+    margin: 1vh 2vw;
     max-width: 80vw;
     height: auto;
 }
@@ -826,7 +827,7 @@ h1 {
 }
 
 #address { 
-    margin: 1vh 1vw;
+    margin: 1vh 4vw;
     max-width: 80vw;
     height: auto;
 }
@@ -835,8 +836,12 @@ h1 {
     font-size: 60%;
 }
 
+#social {
+    line-height: 30px;
+}
+
 #social ul {
-    margin: 1vh 2vw;
+    margin: 1vh 4vw;
     padding: 0;
     max-width: 80vw;
     height: auto;
@@ -844,7 +849,6 @@ h1 {
 
 #social a {
     font-size: 90%;
-    
 }
 
 /* 250px Home */
