@@ -84,6 +84,18 @@ h1 {
     font-family: Raleway, sans-serif;
 }
 
+/* nav menu buttons */
+
+#menu a:hover {
+    border-bottom: 1px solid #fafafa;
+}
+
+.active {
+    border-bottom: 1px solid #fafafa;
+}
+
+/* Home */
+
 /* plate image */
 
 #plate-outer {
@@ -100,14 +112,15 @@ h1 {
     background: url('../images/food_plate.jpg') no-repeat center center;
 }
 
-#menu a:hover {
-    border-bottom: 1px solid #fafafa;
+/* Users notice board */
+
+#notice-board {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-evenly;
 }
 
-.active {
-    border-bottom: 1px solid #fafafa;
-}
-    
 #announcements {
     margin: 5vh 10vw;
 }
@@ -118,7 +131,6 @@ h1 {
     border: 2px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
-    width: 66%;
 }
 
 .info-box {
