@@ -597,6 +597,7 @@ h1 {
 /* 950px About us */
 
 .place {
+    margin: 2vh 4vw;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -605,14 +606,16 @@ h1 {
 }
 
 .place-box {
-    margin: 2vh 2vw;
+    margin: 2vh 4vw;
+    padding: 4vh 4vw;
 }
 
 .place-photo {
-    margin: 2vh 2vw;
+    margin: 0;
 }
 
 .chef {
+    margin: 2vh 4vw;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -622,14 +625,20 @@ h1 {
 
 .chef-box {
     margin: 2vh 2vw;
+    padding: 4vh 4vw;
 }
 
 .chef-photo {
-    margin: 2vh 2vw;
+    margin: 0;
+}
+
+.guests {
+    margin: 2vh 4vw;
 }
 
 .guests-box {
     margin: 2vh 2vw;
+    padding: 4vh 4vw;
 }
 
 }
