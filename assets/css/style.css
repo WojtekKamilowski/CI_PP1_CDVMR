@@ -474,14 +474,13 @@ h1 {
 /* 404 */
 
 #broken-plate-outer {
-    margin: 25vh 0;
-    height: 900px;
+    height: 1200px;
     width: 100%;
     overflow: hidden;
 }
 
 #broken-plate-image {
-    height: 900px;
+    height: 1200px;
     width: 100%;
     background: url('../images/broken_plate.jpg') no-repeat center center;
     display: flex;
