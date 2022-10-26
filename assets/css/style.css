@@ -155,19 +155,22 @@ h1 {
     border: 2px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-evenly;
 }
 
 #week-days {
-    margin-left: 2em;
-    padding-top: 1em;
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
     width: 45%;
-    float: left;
 }
 
 #weekend {
-    padding-top: 10px;
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
     width: 45%;
-    float: right;
 }
 
 .week {
@@ -549,14 +552,6 @@ h1 {
 
 @media screen and (max-width: 1400px) {
 
-/* 1400px Home */
-
-    #announcements {
-        width: 65%;
-        height: 500px;
-        margin: 10px auto 0 auto;
-    }
-
 /* 1400px Restaurant Menu */
 
 .menu-images {
@@ -579,6 +574,12 @@ h1 {
 #menu {
     font-size: 100%;
     letter-spacing: 2px;   
+}
+
+/* 950px Home */
+
+.week {
+    font-size: 150%;
 }
 
 /* 950px Restaurant Menu */
@@ -726,26 +727,6 @@ h1 {
     height: 300px;
 }
 
-#announcements {
-    margin-top: 5px;
-    width: 95%;
-}
-
-#hours-box {
-    width: 80%;
-}
-.week {
-    font-size: 100%;
-    font-weight: 900;
-}
-
-#week-days, #weekend {
-    margin-left: 20px;
-    padding-top: 5px;
-    width: 90%;
-    float: left;
-}
-
 }
 
 /* 650px */
@@ -772,20 +753,6 @@ h1 {
 
 #menu ul {
     justify-content: left;
-}
-
-/* 650px Home */
-
-#announcements {
-    margin-bottom: 15vh;
-}
-
-#announcements-box {
-    width: 100%;
-}
-
-#hours-box {
-    width: 95%;
 }
 
 /* 650px Restaurant Menu */
@@ -888,21 +855,6 @@ h1 {
 
 #social a {
     font-size: 90%;
-}
-
-/* 250px Home */
-
-#announcements-box {
-    width: 100%;
-    height: auto;
-    padding: 0;
-}
-
-#opening-hours {
-    margin-top: 40vh;
-    width: 100%;
-    padding: 0;
-    height: auto;
 }
 
 /* 250px Restaurant Menu */
