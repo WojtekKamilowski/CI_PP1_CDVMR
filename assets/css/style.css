@@ -553,12 +553,12 @@ h1 {
 
 @media screen and (max-width: 1400px) {
 
-/* 1400px Restaurant Menu */
+/* 1400px Restaurant Menu */ 
 
 .menu-images {
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
 }
-  
+
 }
 
 /* 950px */
@@ -873,13 +873,21 @@ h1 {
 
 /* 250px Home */
 
+legend {
+    font-size: 50%;
+}
+
 #announcements, #opening-hours {
     margin: 1vh 1vw;
 }
 
 #announcements-box, #hours-box {
     margin: 1vh 1vw;
-    padding: 1vh 1vw;
+    padding: 0;
+}
+
+.info-box, #week-days, #weekend, .hours {
+    padding: 0;
 }
 
 .week {
@@ -925,8 +933,16 @@ h1 {
 
 /* 250px Contact */
 
+.contact-box, .message-box {
+    max-width: 60%;
+}
+
+.user-details input, .contact-box, .message-box, form {
+    padding: 0;
+}
+
 .user-details input {
-    padding: 1vh 1vw;
+    width: 70vw;
 }
 
 }
