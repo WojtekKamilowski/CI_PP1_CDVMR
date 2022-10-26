@@ -188,16 +188,12 @@ h1 {
 }
 
 #address {
-    margin: 4vh 6vw 4vh 12vw;
+    margin: 4vh 10vw 4vh 12vw;
     text-align: center; 
     color: #fafafa; 
 }
 
 #address a {
-    margin-bottom: 2vh;
-    padding: 0;
-    border: 0;
-    height: 1vh;
     color: #fafafa; 
     text-decoration: none;
 }
@@ -654,20 +650,19 @@ h1 {
     display: flex;
     flex-direction: column;
     align-items: stretch;
-}
+}  
 
 #phone-email {
-    margin: 1vh 4vw;
+    margin: 2vh 4vw;
     padding-top: 2vh;
     padding-bottom: 2vh;
 }
 
 #address {
-    margin-top: 1vh;
-    margin-left: 4vw;
-    margin-bottom: 0;
+    margin: 6vh 4vw;
     padding-right: 0;
     text-align: left;
+    line-height: 30px;
 }
 
 #social {
@@ -822,7 +817,6 @@ h1 {
 
 #phone-email { 
     margin: 1vh 1vw;
-    padding: 0;
     max-width: 80vw;
     height: auto;
 }
@@ -833,7 +827,6 @@ h1 {
 
 #address { 
     margin: 1vh 1vw;
-    padding: 0;
     max-width: 80vw;
     height: auto;
 }
@@ -851,6 +844,7 @@ h1 {
 
 #social a {
     font-size: 90%;
+    
 }
 
 /* 250px Home */
