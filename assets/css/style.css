@@ -524,8 +524,8 @@ h1 {
 }
 
 .not-found-text {
-    margin: 5px auto;
-    padding: 10vh 20vw;
+    margin: 2vh auto;
+    padding: 2vh 10vw;
     border: 1px solid transparent;
     color: #0e86d4;
 }
