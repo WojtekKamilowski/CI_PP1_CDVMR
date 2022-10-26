@@ -112,7 +112,7 @@ h1 {
     background: url('../images/food_plate.jpg') no-repeat center center;
 }
 
-/* notice board */
+/* Notice Board */
 
 #notice-board {
     display: flex;
@@ -120,6 +120,8 @@ h1 {
     align-items: stretch;
     justify-content: space-evenly;
 }
+
+/* Announcements */
 
 #announcements {
     margin: 5vh 10vw;
@@ -141,6 +143,8 @@ h1 {
     box-sizing: border-box; 
 }
 
+/* Opening Hours */
+
 #opening-hours{
     margin: 4vh 4vw;
 }
@@ -154,8 +158,8 @@ h1 {
 }
 
 #week-days {
-    margin-left: 30px;
-    padding-top: 10px;
+    margin-left: 2em;
+    padding-top: 1em;
     width: 45%;
     float: left;
 }
@@ -169,6 +173,10 @@ h1 {
 .week {
     font-size: 200%;
     font-weight: 900;
+}
+
+.hours {
+    font-size: 150%;
 }
 
 /* footer */
