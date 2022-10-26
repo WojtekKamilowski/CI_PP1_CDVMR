@@ -404,7 +404,11 @@ h1 {
 /* Guests Reviews */
 
 .guests {
-    margin: 4vh 1vw;
+    margin: 4vh 4vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
 } 
 
 .guests-box {
