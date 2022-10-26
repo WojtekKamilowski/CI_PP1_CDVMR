@@ -346,7 +346,7 @@ h1 {
 #about-us {
     display: flex;
     flex-direction: column;
-    align-items: center;
+    align-items: stretch;
     justify-content: space-evenly;
 }
 
@@ -357,7 +357,7 @@ h1 {
 /* Place */
 
 .place {
-    margin: 4vh 2vw;
+    margin: 4vh 4vw 4vh 8vw;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -366,8 +366,7 @@ h1 {
 }
 
 .place-box {
-    margin: 1vh 1vw 1vh 4vw;
-    padding: 9vh 2vw; 
+    padding: 3em 2em 2em 2em;
     border: 1px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
