@@ -508,13 +508,13 @@ h1 {
 /* 404 */
 
 #broken-plate-outer {
-    height: 1000px;
+    height: 950px;
     width: 100%;
     overflow: hidden;
 }
 
 #broken-plate-image {
-    height: 1000px;
+    height: 950px;
     width: 100%;
     background: url('../images/broken_plate.jpg') no-repeat center center;
     display: flex;
@@ -525,13 +525,13 @@ h1 {
 
 .not-found-text {
     margin: 5px auto;
-    padding: 40px;
+    padding: 10vh 20vw;
     border: 1px solid transparent;
     color: #0e86d4;
 }
 
-.not-found-text a {
-    padding: 10px;
+#broken-plate-image a {
+    padding: 2vh 4vw;
     border: 1px solid transparent;
     border-color: #0e86d4;
     width: 50px;
@@ -544,8 +544,6 @@ h1 {
     text-align: center;
     vertical-align: middle;
 }
-
-
 
 /* Media queries */ 
 
