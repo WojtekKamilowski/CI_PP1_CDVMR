@@ -124,7 +124,7 @@ h1 {
 /* Announcements */
 
 #announcements {
-    margin: 5vh 10vw;
+    margin: 2vh 10vw;
 }
 
 #announcements-box {
@@ -137,7 +137,7 @@ h1 {
 
 .info-box {
     margin: 4vh 4vw;
-    padding: 2em; 
+    padding: 4vh 4vw; 
     border: 1px solid transparent; 
     border-color: black;
     box-sizing: border-box; 
@@ -145,13 +145,13 @@ h1 {
 
 /* Opening Hours */
 
-#opening-hours{
+#opening-hours {
     margin: 4vh 4vw;
 }
 
 #hours-box {
-    margin: 4vh 8vw;
-    padding: 10px; 
+    margin: 2vh 8vw;
+    padding: 2vh 2vw; 
     border: 2px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
@@ -179,6 +179,7 @@ h1 {
 }
 
 .hours {
+    padding: 2vh 0;
     font-size: 150%;
 }
 
@@ -582,6 +583,10 @@ h1 {
     font-size: 150%;
 }
 
+.hours {
+    font-size: 100%;
+}
+
 /* 950px Restaurant Menu */
 
 .restaurant-menu {
@@ -755,6 +760,15 @@ h1 {
     justify-content: left;
 }
 
+/* 650px Home */
+
+#hours-box {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: space-evenly;
+}
+
 /* 650px Restaurant Menu */
 
 .menu-images img {
@@ -857,11 +871,30 @@ h1 {
     font-size: 90%;
 }
 
+/* 250px Home */
+
+#announcements, #opening-hours {
+    margin: 1vh 1vw;
+}
+
+#announcements-box, #hours-box {
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
+}
+
+.week {
+    font-size: 100%;
+}
+
+.hours {
+    font-size: 50%;
+}
+
 /* 250px Restaurant Menu */
 
 .food-menu fieldset {
     margin: 1vh 1vw;
-    padding: 41h 1vw;
+    padding: 1vh 1vw;
     gap: 5px;
 }
 
