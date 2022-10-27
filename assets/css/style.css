@@ -519,8 +519,8 @@ h1 {
     background: url('../images/broken_plate.jpg') no-repeat center center;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 .not-found-text {
