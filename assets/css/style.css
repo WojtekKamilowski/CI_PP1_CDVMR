@@ -524,7 +524,7 @@ h1 {
     margin-top: 20vh;
 }
 
-.not-found-text h2, .not-found-text p {
+#broken-plate-image h2, #broken-plate-image p {
     padding: 1vh 5vw;
     color: #0e86d4;
 }
