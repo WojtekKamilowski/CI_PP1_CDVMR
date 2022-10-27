@@ -522,9 +522,12 @@ h1 {
 
 #broken-plate-image h2 {
     margin-top: 20vh;
+    padding: 1vh 5vw;
+    color: #0e86d4;
 }
 
-#broken-plate-image h2, #broken-plate-image p {
+#broken-plate-image p {
+    margin: 4vh 2vw;
     padding: 1vh 5vw;
     color: #0e86d4;
 }
