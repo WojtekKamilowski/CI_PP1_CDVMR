@@ -65,7 +65,7 @@ h1 {
 }
 
 #menu ul {
-    margin-right: 0;
+    margin-right: 4vw;
     padding-right: 0;
     display: flex;
     align-items: center;
@@ -524,20 +524,22 @@ h1 {
 }
 
 .not-found-text {
-    margin: 1vh auto;
+    margin: 10vh auto;
     padding: 1vh 5vw;
     border: 1px solid transparent;
     color: #0e86d4;
 }
 
 #broken-plate-image a {
-    padding: 2vh auto;
+    padding: 20px;
     border: 1px solid transparent;
     border-color: #0e86d4;
     width: 50px;
     background-color: #0e86d4;
     color: #fafafa;
     text-decoration: none;
+    text-align: center;
+    vertical-align: center;
 }
 
 .not-found-text h2, .not-found-text p {
