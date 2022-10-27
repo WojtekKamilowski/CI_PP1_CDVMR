@@ -514,14 +514,14 @@ h1 {
     height: 950px;
     width: 100%;
     background: url('../images/broken_plate.jpg') no-repeat center center;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    align-items: center;
 }
 
 .not-found-text {
     margin-top: 20vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
 }
 
 .not-found-text h2, .not-found-text p {
