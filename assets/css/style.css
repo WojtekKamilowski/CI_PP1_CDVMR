@@ -511,7 +511,6 @@ h1 {
 }
 
 #broken-plate-image {
-    margin-top: 20vh;
     height: 950px;
     width: 100%;
     background: url('../images/broken_plate.jpg') no-repeat center center;
@@ -519,6 +518,10 @@ h1 {
     flex-direction: column;
     justify-content: flex-start;
     align-items: center;
+}
+
+#broken-plate-image h2 {
+    margin-top: 20vh;
 }
 
 .not-found-text h2, .not-found-text p {
