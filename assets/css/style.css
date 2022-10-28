@@ -522,7 +522,7 @@ h1 {
 
 #broken-plate-image h2 {
     margin-top: 30vh;
-    margin-right: 10vw;
+    margin-right: 8vw;
     padding: 1vh 5vw;
     color: #0e86d4;
     font-size: 200%;
@@ -530,7 +530,7 @@ h1 {
 
 #broken-plate-image p {
     margin-top: 4vh;
-    margin-right: 10vw;
+    margin-right: 8vw;
     margin-bottom: 4vh;
     padding: 1vh 5vw;
     color: #0e86d4;
@@ -538,7 +538,7 @@ h1 {
 }
 
 #broken-plate-image a {
-    margin-right: 10vw;
+    margin-right: 8vw;
     padding: 20px;
     border: 1px solid transparent;
     border-color: #0e86d4;
@@ -832,7 +832,7 @@ h1 {
 /* 650px 404 */
 
 #broken-plate-outer, #broken-plate-image {
-    height: 600px;
+    height: 400px;
 }
 
 #broken-plate-image h2 {
