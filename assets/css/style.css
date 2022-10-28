@@ -711,11 +711,15 @@ h1 {
     padding-bottom: 2vh;
 }
 
+#phone-email p {
+    line-height: 35px;
+}
+
 #address {
     margin: 6vh 4vw;
     padding-right: 0;
     text-align: left;
-    line-height: 30px;
+    line-height: 35px;
 }
 
 #social {
