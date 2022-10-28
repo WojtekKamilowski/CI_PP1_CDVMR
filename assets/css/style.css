@@ -524,12 +524,14 @@ h1 {
     margin-top: 20vh;
     padding: 1vh 5vw;
     color: #0e86d4;
+    font-size: 200%;
 }
 
 #broken-plate-image p {
     margin: 4vh 2vw;
     padding: 1vh 5vw;
     color: #0e86d4;
+    font-size: 150%;
 }
 
 #broken-plate-image a {
