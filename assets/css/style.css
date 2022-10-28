@@ -522,7 +522,7 @@ h1 {
 
 #broken-plate-image h2 {
     margin-top: 30vh;
-    margin-right: 20vw;
+    margin-right: 15vw;
     padding: 1vh 5vw;
     color: #0e86d4;
     font-size: 200%;
@@ -530,13 +530,14 @@ h1 {
 
 #broken-plate-image p {
     margin-top: 4vh;
-    margin-right: 20vw;
+    margin-right: 15vw;
     padding: 1vh 5vw;
     color: #0e86d4;
     font-size: 150%;
 }
 
 #broken-plate-image a {
+    margin-right: 15vw;
     padding: 20px;
     border: 1px solid transparent;
     border-color: #0e86d4;
