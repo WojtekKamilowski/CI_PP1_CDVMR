@@ -712,7 +712,7 @@ h1 {
 }  
 
 #phone-email {
-    margin: 2vh 4vw;
+    margin: 4vh 4vw 2vh 4vw;
     padding-top: 2vh;
     padding-bottom: 2vh;
 }
@@ -722,7 +722,7 @@ h1 {
 }
 
 #address {
-    margin: 6vh 4vw;
+    margin: 4vh 4vw 6vh 4vw;
     padding-right: 0;
     text-align: left;
     line-height: 35px;
@@ -871,7 +871,6 @@ h1 {
 }
 
 #address { 
-    margin: 1vh 4vw;
     max-width: 80vw;
     height: auto;
 }
