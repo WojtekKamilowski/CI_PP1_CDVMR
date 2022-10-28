@@ -537,6 +537,7 @@ h1 {
 }
 
 #broken-plate-image a {
+    margin-top: 4vw;
     margin-right: 15vw;
     padding: 20px;
     border: 1px solid transparent;
