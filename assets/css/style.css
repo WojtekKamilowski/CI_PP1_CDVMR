@@ -981,4 +981,11 @@ legend {
     width: 70vw;
 }
 
+/* 250px 404 */
+
+#broken-plate-image h2, #broken-plate-image p { 
+    font-size: 100%;
+    padding: 0;
+}
+
 }
