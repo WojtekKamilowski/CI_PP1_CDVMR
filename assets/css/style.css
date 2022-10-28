@@ -522,13 +522,15 @@ h1 {
 
 #broken-plate-image h2 {
     margin-top: 30vh;
+    margin-right: 20vw;
     padding: 1vh 5vw;
     color: #0e86d4;
     font-size: 200%;
 }
 
 #broken-plate-image p {
-    margin: 4vh 2vw;
+    margin-top: 4vh;
+    margin-right: 20vw;
     padding: 1vh 5vw;
     color: #0e86d4;
     font-size: 150%;
@@ -823,6 +825,12 @@ h1 {
 .map iframe {
     max-width: 85vw;
     height: auto;
+}
+
+/* 650px 404 */
+
+#broken-plate-outer, #broken-plate-image {
+    height: 600px;
 }
 
 }
