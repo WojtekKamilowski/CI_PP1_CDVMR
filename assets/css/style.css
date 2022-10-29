@@ -57,7 +57,7 @@ h1 {
     font-family: Roboto, sans-serif;
     font-size: 110%;
     letter-spacing: 4px;
-    font-weight: 600;
+    font-weight: 900;
 }
 
 #menu, #logo {
@@ -90,6 +90,76 @@ h1 {
 
 .active {
     border-bottom: 1px solid #fafafa;
+}
+
+/* footer */
+
+#my-footer {
+    padding: 1em;
+    display: flex;
+    align-items: baseline;
+    justify-content: space-evenly;
+    font-family: Raleway, sans-serif;
+    background-color: #0e86d4;
+    flex-shrink: 0;
+    flex-direction: row;
+    font-weight: 900;
+}
+
+#phone-email {
+    margin-left: 2vw;
+    color: #fafafa;
+}
+
+#phone-email p {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    height: 4vh;
+}
+
+#address {
+    margin: 4vh 10vw 4vh 12vw;
+    text-align: center; 
+    color: #fafafa; 
+}
+
+#address a {
+    color: #fafafa; 
+    text-decoration: none;
+}
+
+#phone-email, #address, #social {
+    line-height: 75px;
+}
+
+#social {
+    margin-right: 30px;
+    width: 20%
+}
+
+#social ul {
+    display: flex;
+    align-items: baseline;
+    justify-content: right;
+}
+
+#social li {
+    list-style-type: none;
+}
+
+#social a {
+    margin: 1vh 2vw;
+    padding: 2vh 0;
+    border: 30px 0;
+    text-decoration: none;
+    text-align: center;
+    color: #fafafa;
+    font-family: Raleway, sans-serif;
+}
+
+.social-icon {
+    font-size: 150%;
 }
 
 /* Home */
@@ -178,76 +248,6 @@ h1 {
 
 .hours {
     padding: 2vh 0;
-    font-size: 150%;
-}
-
-/* footer */
-
-#my-footer {
-    padding: 1em;
-    display: flex;
-    align-items: baseline;
-    justify-content: space-evenly;
-    font-family: Raleway, sans-serif;
-    background-color: #0e86d4;
-    flex-shrink: 0;
-    flex-direction: row;
-    font-weight: 700;
-}
-
-#phone-email {
-    margin-left: 2vw;
-    color: #fafafa;
-}
-
-#phone-email p {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    height: 4vh;
-}
-
-#address {
-    margin: 4vh 10vw 4vh 12vw;
-    text-align: center; 
-    color: #fafafa; 
-}
-
-#address a {
-    color: #fafafa; 
-    text-decoration: none;
-}
-
-#phone-email, #address, #social {
-    line-height: 75px;
-}
-
-#social {
-    margin-right: 30px;
-    width: 20%
-}
-
-#social ul {
-    display: flex;
-    align-items: baseline;
-    justify-content: right;
-}
-
-#social li {
-    list-style-type: none;
-}
-
-#social a {
-    margin: 1vh 2vw;
-    padding: 2vh 0;
-    border: 30px 0;
-    text-decoration: none;
-    text-align: center;
-    color: #fafafa;
-    font-family: Raleway, sans-serif;
-}
-
-.social-icon {
     font-size: 150%;
 }
 
