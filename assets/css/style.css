@@ -57,6 +57,7 @@ h1 {
     font-family: Roboto, sans-serif;
     font-size: 110%;
     letter-spacing: 4px;
+    font-weight: 600;
 }
 
 #menu, #logo {
@@ -191,6 +192,7 @@ h1 {
     background-color: #0e86d4;
     flex-shrink: 0;
     flex-direction: row;
+    font-weight: 600;
 }
 
 #phone-email {
