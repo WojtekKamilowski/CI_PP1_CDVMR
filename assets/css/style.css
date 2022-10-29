@@ -176,6 +176,20 @@ h1 {
     height:600px;
     width:100%;
     background: url('../images/food_plate.jpg') no-repeat center center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#plate-image h2 {
+    margin-top: 1vh;
+    padding: 1vh 5vw;
+    color: #0B78C1;
+    font-weight: 900;
+    font-size: 400%;
+    text-align: center;
+    font-family: Great Vibes, sans-serif;
 }
 
 /* Notice Board */
@@ -910,6 +924,11 @@ h1 {
 }
 
 /* 250px Home */
+
+#plate-image h2 {
+    font-weight: 600;
+    font-size: 250%;
+}
 
 legend {
     font-size: 50%;
