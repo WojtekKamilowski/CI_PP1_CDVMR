@@ -30,14 +30,14 @@ h2, h3 {
 /* headings and logo */
 
 #my-header {
-    background-color: #0e86d4;
+    background-color: #0B78C1;
 }
 
 h1 {
     font-family: Great Vibes, sans-serif;
     color: #fafafa;
     letter-spacing: 4px; 
-    background-color: #0e86d4;
+    background-color: #0B78C1;
     height: 70px;
 }
     
@@ -47,7 +47,7 @@ h1 {
     float: left; 
     font-size: 280%;
     color: #fafafa;
-    background-color: #0e86d4;
+    background-color: #0B78C1;
 }
 
 /* navigation links */
@@ -57,7 +57,6 @@ h1 {
     font-family: Roboto, sans-serif;
     font-size: 110%;
     letter-spacing: 4px;
-    font-weight: 900;
 }
 
 #menu, #logo {
@@ -100,10 +99,9 @@ h1 {
     align-items: baseline;
     justify-content: space-evenly;
     font-family: Raleway, sans-serif;
-    background-color: #0e86d4;
+    background-color: #0B78C1;
     flex-shrink: 0;
     flex-direction: row;
-    font-weight: 900;
 }
 
 #phone-email {
@@ -526,7 +524,7 @@ h1 {
     margin-top: 30vh;
     margin-right: 8vw;
     padding: 1vh 5vw;
-    color: #0e86d4;
+    color: #0B78C1;
     font-size: 200%;
     text-align: center;
 }
@@ -537,7 +535,7 @@ h1 {
     margin-bottom: 4vh;
     padding: 1vh 5vw;
     font-weight: 600;
-    color: #0e86d4;
+    color: #0B78C1;
     font-size: 150%;
     text-align: center;
 }
@@ -546,9 +544,9 @@ h1 {
     margin-right: 8vw;
     padding: 20px;
     border: 1px solid transparent;
-    border-color: #0e86d4;
+    border-color: #0B78C1;
     width: 50px;
-    background-color: #0e86d4;
+    background-color: #0B78C1;
     color: #fafafa;
     text-decoration: none;
     text-align: center;
