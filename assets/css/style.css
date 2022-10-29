@@ -799,6 +799,10 @@ h1 {
 
 /* 650px Home */
 
+#plate-image {
+    background: url('../images/food_plate_mobile.jpg') no-repeat center center;
+}
+
 #hours-box {
     display: flex;
     flex-direction: column;
