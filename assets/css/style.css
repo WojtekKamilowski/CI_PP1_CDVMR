@@ -594,12 +594,18 @@ h1 {
 
 /* 1410px About us */
 
-.place-box {
-    padding: 3em 2em 3em 2em;
-}
-
 .chef-box {
     padding: 4em 2em 4em 2em;
+}
+
+}
+
+/* 1310px */
+
+@media screen and (max-width: 1310px) {
+
+.place-box {
+    padding: 2.5vw;
 }
 
 }
