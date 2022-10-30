@@ -266,7 +266,7 @@ h1 {
 
 /* Restaurant Menu Header */
 
-.restaurant-menu-header {
+#restaurant-menu-header {
     margin-top: 5vh;
     margin-bottom: 5vh;
     display: flex;
@@ -285,7 +285,7 @@ h1 {
 
 /* Restaurant Menu Images */
 
-.menu-images {
+#menu-images {
     margin: 2vh 1vw;
     display: flex;
     flex-direction: row;
@@ -296,7 +296,7 @@ h1 {
 
 /* Restaurant Menu */
 
-.restaurant-menu {
+#restaurant-menu {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -587,7 +587,7 @@ h1 {
 
 /* 1400px Restaurant Menu */ 
 
-.menu-images {
+#menu-images {
     flex-wrap: wrap-reverse;
 }
 
@@ -639,7 +639,7 @@ h1 {
 
 /* 950px Restaurant Menu */
 
-.restaurant-menu {
+#restaurant-menu {
     flex-wrap: wrap;
 }
 
@@ -829,7 +829,7 @@ h1 {
 
 /* 650px Restaurant Menu */
 
-.menu-images img {
+#menu-images img {
     max-width: 100%;
     height: auto;
 }
