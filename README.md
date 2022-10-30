@@ -120,6 +120,10 @@ The chosen color scheme was a combination of white and blue tones which is to sy
 
 ![Color scheme](docs/features/colors.jpg)
 
+### Fonts
+The font chosen for the logo h1 and the Welcome h2 was _Great Vibes_ to match the mediterranean theme of the restaurant. 
+For h2, h3, nav id menu a, footer, class cuisine type p on the menu page, and class message-box legend elements _Raleway_ was used to differenciate them.
+Roboto...
 
 
 
