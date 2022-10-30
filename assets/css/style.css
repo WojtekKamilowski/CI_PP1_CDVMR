@@ -427,7 +427,7 @@ h1 {
 }
 
 .chef-box {
-    padding: 6em 2em 4em 2em;
+    padding: 5em 2em 5em 2em;
     border: 1px solid transparent; 
     border-color: black; 
     box-sizing: border-box; 
@@ -582,9 +582,9 @@ h1 {
 
 /* Media queries */ 
 
-/* 1400px */
+/* 1410px */
 
-@media screen and (max-width: 1400px) {
+@media screen and (max-width: 1410px) {
 
 /* 1400px Restaurant Menu */ 
 
@@ -592,6 +592,24 @@ h1 {
     flex-wrap: wrap-reverse;
 }
 
+/* 1410px About us */
+
+.chef-box {
+    padding: 4em 2em 4em 2em;
+}
+
+}
+
+/* 1310px */
+
+@media screen and (max-width: 1410px) {
+
+/* 1310px About us */
+
+.place-box {
+    padding: 3em 2em 3em 2em;
+}
+    
 }
 
 /* 950px */
