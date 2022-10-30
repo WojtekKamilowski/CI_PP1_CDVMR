@@ -121,9 +121,17 @@ The chosen color scheme was a combination of white and blue tones which is to sy
 ![Color scheme](docs/features/colors.jpg)
 
 ### Fonts
+Fonts were found using fonts.google.com
 The font chosen for the logo h1 and the Welcome h2 was _Great Vibes_ to match the mediterranean theme of the restaurant. 
 For h2, h3, nav id menu a, footer, class cuisine type p on the menu page, and class message-box legend elements _Raleway_ was used to differenciate them.
-Roboto...
+The font chosen for the body was _Roboto_.
+_Sans-serif_ was chosen as the fallback font for all elements.
+
+### Structure
+The structure was chosen to follow the common pattern of placing the website logo in the top left corner and the navigation links on the top right corner of the website.
+There are four pages that are parts of the website:
+-Home with two sections: first is the Welcome! h2 with its food_plate image in the background and second with id notice-board containing Announcements and Opening hours.
+-Menu 
 
 
 
