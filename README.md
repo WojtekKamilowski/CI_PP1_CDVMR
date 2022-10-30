@@ -25,10 +25,10 @@
     2. [Frameworks & Tools](#frameworks-&-tools)
 5. [Features](#features)
 6. [Testing](#validation)
-    1. [HTML Validation](#HTML-validation)
-    2. [CSS Validation](#CSS-validation)
-    3. [Accessibility](#accessibility)
-    4. [Performance](#performance)
+    - [HTML Validation](#HTML-validation)
+    - [CSS Validation](#CSS-validation)
+    - [Accessibility](#accessibility)
+    - [Performance](#performance)
     5. [Device testing](#performing-tests-on-various-devices)
     6. [Browser compability](#browser-compability)
     7. [Testing user stories](#testing-user-stories)
@@ -40,7 +40,7 @@
 ## Project Goals
 
 ### User Goals
-  
+- Finding
 
 
     
