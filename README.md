@@ -9,7 +9,7 @@
 
 1. [Project Goals](#project-goals)
     -[User Goals](#user-goals)
-    - [Restaurant Owner Goals](#site-owner-goals)
+    - [Business Owner Goals](#site-owner-goals)
 2. [User Experience](#user-experience)
     - [Target Audience](#target-audience)
     - [User Requirements and Expectations](#user-requirements-and-expectations)
@@ -47,7 +47,7 @@
 - Understand the name of the restaurant which originates from different languages than the most commonly used in the country where it is located. 
 - Communicate with the restaurant management to provide feedback, ask questions or suggest some changes.
 
-### Restaurant Owner Goals
+### Business Owner Goals
 - Present the establishment for a potential customer.
 - Convince users to visit the restaurant by letting them familiarise with the product and feel welcomed to visit.
 - Inform users about important notices, special offers and when the restaurant can be visited.
@@ -92,7 +92,7 @@ As a returning user I want to:
 7. Check if there is a special offer available. 
 8. Check if the restaurant menu is same as during the last visit.
 
-### Restaurant Owner 
+### Business Owner 
 
 As the restaurant owner I want to:
 
@@ -103,6 +103,27 @@ As the restaurant owner I want to:
 13. Inform the user who manages preparation of the dishes and the professional background of this person. 
 14. Share other guets reviews and what they felt during their dining experience. 
 15. Explain how to get to the restaurant and present its unique location. 
+
+## Design
+
+### Design Choices 
+The main thought when designing the website was to introduce the restaurant as a fresh, welcoming, and warm place in a contemporary style with a mediterranean inspiration.
+The logo contains a lemon icon for users to associate the place with the freshness of this fruit commonly grown in the mediterranean region.
+Restaurant's name displayed in the logo "Casa Dolce Vita" is a combination of "casa" which in latin languages means "house" to let the user associate it with the warm and welcoming atmosphere of home, and "dolce vita" from Italian "sweet life" to suggest a tasteful dining experience.
+On the top of the home page the user can observe the word "Welcome!" with a dish plate in the background to feel the website has been designed for the users to eventually bring them to the introduced dining experience, stimulating consumer expectations and curiosity to visit the place which is aimed to add a marketing value for the business owner as a mean of gaining possible competitive advantage over the competition.
+Images on the menu page were chosen to present the food served in aesthetic way representing the quality of the product. 
+On the About us page the user can get to known the chef and restaurant's interior which was aimed to represent the friendly environment of the establishment and its staff. 
+The design choice for other elements of the website such Announcements, Opening hours, Food/Drinks Menus, Our Place/Chef/Guests, the contact form and the map was decided to clearly display relevant information for the user in a simple and easy to understand way.
+
+### Color
+The chosen color scheme was a combination of white and blue tones which is to symbolize the mediterranean theme, they are the colors of the mediterranean sea, and white houses which could be well known as a part of the Greek landscape. The initially chosen blue color was found on color-hex.com and was different to the one on the final version of the website as it was changed during accessibility tests and checking their contrast on WebAIM. 
+
+![Color scheme](docs/features/colors.png)
+
+
+
+
+
 
 
 
