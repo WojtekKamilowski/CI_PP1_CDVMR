@@ -118,7 +118,7 @@ The design choice for other elements of the website such Announcements, Opening 
 ### Color
 The chosen color scheme was a combination of white and blue tones which is to symbolize the mediterranean theme, they are the colors of the mediterranean sea, and white houses which could be well known as a part of the Greek landscape. The initially chosen blue color was found on color-hex.com and was different to the one on the final version of the website as it was changed during accessibility tests and checking their contrast on WebAIM. 
 
-![Color scheme](docs/features/colors.png)
+![Color scheme](docs/features/colors.jpg)
 
 
 
