@@ -34,7 +34,7 @@ h2, h3 {
 }
 
 h1 {
-    font-family: Great Vibes, sans-serif;
+    font-family: "Great Vibes", sans-serif;
     color: #fafafa;
     letter-spacing: 4px; 
     background-color: #0B78C1;
@@ -188,7 +188,7 @@ h1 {
     font-weight: 900;
     font-size: 400%;
     text-align: center;
-    font-family: Great Vibes, sans-serif;
+    font-family: "Great Vibes", sans-serif;
 }
 
 /* notice board */
