@@ -352,8 +352,16 @@ The tool used to test the performance of the website was Google Lighthouse from 
 #### Mobile
 ![Performance Menu Mobile](docs/validation/lighthouse-performance-mobile-menu.jpg)
 
+### About us
 
-Add image of the lighthouse performance results for Menu on desktop and mobile to README.md file
+#### Desktop
+![Performance About us Desktop](docs/validation/lighthouse-performance-desktop-about.jpg)
+
+#### Mobile
+![Performance About us Mobile](docs/validation/lighthouse-performance-mobile-about.jpg)
+
+
+Add image of the lighthouse performance results for About us on desktop and mobile to README.md file
 
 
 
