@@ -137,31 +137,31 @@ There are four pages that are parts of the website:
 
 ## Wireframes
 <details>
-<summary>Home</summary>
+    <summary>Home</summary>
 <img src="docs/wireframes/wireframe-home-desktop.png">
 <img src="docs/wireframes/wireframe-home-tablet.png">
 <img src="docs/wireframes/wireframe-home-smartphone.png">
 </details>
 <details>
-<summary>Menu</summary>
+    <summary>Menu</summary>
 <img src="docs/wireframes/wireframe-menu-desktop.png">
 <img src="docs/wireframes/wireframe-menu-tablet.png">
 <img src="docs/wireframes/wireframe-menu-smartphone.png">
 </details>
 <details>
-<summary>About us</summary>
+    <summary>About us</summary>
 <img src="docs/wireframes/wireframe-about-us-desktop.png">
 <img src="docs/wireframes/wireframe-about-us-tablet.png">
 <img src="docs/wireframes/wireframe-about-us-smartphone.png">
 </details>
 <details>
-<summary>Contact</summary>
+    <summary>Contact</summary>
 <img src="docs/wireframes/wireframe-contact-desktop.png">
 <img src="docs/wireframes/wireframe-contact-tablet.png">
 <img src="docs/wireframes/wireframe-contact-smartphone.png">
 </details>
 <details>
-<summary>404</summary>
+    <summary>404</summary>
 <img src="docs/wireframes/wireframe-404-desktop.png">
 <img src="docs/wireframes/wireframe-404-tablet.png">
 <img src="docs/wireframes/wireframe-404-smartphone.png">
@@ -186,13 +186,15 @@ There are four pages that are parts of the website:
 ## Features
 On the website there are four pages with twelve features in total.
 
-### Logo and Navigation Bar
+<details>
+    <summary>Logo and Navigation Bar</summary>  
 - It is included on all four pages.
 - The logo consists of the icon and restaurant's name is a clickable link to Home page which is a common feature and users expect it.
 - On the right there are four links to each of the pages: Home, Menu, About us and Contact so the user can easily navigate through.
 - To indicate for the user on which page is currently viewed it is underlined. 
 - When the user hovers the mouse over the other pages links it also underlines informing the user that the link will bring to the named page.
 - Logo and Navigation Bar are responsive, the page links slide to the left under the logo for smaller screens.
+</details>
 
 ![Logo and Navbar](docs/features/feature-logo-and-navbar.jpg)
 
