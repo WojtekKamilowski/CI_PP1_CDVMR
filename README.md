@@ -167,12 +167,16 @@ There are four pages that are parts of the website:
 <img src="docs/wireframes/wireframe-404-smartphone.png">
 </details>
 
-## Technologies Used
-
-### Languages
+## Languages
 - HTML
 - CSS
 
+## Technologies Used
+- Git
+- GitHub
+- Gitpod
+- <a href="https://fontawesome.com/">Font Awesome</a>
+- 
 
   
 
