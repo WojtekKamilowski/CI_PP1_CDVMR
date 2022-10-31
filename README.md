@@ -327,6 +327,10 @@ An initial error regarding the contrast was fixed using WebAIM where a similar, 
 ### About us
 ![Accessibility Validation About us](docs/validation/validation-accessibility-about.jpg)
 
+### Contact
+![Accessibility Validation Contact](docs/validation/validation-accessibility-contact.jpg)
+
+
 Add image of  accessibility validation results for Menu to README.md file
 
 
