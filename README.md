@@ -24,7 +24,7 @@
     - [Languages](#languages)
     - [Frameworks & Tools](#frameworks-&-tools)
 5. [Features](#features)
-6. [Testing](#validation)
+6. [Validation](#validation)
     - [HTML Validation](#HTML-validation)
     - [CSS Validation](#CSS-validation)
     - [Accessibility](#accessibility)
@@ -275,6 +275,11 @@ On the website there are four pages with twelve features in total.
     The map is responsive, moves below the form for medium size screens and reduces its size for smaller screens.<br>
     <img src="docs/features/feature-map.jpg">
 </details>
+
+## Validation
+
+### HTML Validation
+To validate HTML of the website the W3C Markup Validation Service was used.
 
 
 
