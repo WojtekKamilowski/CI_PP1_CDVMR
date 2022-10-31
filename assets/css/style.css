@@ -373,14 +373,6 @@ h1 {
 
 /* About us */
 
-
-#about-us {
-    display: flex;
-    flex-direction: column;
-    align-items: stretch;
-    justify-content: space-evenly;
-}
-
 .place-box p, .chef-box p, .guests-box p {
     line-height: 30px;
 }
