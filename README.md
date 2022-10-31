@@ -150,9 +150,9 @@ There are four pages that are parts of the website:
 </details>
 <details>
 <summary>About us</summary>
-<img src="docs/wireframes/wireframe-about-desktop.png">
-<img src="docs/wireframes/wireframe-about-tablet.png">
-<img src="docs/wireframes/wireframe-about-smartphone.png">
+<img src="docs/wireframes/wireframe-about-us-desktop.png">
+<img src="docs/wireframes/wireframe-about-us-tablet.png">
+<img src="docs/wireframes/wireframe-about-us-smartphone.png">
 </details>
 <details>
 <summary>Contact</summary>
