@@ -242,13 +242,26 @@ On the website there are four pages with twelve features in total.
 ![Food Menu and Drinks Menu](docs/features/feature-food-menu-and-drinks-menu.jpg)
 
 ### Our Place 
-- Part of the About us page, appears under the logo and navigation bar feature.
+- First section of the About us page, appears under the logo and navigation bar feature.
 - Consists of a text describing what is the place and an image of restaurant's interior.
 - They are responsive, the text content reduces its width and increases the height, and the image slides under the text for smaller screens.
 
-![Our Place ](docs/features/feature-our-place.jpg)
+![Our Place](docs/features/feature-our-place.jpg)
 
 ### Our Chef
+- Second section of the About us page, appears under the our place feature.
+- Consists of a text describing who is the chef and his image. 
+- They are responsive, the text content reduces its width and increases the height, and the image slides above the text for smaller screens.
+
+![Our Chef](docs/features/feature-our-chef.jpg)
+
+### Our Guests
+- Third section of the About us page, appears under the our chef feature.
+- Consists of a text with other guests reviews of the restaurant. 
+- It is responsive, the text content reduces its width and increases the height.
+
+![Our Guests](docs/features/feature-our-guests.jpg)
+
 
 
 
