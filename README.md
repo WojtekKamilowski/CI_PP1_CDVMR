@@ -319,6 +319,9 @@ Accessibility was tested using WAVE - Web Accessibility Evaluation Tool. All of 
 An initial error regarding the contrast was fixed using WebAIM where a similar, however with a better contrast color was found for the background.
 
 ### Home
+![Accessibility Validation Home](docs/validation/validation-accessibility-index.jpg)
+
+### Menu
 ![Accessibility Validation](docs/validation/validation-accessibility-index.jpg)
 
 
