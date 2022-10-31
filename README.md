@@ -368,7 +368,15 @@ The tool used to test the performance of the website was Google Lighthouse from 
 #### Mobile
 ![Performance Contact Mobile](docs/validation/lighthouse-performance-mobile-contact.jpg)
 
-Add image of the lighthouse performance results for Contact on desktop and mobile to README.md file
+### 404
+
+#### Desktop
+![Performance 404 Desktop](docs/validation/lighthouse-performance-desktop-404.jpg)
+
+#### Mobile
+![Performance 404 Mobile](docs/validation/lighthouse-performance-mobile-404.jpg)
+
+Add image of the lighthouse performance results for the 404 page on desktop and mobile to README.md file
 
 
 
