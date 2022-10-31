@@ -137,7 +137,7 @@ There are four pages that are parts of the website:
 
 ## Wireframes
 - Home
-[Home wireframes](docs/wireframe-home-desktop.png)
+![Home wireframes](docs/wireframe-home-desktop.png)
 
 
 
