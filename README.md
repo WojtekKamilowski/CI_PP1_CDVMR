@@ -336,6 +336,14 @@ An initial error regarding the contrast was fixed using WebAIM where a similar, 
 ## Performance
 The tool used to test the performance of the website was Google Lighthouse from Google Chrome Developer Tools.
 
+### Home
+
+#### Desktop
+![Performance Home Desktop](docs/validation/lighthouse-performance-desktop-index.jpg)
+
+#### Mobile
+![Performance Home Mobile](docs/validation/lighthouse-performance-mobile-index.jpg)
+
 
 Add image of accessibility validation results for Menu to README.md file
 
