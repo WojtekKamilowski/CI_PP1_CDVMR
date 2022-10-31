@@ -148,6 +148,24 @@ There are four pages that are parts of the website:
 <img src="docs/wireframes/wireframe-menu-tablet.png">
 <img src="docs/wireframes/wireframe-menu-smartphone.png">
 </details>
+<details>
+<summary>About us</summary>
+<img src="docs/wireframes/wireframe-about-desktop.png">
+<img src="docs/wireframes/wireframe-about-tablet.png">
+<img src="docs/wireframes/wireframe-about-smartphone.png">
+</details>
+<details>
+<summary>Contact</summary>
+<img src="docs/wireframes/wireframe-contact-desktop.png">
+<img src="docs/wireframes/wireframe-contact-tablet.png">
+<img src="docs/wireframes/wireframe-contact-smartphone.png">
+</details>
+<details>
+<summary>404</summary>
+<img src="docs/wireframes/wireframe-404-desktop.png">
+<img src="docs/wireframes/wireframe-404-tablet.png">
+<img src="docs/wireframes/wireframe-404-smartphone.png">
+</details>
 
   
 
