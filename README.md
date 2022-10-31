@@ -376,7 +376,9 @@ The tool used to test the performance of the website was Google Lighthouse from 
 #### Mobile
 ![Performance 404 Mobile](docs/validation/lighthouse-performance-mobile-404.jpg)
 
-Add image of the lighthouse performance results for the 404 page on desktop and mobile to README.md file
+## Device testing
+List of devices used to test the website:
+
 
 
 
