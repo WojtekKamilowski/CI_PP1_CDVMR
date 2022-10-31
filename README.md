@@ -292,7 +292,7 @@ On the website there are four pages with twelve features in total.
 ## Validation
 
 ### HTML Validation
-To validate HTML of the website the W3C Markup Validation Service was used.
+To validate HTML of the website the W3C Markup Validation Service was used. The results have no errors.
 
 #### Home
 ![HTML Validation Home](docs/validation/validation-html-index.jpg)
@@ -306,8 +306,13 @@ To validate HTML of the website the W3C Markup Validation Service was used.
 #### Contact
 ![HTML Validation Contact](docs/validation/validation-html-contact.jpg)
 
+### CSS Validation
+To validate style.css the W3C Jigsaw CSS Validation Service was used. There were no errors found.
 
-Add html validation for menu.html to README.md
+![CSS Validation](docs/validation/validation-css-style.jpg)
+
+
+
 
 
 
