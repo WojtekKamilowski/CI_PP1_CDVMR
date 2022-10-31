@@ -188,11 +188,11 @@ On the website there are four pages with twelve features in total.
 
 <details>
     <summary>Logo and Navigation Bar</summary>  
-    It is included on all four pages. <br>
-    The logo consists of the icon and restaurant's name is a clickable link to Home page which is a common feature and users expect it.<br>
-    On the right there are four links to each of the pages: Home, Menu, About us and Contact so the user can easily navigate through.<br>
-    To indicate for the user on which page is currently viewed it is underlined.<br> 
-    When the user hovers the mouse over the other pages links it also underlines informing the user that the link will bring to the named page.<br>
+    It is included on all four pages. 
+    The logo consists of the icon and restaurant's name is a clickable link to Home page which is a common feature and users expect it.
+    On the right there are four links to each of the pages: Home, Menu, About us and Contact so the user can easily navigate through.
+    To indicate for the user on which page is currently viewed it is underlined.
+    When the user hovers the mouse over the other pages links it also underlines informing the user that the link will bring to the named page.
     Logo and Navigation Bar are responsive, the page links slide to the left under the logo for smaller screens.
     
     ![Logo and Navbar](docs/features/feature-logo-and-navbar.jpg)
