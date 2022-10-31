@@ -306,6 +306,9 @@ To validate HTML of the website the W3C Markup Validation Service was used. The 
 #### Contact
 ![HTML Validation Contact](docs/validation/validation-html-contact.jpg)
 
+#### 404
+![HTML Validation 404](docs/validation/validation-html-404.jpg)
+
 ### CSS Validation
 To validate style.css the W3C Jigsaw CSS Validation Service was used. There were no errors found.
 
@@ -315,6 +318,7 @@ To validate style.css the W3C Jigsaw CSS Validation Service was used. There were
 Accessibility was tested using WAVE - Web Accessibility Evaluation Tool. All of the pages have no errors.
 An initial error regarding the contrast was fixed using WebAIM where a similar, however with a better contrast color was found for the background.
 
+### Home
 ![Accessibility Validation](docs/validation/validation-accessibility-index.jpg)
 
 
