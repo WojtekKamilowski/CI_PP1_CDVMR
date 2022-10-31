@@ -330,8 +330,11 @@ An initial error regarding the contrast was fixed using WebAIM where a similar, 
 ### Contact
 ![Accessibility Validation Contact](docs/validation/validation-accessibility-contact.jpg)
 
+### 404
+![Accessibility Validation 404](docs/validation/validation-accessibility-404.jpg)
 
-Add image of  accessibility validation results for Menu to README.md file
+
+Add image of accessibility validation results for Menu to README.md file
 
 
 
