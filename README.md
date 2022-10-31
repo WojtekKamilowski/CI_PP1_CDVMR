@@ -138,9 +138,9 @@ There are four pages that are parts of the website:
 ## Wireframes
 <details>
 <summary>- Home</summary>
-![Home wireframes](docs/wireframes/wireframe-home-desktop.png)
-![Home wireframes](docs/wireframes/wireframe-home-tablet.png)
-![Home wireframes](docs/wireframes/wireframe-home-smartphone.png)
+<img src="docs/wireframes/wireframe-home-desktop.png">
+<img src="docs/wireframes/wireframe-home-tablet.png">
+<img src="docs/wireframes/wireframe-home-smartphone.png">
 </details>
 
 
