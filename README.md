@@ -172,9 +172,8 @@ There are four pages that are parts of the website:
 - CSS
 
 ## Technologies Used
-- Git
-- GitHub
-- Gitpod
+- <a href="https://github.com/">GitHub</a>
+- <a href="gitpod.io">Gitpod</a>
 - <a href="https://fontawesome.com/">Font Awesome</a>
 - 
 
