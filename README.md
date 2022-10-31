@@ -221,6 +221,7 @@ On the website there are four pages with twelve features in total.
     Included on the Home page in the center of its section, under the plate image feature.<br> 
     Consists of two notifications displayed in the fieldsets for the user: the first one with its legend "!" an important urgent notice regarding a temporary               closure, and the other one is a special offer of the restaurant.<br> 
     It is responsive, text content for both notifications reduces its width and increases the height.<br>
+    User stories covered: 1, 7.
     <img src="docs/features/feature-announcements.jpg">
 </details>
 <details>
@@ -228,6 +229,7 @@ On the website there are four pages with twelve features in total.
     Included on the Home page in the center of its section, under the announcements feature.<br>
     Dispalys opening hours during weekdays and weekends.<br>
     It is responsive, reducing its font-size, weekend opening hours information slides under the weekdays opening hours for smaller screens.<br>
+    User stories covered: 2.
     <img src="docs/features/feature-opening-hours.jpg">
 </details>
 <details>
@@ -235,6 +237,7 @@ On the website there are four pages with twelve features in total.
     Positioned on the top of the menu page.<br>
     Displays MENU h2 and three menu images presenting food and drink.<br>
     They are reponsive, the images wrap reverse for medium size screens so the third image from the left displayes on top of the two other images. For smaller screens     the images are position from the top to the bottom. <br>
+    User stories covered: 8, 9.
     <img src="docs/features/feature-restaurant-menu-header-and-menu-images.jpg">
 </details>
 <details>    
@@ -242,6 +245,7 @@ On the website there are four pages with twelve features in total.
     Can be found on the menu page below the restaurant menu header and menu images feature.<br> 
     Lists the food and drinks offer and the prices of the restaurant.<br>
     They are responsive, Drinks Menu slides under Food Menu for smaller screens.<br>
+    User stories covered: 8, 9.
     <img src="docs/features/feature-food-menu-and-drinks-menu.jpg">
 </details>
 <details>
@@ -249,6 +253,7 @@ On the website there are four pages with twelve features in total.
     First section of the About us page, appears under the logo and navigation bar feature.<br>
     Consists of a text describing what is the place and an image of restaurant's interior.<br>
     They are responsive, the text content reduces its width and increases the height, and the image slides under the text for smaller screens.<br>
+    User stories covered: 10, 11.
     <img src="docs/features/feature-our-place.jpg">
 </details>
 <details> 
@@ -256,6 +261,7 @@ On the website there are four pages with twelve features in total.
     Second section of the About us page, appears under the our place feature.<br>
     Consists of a text describing who is the chef and his image.<br>
     They are responsive, the text content reduces its width and increases the height, and the image slides above the text for smaller screens.<br>
+    User stories covered: 12, 13.
     <img src="docs/features/feature-our-chef.jpg">
 </details>
 <details>  
@@ -263,6 +269,7 @@ On the website there are four pages with twelve features in total.
     Third section of the About us page, appears under the our chef feature.<br>
     Consists of a text with other guests reviews of the restaurant. <br>
     It is responsive, the text content reduces its width and increases the height.<br>
+    User stories covered: 14.
     <img src="docs/features/feature-our-guests.jpg">
 </details>
 <details>
@@ -270,6 +277,7 @@ On the website there are four pages with twelve features in total.
     Placed in the center of the page,, on the left side of the Contact page.<br>
     Includes a form with name, email, and phone inputs, a textarea, and a submit button for the user.<br>
     The form is responsive, adjusting the size to the viewport and moves above the map for medium size screens.<br>
+    User stories covered: 6.
     <img src="docs/features/feature-contact-form.jpg">
 </details>
 <details>
@@ -277,6 +285,7 @@ On the website there are four pages with twelve features in total.
     Placed in the center of the page, on the right side of the Contact page.<br>
     Includes an iframe map from Google Maps.<br>
     The map is responsive, moves below the form for medium size screens and reduces its size for smaller screens.<br>
+    User stories covered: 15.
     <img src="docs/features/feature-map.jpg">
 </details>
 
