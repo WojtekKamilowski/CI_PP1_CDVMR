@@ -137,11 +137,20 @@ There are four pages that are parts of the website:
 
 ## Wireframes
 <details>
-<summary>- Home</summary>
+<summary>Home</summary>
 <img src="docs/wireframes/wireframe-home-desktop.png">
 <img src="docs/wireframes/wireframe-home-tablet.png">
 <img src="docs/wireframes/wireframe-home-smartphone.png">
 </details>
+<details>
+<summary>Menu</summary>
+<img src="docs/wireframes/wireframe-menu-desktop.png">
+<img src="docs/wireframes/wireframe-menu-tablet.png">
+<img src="docs/wireframes/wireframe-menu-smartphone.png">
+</details>
+
+  
+
 
 
 
