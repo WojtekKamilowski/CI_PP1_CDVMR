@@ -227,8 +227,12 @@ On the website there are four pages with fourteen features in total.
 
 ![Opening hours](docs/features/feature-opening-hours.jpg)
 
-### Menu images
-- 
+### Restaurant menu header and menu images.
+- Positioned on the top of the menu page.
+- Displays MENU h2 and three menu images.
+- They are reponsive, the images wrap reverse for medium size screens so the third image from the left displayes on top of the two other images. For smaller screens the images are position from the top to the bottom. 
+
+![Restaurant menu header and menu images](docs/features/feature-restaurant-menu-header-and-menu-images.jpg)
 
 
 
