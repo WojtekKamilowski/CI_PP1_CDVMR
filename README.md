@@ -136,12 +136,12 @@ There are four pages that are parts of the website:
 - Contact consisting with a contact form and an iframe map.
 
 ## Wireframes
-- Home
-<summary>
+<details>
+<summary>- Home</summary>
 * ![Home wireframes](docs/wireframes/wireframe-home-desktop.png)
 * ![Home wireframes](docs/wireframes/wireframe-home-tablet.png)
 * ![Home wireframes](docs/wireframes/wireframe-home-smartphone.png)
-</summary>
+</details>
 
 
 
