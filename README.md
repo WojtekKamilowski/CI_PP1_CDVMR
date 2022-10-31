@@ -214,7 +214,12 @@ On the website there are four pages with fourteen features in total.
 ![Plate image](docs/features/feature-plate-image.jpg)
 
 ### Announcements
-- It is pl
+- Included on the Home page in the center of section .
+- Consists of two notifications displayed in the fieldsets for the user: the first one with its legend "!" an important urgent notice regarding a temporary closure, and the other one is a special offer of the restaurant. 
+- It is responsive, text content for both notifications reduces its width and increases the height.
+
+![Announcements](docs/features/feature-announcements.jpg)
+
 
 
 
