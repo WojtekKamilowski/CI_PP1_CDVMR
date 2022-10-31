@@ -159,7 +159,7 @@ h1 {
     font-size: 150%;
 }
 
-/* Home */
+/* home */
 
 /* plate image */
 
@@ -262,7 +262,7 @@ h1 {
     font-size: 150%;
 }
 
-/* restaurant menu */
+/* menu page */
 
 /* restaurant menu header */
 
@@ -577,7 +577,7 @@ h1 {
 
 @media screen and (max-width: 1410px) {
 
-/* 1400px restaurant menu */ 
+/* 1410px restaurant menu */ 
 
 #menu-images {
     flex-wrap: wrap-reverse;
