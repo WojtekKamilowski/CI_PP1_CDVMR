@@ -209,18 +209,26 @@ On the website there are four pages with fourteen features in total.
 ### Plate image
 - Placed on the top of the Home page.
 - Displays "Welcome!" h2 on the top center with a plate image in the background welcoming the user to the website and the restaurant. 
-- It is responsive, the background image is resized for smaller screens.
+- It is responsive, the background image is resized and font-size reduced for smaller screens.
 
 ![Plate image](docs/features/feature-plate-image.jpg)
 
 ### Announcements
-- Included on the Home page in the center of section .
+- Included on the Home page in the center of its section, under the plate image feature. 
 - Consists of two notifications displayed in the fieldsets for the user: the first one with its legend "!" an important urgent notice regarding a temporary closure, and the other one is a special offer of the restaurant. 
 - It is responsive, text content for both notifications reduces its width and increases the height.
 
 ![Announcements](docs/features/feature-announcements.jpg)
 
+### Opening hours
+- Included on the Home page in the center of its section, under the announcements feature.
+- Dispalys opening hours during weekdays and weekends. 
+- It is responsive, reducing its font-size, weekend opening hours information slides under the weekdays opening hours for smaller screens.
 
+![Opening hours](docs/features/feature-opening-hours.jpg)
+
+### Menu images
+- 
 
 
 
