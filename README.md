@@ -188,32 +188,28 @@ On the website there are four pages with twelve features in total.
 
 <details>
     <summary>Logo and Navigation Bar</summary>  
-- It is included on all four pages.
-- The logo consists of the icon and restaurant's name is a clickable link to Home page which is a common feature and users expect it.
-- On the right there are four links to each of the pages: Home, Menu, About us and Contact so the user can easily navigate through.
-- To indicate for the user on which page is currently viewed it is underlined. 
-- When the user hovers the mouse over the other pages links it also underlines informing the user that the link will bring to the named page.
-- Logo and Navigation Bar are responsive, the page links slide to the left under the logo for smaller screens.
+It is included on all four pages. The logo consists of the icon and restaurant's name is a clickable link to Home page which is a common feature and users expect it.
+On the right there are four links to each of the pages: Home, Menu, About us and Contact so the user can easily navigate through.
+To indicate for the user on which page is currently viewed it is underlined. 
+When the user hovers the mouse over the other pages links it also underlines informing the user that the link will bring to the named page.
+Logo and Navigation Bar are responsive, the page links slide to the left under the logo for smaller screens.
 
 ![Logo and Navbar](docs/features/feature-logo-and-navbar.jpg)
 
 </details>
 <details>
     <summary>Footer</summary> 
-- Appears on all four pages.
-- Divided by three divs with their id: phone-email, address and social. 
-- div id phone-email displays restaurant's phone number and email address on the left side.
-- In the center of the footer there is div id address consists of the location dot icon and restaurant's location address and clicking it links to the map view on Google Maps opened in a new tab.
-- From the right side of the id social div, there are icons with clickable links to the social media.
-- Footer is responsive, id address and social divs slide under the id phone-email div from footer's top to its bottom. 
+Appears on all four pages.<br>
+Divided by three divs with their id: phone-email, address and social. 
+div id phone-email displays restaurant's phone number and email address on the left side.
+In the center of the footer there is div id address consists of the location dot icon and restaurant's location address and clicking it links to the map view on Google Maps opened in a new tab. From the right side of the id social div, there are icons with clickable links to the social media. Footer is responsive, id address and social divs slide under the id phone-email div from footer's top to its bottom. 
 
 ![Footer](docs/features/feature-footer.jpg)
 </details>
 <details>   
     <summary>Plate image</summary>     
-- Placed on the top of the Home page.
-- Displays "Welcome!" h2 on the top center with a plate image in the background welcoming the user to the website and the restaurant. 
-- It is responsive, the background image is resized and font-size reduced for smaller screens.
+Placed on the top of the Home page. Displays "Welcome!" h2 on the top center with a plate image in the background welcoming the user to the website and the restaurant. 
+It is responsive, the background image is resized and font-size reduced for smaller screens.
 
 ![Plate image](docs/features/feature-plate-image.jpg)
 </details>
