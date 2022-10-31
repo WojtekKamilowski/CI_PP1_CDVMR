@@ -187,12 +187,25 @@ There are four pages that are parts of the website:
 On the website there are four pages with fourteen features in total.
 
 ### Logo and Navigation Bar
-- It is included on all five pages.
-- The logo consisiting of the icon and restaurant's name is a clickable link to Home page which is a common feature and users expect it.
+- It is included on all four pages.
+- The logo consists of the icon and restaurant's name is a clickable link to Home page which is a common feature and users expect it.
 - On the right there are four links to each of the pages: Home, Menu, About us and Contact so the user can easily navigate through.
 - To indicate for the user on which page is currently viewed it is underlined. 
 - When the user hovers the mouse over the other pages links it also underlines informing the user that the link will bring to the named page.
+- Logo and Navigation Bar are responsive, the page links slide to the left under the logo for smaller screens.
 ![Logo and Navbar](docs/features/feature-logo-and-navbar.jpg)
+
+### Footer 
+- Appears on all four pages.
+- Divided by three divs with their id: phone-email, address and social. 
+- div id phone-email displays restaurant's phone number and email address on the left side.
+- In the center of the footer there is div id address consists of the location dot icon and restaurant's location address and clicking it links to the map view on Google Maps opened in a new tab.
+- From the right side of the id social div, there are icons with clickable links to the social media.
+- Footer is responsive, id address and social divs slide under the id phone-email div from footer's top to its bottom. 
+
+![Footer](docs/features/feature-footer.jpg)
+
+### Ann
 
 
 
