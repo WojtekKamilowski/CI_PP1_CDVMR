@@ -191,7 +191,7 @@ h1 {
     font-family: Great Vibes, sans-serif;
 }
 
-/* Notice Board */
+/* notice board */
 
 #notice-board {
     display: flex;
@@ -200,7 +200,7 @@ h1 {
     justify-content: space-evenly;
 }
 
-/* Announcements */
+/* announcements */
 
 #announcements {
     margin: 2vh 10vw;
@@ -222,7 +222,7 @@ h1 {
     box-sizing: border-box; 
 }
 
-/* Opening Hours */
+/* opening Hours */
 
 #opening-hours {
     margin: 4vh 4vw;
@@ -262,9 +262,9 @@ h1 {
     font-size: 150%;
 }
 
-/* Restaurant Menu */
+/* restaurant menu */
 
-/* Restaurant Menu Header */
+/* restaurant menu header */
 
 #restaurant-menu-header {
     margin-top: 5vh;
@@ -275,7 +275,7 @@ h1 {
     justify-content: space-evenly;
 }
 
-/* Restaurant Menu Header Underline */
+/* restaurant menu header hr */
 
 .menu-hr{
     border-bottom: 1px solid #0e86d4;
@@ -283,7 +283,7 @@ h1 {
     width: 100%;
 }
 
-/* Restaurant Menu Images */
+/* restaurant menu images */
 
 #menu-images {
     margin: 2vh 1vw;
@@ -294,7 +294,7 @@ h1 {
     gap: 20px;
 }
 
-/* Restaurant Menu */
+/* restaurant menu */
 
 #restaurant-menu {
     display: flex;
@@ -304,14 +304,14 @@ h1 {
     gap: 20px;
 }
 
-/* Food & Drinks Menus h3&p styles */
+/* food & drinks Menus h3&p styles */
 
 .food-menu fieldset h3, .food-menu fieldset p, .drinks-menu fieldset h3, .drinks-menu fieldset p {
     margin: 4px 0;
     padding: 2px;
 }
 
-/* Food Menu */
+/* food menu */
 
 .food-menu {
     width: 66%;
@@ -352,7 +352,7 @@ h1 {
     grid-row: 2;
 }
 
-/* Drinks Menu */
+/* drinks menu */
 
 .drinks-menu {
     width: 33%;
@@ -371,13 +371,13 @@ h1 {
     align-items: flex-start;
 }
 
-/* About us */
+/* about us */
 
 .place-box p, .chef-box p, .guests-box p {
     line-height: 30px;
 }
 
-/* Place */
+/* place */
 
 .place {
     margin: 4vh 4vw 4vh 8vw;
@@ -400,7 +400,7 @@ h1 {
     margin-right: 4vw;
 }
 
-/* Chef */
+/* chef */
 
 .chef {
     margin: 4vh 8vw 4vh 4vw;
@@ -424,7 +424,7 @@ h1 {
     box-sizing: border-box; 
 }
 
-/* Guests Reviews */
+/* guests reviews */
 
 .guests {
     margin: 4vh 4vw;
@@ -446,7 +446,7 @@ h1 {
     margin-left: 20px;
 }
 
-/* Contact */
+/* contact */
 
 .contact-map {
     display: flex;
@@ -457,7 +457,7 @@ h1 {
     gap: 20px;
 }
 
-/* Contact Form */
+/* contact form */
 
 .contact {
     margin-top: 5vh;
@@ -508,7 +508,7 @@ h1 {
     border-color: black;
 }
 
-/* Map */
+/* map */
 
 .map {
     margin-top: 5vh;
@@ -577,13 +577,13 @@ h1 {
 
 @media screen and (max-width: 1410px) {
 
-/* 1400px Restaurant Menu */ 
+/* 1400px restaurant menu */ 
 
 #menu-images {
     flex-wrap: wrap-reverse;
 }
 
-/* 1410px About us */
+/* 1410px about us */
 
 .chef-box {
     padding: 4em 2em 4em 2em;
@@ -595,7 +595,7 @@ h1 {
 
 @media screen and (max-width: 1310px) {
 
-/* 1310px About us */
+/* 1310px about us */
 
 .place-box {
     padding: 2em;
@@ -607,7 +607,7 @@ h1 {
 
 @media screen and (max-width: 950px) {
 
-/* 950px Header */
+/* 950px header */
 
 #logo {
     font-size: 220%;
@@ -619,7 +619,7 @@ h1 {
     letter-spacing: 2px;   
 }
 
-/* 950px Home */
+/* 950px home */
 
 .week {
     font-size: 150%;
@@ -629,7 +629,7 @@ h1 {
     font-size: 100%;
 }
 
-/* 950px Restaurant Menu */
+/* 950px restaurant menu */
 
 #restaurant-menu {
     flex-wrap: wrap;
@@ -659,7 +659,7 @@ h1 {
     align-items: baseline;
 }
 
-/* 950px About us */
+/* 950px about us */
 
 .place {
     margin: 2vh 4vw;
@@ -768,7 +768,7 @@ h1 {
     margin: 1vh 2vw;
 }
 
-/* 800px Home */
+/* 800px home */
 
 #plate-image {
     height: 300px;
@@ -784,7 +784,7 @@ h1 {
 
 @media screen and (max-width: 650px) {
 
-/* 650px Header */
+/* 650px header */
 
 #logo {
     padding-top: 20px;
@@ -806,7 +806,7 @@ h1 {
     justify-content: left;
 }
 
-/* 650px Home */
+/* 650px home */
 
 #plate-image {
     background: url('../images/food_plate_mobile.jpg') no-repeat center center;
@@ -819,21 +819,21 @@ h1 {
     justify-content: space-evenly;
 }
 
-/* 650px Restaurant Menu */
+/* 650px restaurant menu */
 
 #menu-images img {
     max-width: 100%;
     height: auto;
 }
 
-/* 650px About us */
+/* 650px about us */
 
 .place-photo img, .chef-photo img {
     max-width: 100%;
     height: auto;
 }
 
-/* 650px Contact */
+/* 650px contact */
 
 .contact-box legend, .message-box label {
     font-size: 60%;
@@ -891,7 +891,7 @@ h1 {
 
 @media screen and (max-width: 250px) {
 
-/* 250px Header */
+/* 250px header */
 
 #logo {
     padding-top: 2vh;
@@ -908,7 +908,7 @@ h1 {
     line-height: 20px;
 }
 
-/* 250px Footer */
+/* 250px footer */
 
 #phone-email { 
     margin: 1vh 2vw;
@@ -944,7 +944,7 @@ h1 {
     font-size: 90%;
 }
 
-/* 250px Home */
+/* 250px home */
 
 #plate-image h2 {
     font-weight: 600;
@@ -976,7 +976,7 @@ legend {
     font-size: 50%;
 }
 
-/* 250px Restaurant Menu */
+/* 250px restaurant menu */
 
 .food-menu fieldset {
     margin: 1vh 1vw;
@@ -1009,7 +1009,7 @@ legend {
     flex-wrap: wrap;
 }
 
-/* 250px Contact */
+/* 250px contact */
 
 .contact-box, .message-box {
     max-width: 60%;
