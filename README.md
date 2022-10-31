@@ -188,102 +188,91 @@ On the website there are four pages with twelve features in total.
 
 <details>
     <summary>Logo and Navigation Bar</summary>  
-It is included on all four pages. The logo consists of the icon and restaurant's name is a clickable link to Home page which is a common feature and users expect it.
-On the right there are four links to each of the pages: Home, Menu, About us and Contact so the user can easily navigate through.
-To indicate for the user on which page is currently viewed it is underlined. 
-When the user hovers the mouse over the other pages links it also underlines informing the user that the link will bring to the named page.
-Logo and Navigation Bar are responsive, the page links slide to the left under the logo for smaller screens.
-
-![Logo and Navbar](docs/features/feature-logo-and-navbar.jpg)
-
+    It is included on all four pages. <br>
+    The logo consists of the icon and restaurant's name is a clickable link to Home page which is a common feature and users expect it.<br>
+    On the right there are four links to each of the pages: Home, Menu, About us and Contact so the user can easily navigate through.<br>
+    To indicate for the user on which page is currently viewed it is underlined.<br> 
+    When the user hovers the mouse over the other pages links it also underlines informing the user that the link will bring to the named page.<br>
+    Logo and Navigation Bar are responsive, the page links slide to the left under the logo for smaller screens.<br>
+    ![Logo and Navbar](docs/features/feature-logo-and-navbar.jpg)
 </details>
 <details>
     <summary>Footer</summary> 
-Appears on all four pages.<br>
-Divided by three divs with their id: phone-email, address and social. 
-div id phone-email displays restaurant's phone number and email address on the left side.
-In the center of the footer there is div id address consists of the location dot icon and restaurant's location address and clicking it links to the map view on Google Maps opened in a new tab. From the right side of the id social div, there are icons with clickable links to the social media. Footer is responsive, id address and social divs slide under the id phone-email div from footer's top to its bottom. 
-
-![Footer](docs/features/feature-footer.jpg)
+    Appears on all four pages.<br>
+    Divided by three divs with their id: phone-email, address and social.<br> 
+    div id phone-email displays restaurant's phone number and email address on the left side.<br>
+    In the center of the footer there is div id address consists of the location dot icon and restaurant's location address and clicking it links to the map view on       Google Maps opened in a new tab.<br>
+    From the right side of the id social div, there are icons with clickable links to the social media. Footer is responsive, id address and social divs slide under       the id phone-email div from footer's top to its bottom.<br> 
+    ![Footer](docs/features/feature-footer.jpg)
 </details>
 <details>   
     <summary>Plate image</summary>     
-Placed on the top of the Home page. Displays "Welcome!" h2 on the top center with a plate image in the background welcoming the user to the website and the restaurant. 
-It is responsive, the background image is resized and font-size reduced for smaller screens.
-
-![Plate image](docs/features/feature-plate-image.jpg)
+    Placed on the top of the Home page.<br>
+    Displays "Welcome!" h2 on the top center with a plate image in the background welcoming the user to the website and the restaurant.<br> 
+    It is responsive, the background image is resized and font-size reduced for smaller screens.<br>
+    ![Plate image](docs/features/feature-plate-image.jpg)
 </details>
 <details>
     <summary>Announcements</summary>
-- Included on the Home page in the center of its section, under the plate image feature. 
-- Consists of two notifications displayed in the fieldsets for the user: the first one with its legend "!" an important urgent notice regarding a temporary closure, and the other one is a special offer of the restaurant. 
-- It is responsive, text content for both notifications reduces its width and increases the height.
-
-![Announcements](docs/features/feature-announcements.jpg)
+    Included on the Home page in the center of its section, under the plate image feature.<br> 
+    Consists of two notifications displayed in the fieldsets for the user: the first one with its legend "!" an important urgent notice regarding a temporary               closure, and the other one is a special offer of the restaurant.<br> 
+    It is responsive, text content for both notifications reduces its width and increases the height.<br>
+    ![Announcements](docs/features/feature-announcements.jpg)
 </details>
 <details>
     <summary>Opening hours</summary> 
-- Included on the Home page in the center of its section, under the announcements feature.
-- Dispalys opening hours during weekdays and weekends. 
-- It is responsive, reducing its font-size, weekend opening hours information slides under the weekdays opening hours for smaller screens.
-
-![Opening hours](docs/features/feature-opening-hours.jpg)
+    Included on the Home page in the center of its section, under the announcements feature.<br>
+    Dispalys opening hours during weekdays and weekends.<br>
+    It is responsive, reducing its font-size, weekend opening hours information slides under the weekdays opening hours for smaller screens.<br>
+    ![Opening hours](docs/features/feature-opening-hours.jpg)
 </details>
 <details>
     <summary>Restaurant menu header and menu images</summary>
-- Positioned on the top of the menu page.
-- Displays MENU h2 and three menu images presenting food and drink.
-- They are reponsive, the images wrap reverse for medium size screens so the third image from the left displayes on top of the two other images. For smaller screens the images are position from the top to the bottom. 
-
-![Restaurant menu header and menu images](docs/features/feature-restaurant-menu-header-and-menu-images.jpg)
+    Positioned on the top of the menu page.<br>
+    Displays MENU h2 and three menu images presenting food and drink.<br>
+    They are reponsive, the images wrap reverse for medium size screens so the third image from the left displayes on top of the two other images. For smaller screens     the images are position from the top to the bottom. <br>
+    ![Restaurant menu header and menu images](docs/features/feature-restaurant-menu-header-and-menu-images.jpg)
 </details>
 <details>    
     <summary>Food Menu and Drinks Menu</summary>
-- Can be found on the menu page below the restaurant menu header and menu images feature. 
-- Lists the food and drinks offer and the prices of the restaurant.
-- They are responsive, Drinks Menu slides under Food Menu for smaller screens.
-
-![Food Menu and Drinks Menu](docs/features/feature-food-menu-and-drinks-menu.jpg)
+    Can be found on the menu page below the restaurant menu header and menu images feature.<br> 
+    Lists the food and drinks offer and the prices of the restaurant.<br>
+    They are responsive, Drinks Menu slides under Food Menu for smaller screens.<br>
+    ![Food Menu and Drinks Menu](docs/features/feature-food-menu-and-drinks-menu.jpg)
 </details>
 <details>
     <summary>Our Place</summary> 
-- First section of the About us page, appears under the logo and navigation bar feature.
-- Consists of a text describing what is the place and an image of restaurant's interior.
-- They are responsive, the text content reduces its width and increases the height, and the image slides under the text for smaller screens.
-
-![Our Place](docs/features/feature-our-place.jpg)
+    First section of the About us page, appears under the logo and navigation bar feature.<br>
+    Consists of a text describing what is the place and an image of restaurant's interior.<br>
+    They are responsive, the text content reduces its width and increases the height, and the image slides under the text for smaller screens.<br>
+    ![Our Place](docs/features/feature-our-place.jpg)
 </details>
 <details> 
     <summary>Our Chef</summary>
-- Second section of the About us page, appears under the our place feature.
-- Consists of a text describing who is the chef and his image. 
-- They are responsive, the text content reduces its width and increases the height, and the image slides above the text for smaller screens.
-
-![Our Chef](docs/features/feature-our-chef.jpg)
+    Second section of the About us page, appears under the our place feature.<br>
+    Consists of a text describing who is the chef and his image.<br>
+    They are responsive, the text content reduces its width and increases the height, and the image slides above the text for smaller screens.<br>
+    ![Our Chef](docs/features/feature-our-chef.jpg)
 </details>
 <details>  
     <summary>Our Guests</summary>
-- Third section of the About us page, appears under the our chef feature.
-- Consists of a text with other guests reviews of the restaurant. 
-- It is responsive, the text content reduces its width and increases the height.
-
-![Our Guests](docs/features/feature-our-guests.jpg)
+    Third section of the About us page, appears under the our chef feature.<br>
+    Consists of a text with other guests reviews of the restaurant. <br>
+    It is responsive, the text content reduces its width and increases the height.<br>
+    ![Our Guests](docs/features/feature-our-guests.jpg)
 </details>
 <details>
     <summary>Contact form</summary>
-- Placed in the center of the page,, on the left side of the Contact page.
-- Includes a form with name, email, and phone inputs, a textarea, and a submit button for the user.
-- The form is responsive, adjusting the size to the viewport and moves above the map for medium size screens.
-
-![Contact form](docs/features/feature-contact-form.jpg)
+    Placed in the center of the page,, on the left side of the Contact page.<br>
+    Includes a form with name, email, and phone inputs, a textarea, and a submit button for the user.<br>
+    The form is responsive, adjusting the size to the viewport and moves above the map for medium size screens.<br>
+    ![Contact form](docs/features/feature-contact-form.jpg)
 </details>
 <details>
     <summary>Map</summary>
-
-- Placed in the center of the page, on the right side of the Contact page.
-- Includes an iframe map from Google Maps.
-- The map is responsive, moves below the form for medium size screens and reduces its size for smaller screens.
-
+    Placed in the center of the page, on the right side of the Contact page.<br>
+    Includes an iframe map from Google Maps.<br>
+    The map is responsive, moves below the form for medium size screens and reduces its size for smaller screens.<br>
 ![Map](docs/features/feature-map.jpg)
 </details>
 
