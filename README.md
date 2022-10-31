@@ -184,7 +184,7 @@ There are four pages that are parts of the website:
 - WebAIM to identify the color that would match the design choice and accessibility requirements. 
 
 ## Features
-On the website there are four pages with fourteen features in total.
+On the website there are four pages with twelve features in total.
 
 ### Logo and Navigation Bar
 - It is included on all four pages.
@@ -241,7 +241,15 @@ On the website there are four pages with fourteen features in total.
 
 ![Food Menu and Drinks Menu](docs/features/feature-food-menu-and-drinks-menu.jpg)
 
-### 
+### Our Place 
+- Part of the About us page, appears under the logo and navigation bar feature.
+- Consists of a text describing what is the place and an image of restaurant's interior.
+- They are responsive, the text content reduces its width and increases the height, and the image slides under the text for smaller screens.
+
+![Our Place ](docs/features/feature-our-place.jpg)
+
+### Our Chef
+
 
 
 
