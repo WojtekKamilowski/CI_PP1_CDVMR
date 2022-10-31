@@ -770,11 +770,7 @@ h1 {
 
 /* 800px home */
 
-#plate-image {
-    height: 300px;
-}
-
-#plate-outer {
+#plate-image, #plate-outer {
     height: 300px;
 }
 
@@ -873,6 +869,7 @@ h1 {
 
 #broken-plate-outer, #broken-plate-image {
     height: 600px;
+
 }
 
 #broken-plate-image h2 {

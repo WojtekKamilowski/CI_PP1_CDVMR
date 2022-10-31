@@ -74,7 +74,7 @@
 
 ### User Stories
 
-### First-time User
+#### First-time User
 
 As a first time user I want to:
 
@@ -92,7 +92,7 @@ As a returning user I want to:
 7. Check if there is a special offer available. 
 8. Check if the restaurant menu is same as during the last visit.
 
-### Business Owner 
+#### Business Owner 
 
 As the restaurant owner I want to:
 
@@ -103,6 +103,7 @@ As the restaurant owner I want to:
 13. Inform the user who manages preparation of the dishes and the professional background of this person. 
 14. Share other guets reviews and what they felt during their dining experience. 
 15. Explain how to get to the restaurant and present its unique location. 
+16. Make the user feel welcomed and invited to visit the restaurant.
 
 ## Design
 
@@ -194,7 +195,7 @@ On the website there are four pages with twelve features in total.
     To indicate for the user on which page is currently viewed it is underlined.<br> 
     When the user hovers the mouse over the other pages links it also underlines informing the user that the link will bring to the named page.<br> 
     Logo and Navigation Bar are responsive, the page links slide to the left under the logo for smaller screens.<br>
-    User stories covered: 6
+    User stories covered: 6, 8, 9, 10, 11, 12, 13, 14, 15.
     <img src="docs/features/feature-logo-and-navbar.jpg">
 </details> 
 <details>
@@ -203,7 +204,8 @@ On the website there are four pages with twelve features in total.
     Divided by three divs with their id: phone-email, address and social.<br> 
     div id phone-email displays restaurant's phone number and email address on the left side.<br>
     In the center of the footer there is div id address consists of the location dot icon and restaurant's location address and clicking it links to the map view on       Google Maps opened in a new tab.<br>
-    From the right side of the id social div, there are icons with clickable links to the social media. Footer is responsive, id address and social divs slide under       the id phone-email div from footer's top to its bottom.<br> 
+    From the right side of the id social div, there are icons with clickable links to the social media. Footer is responsive, id address and social divs slide under       the id phone-email div from footer's top to its bottom.<br>
+    User stories covered: 3, 4, 5. 
     <img src="docs/features/feature-footer.jpg">
 </details>
 <details>   
@@ -212,6 +214,7 @@ On the website there are four pages with twelve features in total.
     Displays "Welcome!" h2 on the top center with a plate image in the background welcoming the user to the website and the restaurant.<br> 
     It is responsive, the background image is resized and font-size reduced for smaller screens.<br>
     <img src="docs/features/feature-plate-image.jpg">
+    User stories covered: 9, 16. 
 </details>
 <details>
     <summary>Announcements</summary>
