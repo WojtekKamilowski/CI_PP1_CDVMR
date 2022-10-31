@@ -193,6 +193,7 @@ On the website there are four pages with fourteen features in total.
 - To indicate for the user on which page is currently viewed it is underlined. 
 - When the user hovers the mouse over the other pages links it also underlines informing the user that the link will bring to the named page.
 - Logo and Navigation Bar are responsive, the page links slide to the left under the logo for smaller screens.
+
 ![Logo and Navbar](docs/features/feature-logo-and-navbar.jpg)
 
 ### Footer 
@@ -205,7 +206,15 @@ On the website there are four pages with fourteen features in total.
 
 ![Footer](docs/features/feature-footer.jpg)
 
-### Ann
+### Plate image
+- Placed on the top of the Home page.
+- Displays "Welcome!" h2 on the top center with a plate image in the background welcoming the user to the website and the restaurant. 
+- It is responsive, the background image is resized for smaller screens.
+
+![Plate image](docs/features/feature-plate-image.jpg)
+
+### Announcements
+- It is pl
 
 
 
