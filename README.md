@@ -262,6 +262,11 @@ On the website there are four pages with twelve features in total.
 
 ![Our Guests](docs/features/feature-our-guests.jpg)
 
+### Contact form
+- Placed in the center, on the left side of the Contact page.
+- Includes a form with name, email, and phone inputs, a textarea, and a submit button for the user.
+- responive....
+
 
 
 
