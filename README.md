@@ -172,10 +172,31 @@ There are four pages that are parts of the website:
 - CSS
 
 ## Technologies Used
-- <a href="https://github.com/" target="_blank">GitHub</a>
-- <a href="https://gitpod.io/" target="_blank">Gitpod</a>
-- <a href="https://fontawesome.com/" target="_blank">Font Awesome</a>
-- 
+- GitHub
+- Gitpod
+- Balsamiq - to create the wireframes.
+- Font Awesome - to add logo, address, social media, and restaurant menu icons.
+- favicon.io - to create the favicon.
+- Google Maps to add the link to the map.
+- Google Fonts to find and add Great Vibes, Raleway and Roboto fonts. 
+- TinyPNG to compress the images.
+- color-hex to find the initial color's hex value.
+- WebAIM to identify the color that would match the design choice and accessibility requirements. 
+
+## Features
+On the website there are four pages with fourteen features in total.
+
+### Logo and Navigation Bar
+- It is included on all five pages.
+- The logo consisiting of the icon and restaurant's name is a clickable link to Home page which is a common feature and users expect it.
+- On the right there are four links to each of the pages: Home, Menu, About us and Contact so the user can easily navigate through.
+- To indicate for the user on which page is currently viewed it is underlined. 
+- When the user hovers the mouse over the other pages links it also underlines informing the user that the link will bring to the named page.
+![Logo and Navbar](docs/features/feature-logo-and-navbar.jpg)
+
+
+
+
 
   
 
