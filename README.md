@@ -194,6 +194,7 @@ On the website there are four pages with twelve features in total.
     To indicate for the user on which page is currently viewed it is underlined.<br> 
     When the user hovers the mouse over the other pages links it also underlines informing the user that the link will bring to the named page.<br>
     Logo and Navigation Bar are responsive, the page links slide to the left under the logo for smaller screens.<br>
+    
     ![Logo and Navbar](docs/features/feature-logo-and-navbar.jpg)
 </details>
 <details>
