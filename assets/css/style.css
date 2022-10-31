@@ -869,7 +869,7 @@ h1 {
 
 #broken-plate-outer, #broken-plate-image {
     height: 600px;
-
+    background: url('../images/broken_plate_mobile.jpg') no-repeat center center;
 }
 
 #broken-plate-image h2 {
