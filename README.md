@@ -344,8 +344,16 @@ The tool used to test the performance of the website was Google Lighthouse from 
 #### Mobile
 ![Performance Home Mobile](docs/validation/lighthouse-performance-mobile-index.jpg)
 
+### Menu
 
-Add image of accessibility validation results for Menu to README.md file
+#### Desktop
+![Performance Menu Desktop](docs/validation/lighthouse-performance-desktop-menu.jpg)
+
+#### Mobile
+![Performance Menu Mobile](docs/validation/lighthouse-performance-mobile-menu.jpg)
+
+
+Add image of the lighthouse performance results for Menu on desktop and mobile to README.md file
 
 
 
