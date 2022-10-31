@@ -360,8 +360,15 @@ The tool used to test the performance of the website was Google Lighthouse from 
 #### Mobile
 ![Performance About us Mobile](docs/validation/lighthouse-performance-mobile-about.jpg)
 
+### Contact
 
-Add image of the lighthouse performance results for About us on desktop and mobile to README.md file
+#### Desktop
+![Performance Contact Desktop](docs/validation/lighthouse-performance-desktop-contact.jpg)
+
+#### Mobile
+![Performance Contact Mobile](docs/validation/lighthouse-performance-mobile-contact.jpg)
+
+Add image of the lighthouse performance results for Contact on desktop and mobile to README.md file
 
 
 
