@@ -227,13 +227,21 @@ On the website there are four pages with fourteen features in total.
 
 ![Opening hours](docs/features/feature-opening-hours.jpg)
 
-### Restaurant menu header and menu images.
+### Restaurant menu header and menu images
 - Positioned on the top of the menu page.
-- Displays MENU h2 and three menu images.
+- Displays MENU h2 and three menu images presenting food and drink.
 - They are reponsive, the images wrap reverse for medium size screens so the third image from the left displayes on top of the two other images. For smaller screens the images are position from the top to the bottom. 
 
 ![Restaurant menu header and menu images](docs/features/feature-restaurant-menu-header-and-menu-images.jpg)
 
+### Food Menu and Drinks Menu
+- Can be found on the menu page below the restaurant menu header and menu images feature. 
+- Lists the food and drinks offer and the prices of the restaurant.
+- They are responsive, Drinks Menu slides under Food Menu for smaller screens.
+
+![Food Menu and Drinks Menu](docs/features/feature-food-menu-and-drinks-menu.jpg)
+
+### 
 
 
 
