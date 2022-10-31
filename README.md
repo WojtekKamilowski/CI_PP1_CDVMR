@@ -139,33 +139,33 @@ There are four pages that are parts of the website:
 ## Wireframes
 <details>
     <summary>Home</summary>
-<img src="docs/wireframes/wireframe-home-desktop.png">
-<img src="docs/wireframes/wireframe-home-tablet.png">
-<img src="docs/wireframes/wireframe-home-smartphone.png">
+    <img src="docs/wireframes/wireframe-home-desktop.png">
+    <img src="docs/wireframes/wireframe-home-tablet.png">
+    <img src="docs/wireframes/wireframe-home-smartphone.png">
 </details>
 <details>
     <summary>Menu</summary>
-<img src="docs/wireframes/wireframe-menu-desktop.png">
-<img src="docs/wireframes/wireframe-menu-tablet.png">
-<img src="docs/wireframes/wireframe-menu-smartphone.png">
+    <img src="docs/wireframes/wireframe-menu-desktop.png">
+    <img src="docs/wireframes/wireframe-menu-tablet.png">
+    <img src="docs/wireframes/wireframe-menu-smartphone.png">
 </details>
 <details>
     <summary>About us</summary>
-<img src="docs/wireframes/wireframe-about-us-desktop.png">
-<img src="docs/wireframes/wireframe-about-us-tablet.png">
-<img src="docs/wireframes/wireframe-about-us-smartphone.png">
+    <img src="docs/wireframes/wireframe-about-us-desktop.png">
+    <img src="docs/wireframes/wireframe-about-us-tablet.png">
+    <img src="docs/wireframes/wireframe-about-us-smartphone.png">
 </details>
 <details>
     <summary>Contact</summary>
-<img src="docs/wireframes/wireframe-contact-desktop.png">
-<img src="docs/wireframes/wireframe-contact-tablet.png">
-<img src="docs/wireframes/wireframe-contact-smartphone.png">
+    <img src="docs/wireframes/wireframe-contact-desktop.png">
+    <img src="docs/wireframes/wireframe-contact-tablet.png">
+    <img src="docs/wireframes/wireframe-contact-smartphone.png">
 </details>
 <details>
     <summary>404</summary>
-<img src="docs/wireframes/wireframe-404-desktop.png">
-<img src="docs/wireframes/wireframe-404-tablet.png">
-<img src="docs/wireframes/wireframe-404-smartphone.png">
+    <img src="docs/wireframes/wireframe-404-desktop.png">
+    <img src="docs/wireframes/wireframe-404-tablet.png">
+    <img src="docs/wireframes/wireframe-404-smartphone.png">
 </details>
 
 ## Languages
@@ -294,6 +294,7 @@ On the website there are four pages with twelve features in total.
 ### HTML Validation
 To validate HTML of the website the W3C Markup Validation Service was used.
 
+#### Home
 
 
   
