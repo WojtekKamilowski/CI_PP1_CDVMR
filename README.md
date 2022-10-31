@@ -131,9 +131,13 @@ _Sans-serif_ was chosen as the fallback font for all elements.
 The structure was chosen to follow the common pattern of placing the website logo in the top left corner and the navigation links on the top right corner of the website.
 There are four pages that are parts of the website:
 - Home with two sections: first is the Welcome! h2 with its food_plate image in the background and second with id notice-board containing Announcements and Opening hours.
-- Menu with its three sections: restaurant-menu-header, menu-images, restaurant-menu.
-- About us 
-- Contact
+- Menu presenting the menu carte with food served in three distinctive divs id: restaurant-menu-header, menu-images and restaurant-menu.
+- About us with three sections for Our Place, Our Chef and Our Guests.
+- Contact consisting with a contact form and an iframe map.
+
+## Wireframes
+- Home
+[Home wireframes](docs/wireframe-home-desktop.png)
 
 
 
