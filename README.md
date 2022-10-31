@@ -297,7 +297,8 @@ To validate HTML of the website the W3C Markup Validation Service was used.
 #### Home
 ![HTML Validation Home](docs/validation/validation-html-index.jpg)
 
-  
+#### Menu
+![HTML Validation Menu](docs/validation/validation-html-menu.jpg)
 
 
 
