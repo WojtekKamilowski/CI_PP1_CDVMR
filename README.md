@@ -196,6 +196,7 @@ On the website there are four pages with twelve features in total.
     Logo and Navigation Bar are responsive, the page links slide to the left under the logo for smaller screens.<br>
     
     ![Logo and Navbar](docs/features/feature-logo-and-navbar.jpg)
+    
 </details>
 <details>
     <summary>Footer</summary> 
