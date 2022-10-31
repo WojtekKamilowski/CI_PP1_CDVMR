@@ -263,10 +263,19 @@ On the website there are four pages with twelve features in total.
 ![Our Guests](docs/features/feature-our-guests.jpg)
 
 ### Contact form
-- Placed in the center, on the left side of the Contact page.
+- Placed in the center of the page,, on the left side of the Contact page.
 - Includes a form with name, email, and phone inputs, a textarea, and a submit button for the user.
-- responive....
+- The form is responsive, adjusting the size to the viewport and moves above the map for medium size screens.
 
+![Contact form](docs/features/feature-contact-form.jpg)
+
+#### Map
+
+- Placed in the center of the page, on the right side of the Contact page.
+- Includes an iframe map from Google Maps.
+- The map is responsive, moves below the form for medium size screens and reduces its size for smaller screens.
+
+![Map](docs/features/feature-map.jpg)
 
 
 
