@@ -303,6 +303,9 @@ To validate HTML of the website the W3C Markup Validation Service was used.
 #### About us
 ![HTML Validation About us](docs/validation/validation-html-about.jpg)
 
+#### Contact
+![HTML Validation Contact](docs/validation/validation-html-contact.jpg)
+
 
 Add html validation for menu.html to README.md
 
