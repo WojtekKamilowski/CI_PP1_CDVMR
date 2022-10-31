@@ -311,6 +311,13 @@ To validate style.css the W3C Jigsaw CSS Validation Service was used. There were
 
 ![CSS Validation](docs/validation/validation-css-style.jpg)
 
+## Accessibility
+Accessibility was tested using WAVE - Web Accessibility Evaluation Tool. All of the pages have no errors.
+An initial error regarding the contrast was fixed using WebAIM where a similar, however with a better contrast color was found for the background.
+
+![Accessibility Validation](docs/validation/validation-accessibility-index.jpg)
+
+
 
 
 
