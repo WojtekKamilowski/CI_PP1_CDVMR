@@ -333,6 +333,9 @@ An initial error regarding the contrast was fixed using WebAIM where a similar, 
 ### 404
 ![Accessibility Validation 404](docs/validation/validation-accessibility-404.jpg)
 
+## Performance
+The tool used to test the performance of the website was Google Lighthouse from Google Chrome Developer Tools.
+
 
 Add image of accessibility validation results for Menu to README.md file
 
