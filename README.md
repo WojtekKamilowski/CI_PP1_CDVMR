@@ -449,6 +449,14 @@ Following browsers were used to test the website:
 
 ![Testing user story 7](docs/user-story-testing/user-story-7.jpg)
 
+8. As a returning user I want to check if the restaurant menu is same as during the last visit.
+
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Logo and Navigation Bar | Navigate to the menu page by clicking on Menu | Menu page opens | Works as expected  |
+| Restaurant menu header and menu images | Navigate to the menu page using the Logo and Navigation Bar feature | See the images displaying what kind of food is served in the restaurant | Works as expected |
+
+![Testing user story 8](docs/user-story-testing/user-story-8.jpg)
 
 
 
@@ -457,7 +465,7 @@ Following browsers were used to test the website:
 | ------- | ------- | --------------- | ------------- |
 | |  |  | Works as expected  |
 
-"Add the results of the user story 7 test to README.md"
+"Add the results of the user story 8 test to README.md"
 
 
 
