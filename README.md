@@ -432,11 +432,20 @@ Following browsers were used to test the website:
 
 ![Testing user story 5](docs/user-story-testing/user-story-5.jpg)
 
+6. As a returning user I want to contact the management and inform about my feedback after a visit.
+
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
-| | |  |  |
+| Logo and Navigation Bar | Navigate to the contact page by clicking on Contact | Contact page opens | Works as expected  |
+| Contact form | Fill up the form with the requested details | The input values are submitted via form correctly | Works as expected  |
 
-"Add the results of the  user story 5 test to README.md"
+![Testing user story 6](docs/user-story-testing/user-story-6.jpg)
+
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| |  |  | Works as expected  |
+
+"Add the results of the user story 6 test to README.md"
 
 
 
