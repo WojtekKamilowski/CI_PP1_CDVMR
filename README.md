@@ -213,8 +213,8 @@ On the website there are four pages with twelve features in total.
     Placed on the top of the Home page.<br>
     Displays "Welcome!" h2 on the top center with a plate image in the background welcoming the user to the website and the restaurant.<br> 
     It is responsive, the background image is resized and font-size reduced for smaller screens.<br>
-    <img src="docs/features/feature-plate-image.jpg">
     User stories covered: 9, 16. 
+    <img src="docs/features/feature-plate-image.jpg">
 </details>
 <details>
     <summary>Announcements</summary>
@@ -441,11 +441,23 @@ Following browsers were used to test the website:
 
 ![Testing user story 6](docs/user-story-testing/user-story-6.jpg)
 
+7. As a returning user I want to check if there is a special offer available.
+
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Announcements | On the home page scroll down to the Announcements | Find if a special offer is available | Works as expected  |
+
+![Testing user story 7](docs/user-story-testing/user-story-7.jpg)
+
+
+
+
+
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
 | |  |  | Works as expected  |
 
-"Add the results of the user story 6 test to README.md"
+"Add the results of the user story 7 test to README.md"
 
 
 
