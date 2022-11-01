@@ -525,7 +525,16 @@ Following browsers were used to test the website:
 
 ![Testing user story 15](docs/user-story-testing/user-story-15.jpg)
 
-16. 
+16. As the restaurant owner I want to make the user feel welcomed and invited to visit the restaurant.
+
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Plate image | Open the home page | Welcome the user and a potential guest of the restaurant wih a food plate in the background | Works as expected  |
+
+![Testing user story 16](docs/user-story-testing/user-story-15.jpg)
+
+
+
 
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
