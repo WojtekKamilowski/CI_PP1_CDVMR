@@ -467,9 +467,18 @@ Following browsers were used to test the website:
 | Logo and Navigation Bar | Navigate to the menu page by clicking on Menu | Menu page opens | Works as expected  |
 | Restaurant menu header and menu images | Navigate to the menu page using the Logo and Navigation Bar feature | The images display what kind of food guests can expect in the restaurant | Works as expected |
 | Food Menu and Drinks Menu | On the menu page scroll below menu images | Present the offered food and drink with their prices | Works as expected |
+| Plate image | Open the home page | Welcome the user and a potential guest of the restaurant wih a food plate in the background | Works as expected  |
 
 ![Testing user story 9](docs/user-story-testing/user-story-9.jpg)
 
+10. As the restaurant owner I want to introduce what type of place the user can expect during the visit.
+
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Logo and Navigation Bar | Navigate to the about us page by clicking on About | About page opens | Works as expected  |
+| Our Place | Navigate to the about us page using the Logo and Navigation Bar feature | Read the text descrbing the restaurant | Works as expected  |
+
+![Testing user story 10](docs/user-story-testing/user-story-10.jpg)
 
 
 
