@@ -498,13 +498,21 @@ Following browsers were used to test the website:
 
 ![Testing user story 12](docs/user-story-testing/user-story-12.jpg)
 
+13. As the restaurant owner I want to inform the user who manages preparation of the dishes and the professional background of this person.
+
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Logo and Navigation Bar | Navigate to the about us page by clicking on About | About page opens | Works as expected  |
+| Our Chef | Navigate to the about us page using the Logo and Navigation Bar feature and scroll below Our Place | See the text describing restaurant's head chef | Works as expected |
+
+![Testing user story 13](docs/user-story-testing/user-story-13.jpg)
 
 
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
 | |  |  | Works as expected  |
 
-"Add the results of the user story 12 test to README.md"
+"Add the results of the user story 13 test to README.md"
 
 
 
