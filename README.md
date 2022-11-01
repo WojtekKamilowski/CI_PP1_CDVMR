@@ -542,4 +542,24 @@ Following browsers were used to test the website:
 | Welcome! background image not visible on smaller screens, too dark not matching design choices | Find a brighter image with a more distanced focus on a plate with food | 
 | Google Maps iframe map do not fit on the page for smaller screens | Add max-width & height properties for media queries | 
 
+## Deployment 
+The website was deployed on GitHub Pages as per following steps:
+1. From the GitHub repository open the settings tab.
+2. Select Pages from the options on the left (Code and automation section).
+3. Source: deploy from a branch.
+4. Branch: main.
+5. Once the page is reloaded there was a notification "Your site is live at https://wojtekkamilowski.github.io/CI_PP1_CDVMR/"
+
+To fork the repository you should:
+
+1. Open the repository: https://github.com/WojtekKamilowski/CI_PP1_CDVMR
+2. Select Fork from the options on the right.
+
+To clone the GitHub repository you should:
+1. Open the repository: https://github.com/WojtekKamilowski/CI_PP1_CDVMR
+2. In the Code tab select click on Code button and select the preffered option (HTTPS/SSH/Github CLI) and click the copy button on the right of URL
+3. Open Git Bash and change the current working directory to the desired one.
+6. Type git clone and paste the previously copied URL from GitHub then pressing the enter button should create a local clone.
+
+
 
