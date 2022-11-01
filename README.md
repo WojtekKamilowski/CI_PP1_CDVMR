@@ -516,13 +516,22 @@ Following browsers were used to test the website:
 
 ![Testing user story 14](docs/user-story-testing/user-story-14.jpg)
 
-15. 
+15. As the restaurant owner I want to explain how to get to the restaurant and present its unique location.
+
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Logo and Navigation Bar | Navigate to the contact page by clicking on Contact | Contact page opens | Works as expected  |
+| Map | Open the contact page using Logo and Navigation Bar feature | Present the location of the restaurant on Google Maps map | Works as expected |
+
+![Testing user story 15](docs/user-story-testing/user-story-15.jpg)
+
+16. 
 
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
 | |  |  | Works as expected  |
 
-"Add the results of the user story 14 test to README.md"
+"Add the results of the user story 15 test to README.md"
 
 
 
