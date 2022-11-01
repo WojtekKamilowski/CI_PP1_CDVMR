@@ -416,11 +416,14 @@ Following browsers were used to test the website:
 
 ![Testing user story 3](docs/user-story-testing/user-story-3.jpg)
 
-4. Know the address of the premises.
+4. As a first time user I want to know the address of the premises.
 
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
-|  |  |  | Works as expected |
+| Footer | On any page of the website scroll down to the very bottom to see restaurant's address | Find restaurant's address | Works as expected |
+
+![Testing user story 4](docs/user-story-testing/user-story-4.jpg)
+
 
 
 
