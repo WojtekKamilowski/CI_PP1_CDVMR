@@ -420,7 +420,7 @@ Following browsers were used to test the website:
 
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
-| Footer | On any page of the website scroll down to the very bottom to see restaurant's address | Find restaurant's address | Works as expected |
+| Footer | On any page of the website scroll down to the very bottom to see restaurant's address, click on it to open Google Maps with its location in a separate tab | Find restaurant's address and find its location on the map | Works as expected |
 
 ![Testing user story 4](docs/user-story-testing/user-story-4.jpg)
 
@@ -436,7 +436,7 @@ Following browsers were used to test the website:
 | ------- | ------- | --------------- | ------------- |
 | | |  |  |
 
-"Add the results of the  user story 4 test to README.md"
+"Add the results of the  user story 5 test to README.md"
 
 
 
