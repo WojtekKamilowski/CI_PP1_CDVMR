@@ -476,9 +476,20 @@ Following browsers were used to test the website:
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
 | Logo and Navigation Bar | Navigate to the about us page by clicking on About | About page opens | Works as expected  |
-| Our Place | Navigate to the about us page using the Logo and Navigation Bar feature | Read the text descrbing the restaurant | Works as expected  |
+| Our Place | Navigate to the about us page using the Logo and Navigation Bar feature | Read the text descrbing the restaurant | Works as expected |
 
 ![Testing user story 10](docs/user-story-testing/user-story-10.jpg)
+
+11. As the restaurant owner I want to reveal the interior design of the restaurant.
+
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Logo and Navigation Bar | Navigate to the about us page by clicking on About | About page opens | Works as expected  |
+| Our Place | Navigate to the about us page using the Logo and Navigation Bar feature | See the image of restaurant's interior | Works as expected |
+
+![Testing user story 11](docs/user-story-testing/user-story-10.jpg)
+
+12. As the restaurant owner I want to
 
 
 
@@ -486,7 +497,7 @@ Following browsers were used to test the website:
 | ------- | ------- | --------------- | ------------- |
 | |  |  | Works as expected  |
 
-"Add the results of the user story 8 test to README.md"
+"Add the results of the user story 11 test to README.md"
 
 
 
