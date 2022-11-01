@@ -476,7 +476,7 @@ Following browsers were used to test the website:
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
 | Logo and Navigation Bar | Navigate to the about us page by clicking on About | About page opens | Works as expected  |
-| Our Place | Navigate to the about us page using the Logo and Navigation Bar feature | Read the text descrbing the restaurant | Works as expected |
+| Our Place | Navigate to the about us page using the Logo and Navigation Bar feature | Display the text descrbing the restaurant | Works as expected |
 
 ![Testing user story 10](docs/user-story-testing/user-story-10.jpg)
 
@@ -485,7 +485,7 @@ Following browsers were used to test the website:
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
 | Logo and Navigation Bar | Navigate to the about us page by clicking on About | About page opens | Works as expected  |
-| Our Place | Navigate to the about us page using the Logo and Navigation Bar feature | See the image of restaurant's interior | Works as expected |
+| Our Place | Navigate to the about us page using the Logo and Navigation Bar feature | Show the image of restaurant's interior | Works as expected |
 
 ![Testing user story 11](docs/user-story-testing/user-story-11.jpg)
 
@@ -494,7 +494,7 @@ Following browsers were used to test the website:
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
 | Logo and Navigation Bar | Navigate to the about us page by clicking on About | About page opens | Works as expected  |
-| Our Chef | Navigate to the about us page using the Logo and Navigation Bar feature and scroll below Our Place | See the photo of restaurant's head chef | Works as expected |
+| Our Chef | Navigate to the about us page using the Logo and Navigation Bar feature and scroll below Our Place | Show the photo of restaurant's head chef | Works as expected |
 
 ![Testing user story 12](docs/user-story-testing/user-story-12.jpg)
 
@@ -503,16 +503,26 @@ Following browsers were used to test the website:
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
 | Logo and Navigation Bar | Navigate to the about us page by clicking on About | About page opens | Works as expected  |
-| Our Chef | Navigate to the about us page using the Logo and Navigation Bar feature and scroll below Our Place | See the text describing restaurant's head chef | Works as expected |
+| Our Chef | Navigate to the about us page using the Logo and Navigation Bar feature and scroll below Our Place | Display the text describing restaurant's head chef | Works as expected |
 
 ![Testing user story 13](docs/user-story-testing/user-story-13.jpg)
 
+14. As the restaurant owner I want to share other guets reviews and what they felt during their dining experience.
+
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Logo and Navigation Bar | Navigate to the about us page by clicking on About | About page opens | Works as expected  |
+| Our Guests | Navigate to the about us page using the Logo and Navigation Bar feature and scroll below Our Chef | Show restaurant's guests reviews | Works as expected |
+
+![Testing user story 14](docs/user-story-testing/user-story-14.jpg)
+
+15. 
 
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
 | |  |  | Works as expected  |
 
-"Add the results of the user story 13 test to README.md"
+"Add the results of the user story 14 test to README.md"
 
 
 
