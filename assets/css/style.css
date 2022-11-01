@@ -875,11 +875,11 @@ h1 {
 
 }
 
-/* 250px */
+/* 300px */
 
-@media screen and (max-width: 250px) {
+@media screen and (max-width: 300px) {
 
-/* 250px header */
+/* 300px header */
 
 #logo {
     padding-top: 2vh;
@@ -896,7 +896,7 @@ h1 {
     line-height: 20px;
 }
 
-/* 250px footer */
+/* 300px footer */
 
 #phone-email { 
     margin: 1vh 2vw;
@@ -932,7 +932,7 @@ h1 {
     font-size: 90%;
 }
 
-/* 250px home */
+/* 300px home */
 
 #plate-image h2 {
     font-weight: 600;
@@ -940,7 +940,7 @@ h1 {
 }
 
 legend {
-    font-size: 50%;
+    font-size: 60%;
 }
 
 #announcements, #opening-hours {
@@ -949,11 +949,6 @@ legend {
 
 #announcements-box, #hours-box {
     margin: 1vh 1vw;
-    padding: 0;
-}
-
-.info-box, #week-days, #weekend, .hours {
-    padding: 0;
 }
 
 .week {
@@ -964,7 +959,7 @@ legend {
     font-size: 50%;
 }
 
-/* 250px restaurant menu */
+/* 300px restaurant menu */
 
 .food-menu fieldset {
     margin: 1vh 1vw;
@@ -997,7 +992,7 @@ legend {
     flex-wrap: wrap;
 }
 
-/* 250px contact */
+/* 300px contact */
 
 .contact-box, .message-box {
     max-width: 60%;
@@ -1011,7 +1006,7 @@ legend {
     width: 70vw;
 }
 
-/* 250px 404 */
+/* 300px 404 */
 
 #broken-plate-image h2, #broken-plate-image p { 
     font-size: 100%;
