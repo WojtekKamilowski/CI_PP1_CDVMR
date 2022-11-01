@@ -455,8 +455,20 @@ Following browsers were used to test the website:
 | ------- | ------- | --------------- | ------------- |
 | Logo and Navigation Bar | Navigate to the menu page by clicking on Menu | Menu page opens | Works as expected  |
 | Restaurant menu header and menu images | Navigate to the menu page using the Logo and Navigation Bar feature | See the images displaying what kind of food is served in the restaurant | Works as expected |
+| Food Menu and Drinks Menu | On the menu page scroll below menu images | Find what is the food and drink offered and what is the price range | Works as expected  |
+
 
 ![Testing user story 8](docs/user-story-testing/user-story-8.jpg)
+
+9. As the restaurant owner I want to advertise the place through presentation of food and drink served.
+
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Logo and Navigation Bar | Navigate to the menu page by clicking on Menu | Menu page opens | Works as expected  |
+| Restaurant menu header and menu images | Navigate to the menu page using the Logo and Navigation Bar feature | The images display what kind of food guests can expect in the restaurant | Works as expected |
+| Food Menu and Drinks Menu | On the menu page scroll below menu images | Present the offered food and drink with their prices | Works as expected |
+
+![Testing user story 9](docs/user-story-testing/user-story-9.jpg)
 
 
 
