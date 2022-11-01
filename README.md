@@ -487,9 +487,16 @@ Following browsers were used to test the website:
 | Logo and Navigation Bar | Navigate to the about us page by clicking on About | About page opens | Works as expected  |
 | Our Place | Navigate to the about us page using the Logo and Navigation Bar feature | See the image of restaurant's interior | Works as expected |
 
-![Testing user story 11](docs/user-story-testing/user-story-10.jpg)
+![Testing user story 11](docs/user-story-testing/user-story-11.jpg)
 
-12. As the restaurant owner I want to
+12. As the restaurant owner I want to present the head chef to the user.
+
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Logo and Navigation Bar | Navigate to the about us page by clicking on About | About page opens | Works as expected  |
+| Our Chef | Navigate to the about us page using the Logo and Navigation Bar feature and scroll below Our Place | See the photo of restaurant's head chef | Works as expected |
+
+![Testing user story 12](docs/user-story-testing/user-story-12.jpg)
 
 
 
@@ -497,7 +504,7 @@ Following browsers were used to test the website:
 | ------- | ------- | --------------- | ------------- |
 | |  |  | Works as expected  |
 
-"Add the results of the user story 11 test to README.md"
+"Add the results of the user story 12 test to README.md"
 
 
 
