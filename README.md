@@ -533,16 +533,10 @@ Following browsers were used to test the website:
 
 ![Testing user story 16](docs/user-story-testing/user-story-15.jpg)
 
-
-
-
-| Feature | Action  | Expected Result | Actual Result |
-| ------- | ------- | --------------- | ------------- |
-| |  |  | Works as expected  |
-
-"Add the results of the user story 15 test to README.md"
-
-
-
+## Bugs
+| Bug  | Fix  |
+| ------- | ------- |
+| When viewed on mobile devices the pages have a white line on the right side that goes after the header and footer | Remove excessive paddings |
+| Announcements Opening hours section 
 
     

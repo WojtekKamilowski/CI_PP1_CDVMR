@@ -191,15 +191,6 @@ h1 {
     font-family: "Great Vibes", sans-serif;
 }
 
-/* notice board */
-
-#notice-board {
-    display: flex;
-    flex-direction: column;
-    align-items: stretch;
-    justify-content: space-evenly;
-}
-
 /* announcements */
 
 #announcements {
@@ -233,11 +224,11 @@ h1 {
     padding: 2vh 2vw; 
     border: 2px solid transparent; 
     border-color: black; 
-    box-sizing: border-box; 
+    box-sizing: border-box;
     display: flex;
     flex-direction: row;
     align-items: stretch;
-    justify-content: space-evenly;
+    justify-content: space-evenly; 
 }
 
 #week-days {
