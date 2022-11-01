@@ -378,7 +378,24 @@ The tool used to test the performance of the website was Google Lighthouse from 
 
 ## Device testing
 List of devices used to test the website:
+- HP Pavilion 14 
+- Sony Xperia L2
+- Motorola
 
+The website was also tested using Google Chrome Developer Tools, Toggle Device Toolbar simulating view from twenty-five listed devices, including popular amongst users iPad and iPhone 5.
+
+## Browser compatability
+Following browsers were used to test the website:
+- Google Chrome
+- Mozilla Firefox
+- Microsoft Edge
+
+## Testing user stories 
+
+1. As a first time user I want to know if there is some disruption to the usual opening times or other very important information:
+
+| Feature | Action | Expected Result | Actual Result |
+|         |        |                 |               |
 
 
 
