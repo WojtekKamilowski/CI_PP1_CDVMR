@@ -394,15 +394,33 @@ Following browsers were used to test the website:
 
 1. As a first time user I want to know if there is some disruption to the usual opening times or other very important information:
 
-| Feature | Action | Expected Result | Actual Result |
-|         |        |                 |               |
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Announcements | On the home page scroll down to the Announcements | Find the information if the business is open as usual | Works as expected |
 
+![Testing user story 1](docs/user-story-testing/user-story-1.jpg)
 
+2. As a first time user I want to know when I can visit the place.
 
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Opening hours | On the home page scroll down to the Opening hours | Find the information about restaurant's opening hours | Works as expected |
 
+![Testing user story 2](docs/user-story-testing/user-story-2.jpg)
 
+3. As a first time user I want to know how to contact the restaurant via phone or email.
 
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Footer | On any page of the website scroll down to the very bottom to see restaurant's email address and phone number | Find restaurant's email address and phone number | Works as expected |
 
+![Testing user story 3](docs/user-story-testing/user-story-3.jpg)
+
+4. Know the address of the premises.
+
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+|  |  |  | Works as expected |
 
 
 
