@@ -424,8 +424,19 @@ Following browsers were used to test the website:
 
 ![Testing user story 4](docs/user-story-testing/user-story-4.jpg)
 
+5. As a first time user I want to visit restaurant's social media platforms and check the activity on them.
 
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| Footer | On any page of the website scroll down to the very bottom to see social media icons and click on them to open links of any of the pictured social media platforms | The social media websites open in a separate browser tab | Works as expected |
 
+![Testing user story 5](docs/user-story-testing/user-story-5.jpg)
+
+| Feature | Action  | Expected Result | Actual Result |
+| ------- | ------- | --------------- | ------------- |
+| | |  |  |
+
+"Add the results of the  user story 4 test to README.md"
 
 
 
