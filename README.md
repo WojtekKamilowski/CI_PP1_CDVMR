@@ -536,7 +536,7 @@ Following browsers were used to test the website:
 ## Bugs
 | Bug  | Fix  |
 | ------- | ------- |
-| When viewed on mobile devices the pages have a white line on the right side that goes after the header and footer | Remove excessive paddings |
-| Announcements Opening hours section 
+| When viewed on mobile devices the pages have a white line on the right side that goes after the header and footer | Remove excessive paddings & change some paddings values from px to vh/vw |
+| Opening hours fieldset narrower than the Announcements fieldset they do not match on smaller screens | Adjust opening hours marginmedia queries with 
 
     
