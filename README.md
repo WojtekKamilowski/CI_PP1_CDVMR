@@ -40,8 +40,8 @@
 ## Project Goals
 
 ### User Goals
-- Find a restaurant located in Cork city which offers a unique dining experience from mediterranean cuisines. 
-- Find the exact location of the restaurant and the neighbouring area with a scenic vie of the city where it is located.
+- Find a restaurant located in Cork city which offers a unique dining experience from Mediterranean cuisines. 
+- Find the exact location of the restaurant and the neighbouring area with a scenic view of the city where it is located.
 - Find useful information: important notices (e.g. about a temporary closure due to a refurbishment), special offers or opening hours.
 - Get a feeling of what type of atmosphere, food offer, pricing range, building interior to expect during the visit in the restaurant.
 - Understand the name of the restaurant which originates from different languages than the most commonly used in the country where it is located. 
@@ -49,7 +49,7 @@
 
 ### Business Owner Goals
 - Present the establishment for a potential customer.
-- Convince users to visit the restaurant by letting them familiarise with the product and feel welcomed to visit.
+- Convince users to visit the restaurant by letting them familiarise with the product and feel welcome to visit.
 - Inform users about important notices, special offers and when the restaurant can be visited.
 - Receive feedback/questions/suggestions and collect contact details to possibly address them when needed.
 
@@ -57,7 +57,7 @@
 
 ### Target Audience
 
-- People who would like to visit a mediterranean restaurant in Cork.
+- People who would like to visit a Mediterranean  restaurant in Cork.
 - Individuals, couples or groups who would like to try a different type of food originating from abroad. 
 - People who are looking for a scenic spot to eat with the view of Cork city.
 - Customers who already visited the restaurant and would like to contact the business.
@@ -65,7 +65,7 @@
 ### User Requirements and Expectations
 
 - Accessible website.
-- Intutive website wtih a layout allowing to easily navigate through it.
+- Intuitive website with a layout allowing to easily navigate through it.
 - Easy access to useful information. 
 - Links and features that function in accordance with their intended purpose. 
 - Welcoming visual appearance which follows the principles of responsive design.
@@ -101,7 +101,7 @@ As the restaurant owner I want to:
 11. Reveal the interior design of the restaurant. 
 12. Present the head chef to the user.
 13. Inform the user who manages preparation of the dishes and the professional background of this person. 
-14. Share other guets reviews and what they felt during their dining experience. 
+14. Share other guests reviews and what they felt during their dining experience. 
 15. Explain how to get to the restaurant and present its unique location. 
 16. Make the user feel welcomed and invited to visit the restaurant.
 
@@ -109,8 +109,8 @@ As the restaurant owner I want to:
 
 ### Design Choices 
 The main thought when designing the website was to introduce the restaurant as a fresh, welcoming, and warm place in a contemporary style with a mediterranean inspiration.
-The logo contains a lemon icon for users to associate the place with the freshness of this fruit commonly grown in the mediterranean region.
-Restaurant's name displayed in the logo "Casa Dolce Vita" is a combination of "casa" which in latin languages means "house" to let the user associate it with the warm and welcoming atmosphere of home, and "dolce vita" from Italian "sweet life" to suggest a tasteful dining experience.
+The logo contains a lemon icon for users to associate the place with the freshness of this fruit commonly grown in the Mediterranean region.
+Restaurant's name displayed in the logo "Casa Dolce Vita" is a combination of "casa" which in Latin languages means "house" to let the user associate it with the warm and welcoming atmosphere of home, and "dolce vita" from Italian "sweet life" to suggest a tasteful dining experience.
 On the top of the home page the user can observe the word "Welcome!" with a dish plate in the background to feel the website has been designed for the users to eventually bring them to the introduced dining experience, stimulating consumer expectations and curiosity to visit the place which is aimed to add a marketing value for the business owner as a mean of gaining possible competitive advantage over the competition.
 Images on the menu page were chosen to present the food served in aesthetic way representing the quality of the product. 
 On the About us page the user can get to known the chef and restaurant's interior which was aimed to represent the friendly environment of the establishment and its staff. 
@@ -124,7 +124,7 @@ The chosen color scheme was a combination of white and blue tones which is to sy
 ### Fonts
 Fonts were found using fonts.google.com
 The font chosen for the logo h1 and the Welcome h2 was _Great Vibes_ to match the mediterranean theme of the restaurant. 
-For h2, h3, nav id menu a, footer, class cuisine type p on the menu page, and class message-box legend elements _Raleway_ was used to differenciate them.
+For h2, h3, nav id menu a, footer, class cuisine type p on the menu page, and class message-box legend elements _Raleway_ was used to differentiate them.
 The font chosen for the body was _Roboto_.
 _Sans-serif_ was chosen as the fallback font for all elements.
 
@@ -384,7 +384,7 @@ List of devices used to test the website:
 
 The website was also tested using Google Chrome Developer Tools, Toggle Device Toolbar simulating view from twenty-five listed devices, including popular amongst users iPad and iPhone 5.
 
-## Browser compatability
+## Browser compatibility
 Following browsers were used to test the website:
 - Google Chrome
 - Mozilla Firefox
@@ -507,7 +507,7 @@ Following browsers were used to test the website:
 
 ![Testing user story 13](docs/user-story-testing/user-story-13.jpg)
 
-14. As the restaurant owner I want to share other guets reviews and what they felt during their dining experience.
+14. As the restaurant owner I want to share other guests reviews and what they felt during their dining experience.
 
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
@@ -557,7 +557,7 @@ To fork the repository you should:
 
 To clone the GitHub repository you should:
 1. Open the repository: https://github.com/WojtekKamilowski/CI_PP1_CDVMR
-2. In the Code tab select click on Code button and select the preffered option (HTTPS/SSH/Github CLI) and click the copy button on the right of URL
+2. In the Code tab select click on Code button and select the preferred option (HTTPS/SSH/Github CLI) and click the copy button on the right of URL
 3. Open Git Bash and change the current working directory to the desired one.
 6. Type git clone and paste the previously copied URL from GitHub then pressing the enter button should create a local clone.
 
@@ -586,7 +586,7 @@ To clone the GitHub repository you should:
 ## Acknowledgements
 I would like to thank you those who were a great support and inspiration during writing this project:
 - My mentor Mo Shami.
-- Code Institute for preparing the metarials and providing a wide range of available means of learning for the students.
+- Code Institute for preparing the materials and providing a wide range of available means of learning for the students.
 - My family who were the first users to test the website.
 
 
