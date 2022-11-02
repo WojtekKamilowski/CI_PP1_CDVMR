@@ -567,4 +567,27 @@ To clone the GitHub repository you should:
 ### Media
 
 - <a href="assets/images/food_plate.jpg">food_plate</a> photo by <a href="https://unsplash.com/@jaywennington">Jay Wennington</a> on <a href="https://unsplash.com/photos/N_Y88TWmGwA">Unsplash</a>
+- <a href="assets/images/apetizers.jpg">apetizers</a> photo by <a href="https://www.pexels.com/@lina/">Lina Kivaka</a> on <a href="https://www.pexels.com/photo/assorted-color-ceramic-tea-set-1813504/">Pexels</a>
+- <a href="assets/images/gelato.jpg">gelato</a> photo by <a href="https://unsplash.com/@shibataskaterock2018">Flavio Shibata</a> on <a href="https://unsplash.com/photos/z_eoi3ppf5U">Unsplash</a>
+- <a href="assets/images/wine.jpg">wine</a> photo by <a href="https://unsplash.com/@brett_jordan">Brett Jordan</a> on <a href="https://unsplash.com/photos/b-BtDwZO1YU">Unsplash</a>
+- <a href="assets/images/our_place.jpg">our_place</a> photo by <a href="https://www.pexels.com/@reneasmussen/">Rene Asmussen</a> on <a href="https://www.pexels.com/photo/restaurant-interior-filled-with-tables-and-chairs-2504963/">Pexels</a>
+- <a href="assets/images/our_chef.jpg">our_chef</a> photo by <a href="https://www.pexels.com/@kampus/">Kampus Production</a> on <a href="https://www.pexels.com/photo/a-chef-wearing-a-flat-cap-6605423/">Pexels</a>
+- <a href="assets/images/broken_plate.jpg">broken_plate</a> photo by <a href="https://pixabay.com/users/brrt-122519/">BRRT</a> on <a href="https://pixabay.com/photos/plate-broken-plate-broken-food-1902604/">Pixabay</a>
+- <a href="assets/images/favicon.png">favicon</a> generated from <a href="https://favicon.io/favicon-generator/">Favicon.io</a>
+- All icons were found on <a href="https://fontawesome.com/icons">Font Awesome</a> 
+
+### Code
+
+- HTML and CSS was inspired by <a href="https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode">Love Running CI Project</a>
+- Footer was inspired by the material available at<a href="https://css-tricks.com/couple-takes-sticky-footer/">css-tricks</a>
+- How to use flex was based on the information from<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">css-tricks</a> and <a href="https://blog.hubspot.com/website/center-div-css#:~:text=To%20center%20a%20div%20horizontally,equally%20between%20the%20two%20margins">HubSpot</a>
+- The 404 page was inspired by the project of <a href="https://github.com/4n4ru/CI_MS1_BodelschwingherHof">Ana Runje</a>
+- Use of the CSS Grid was based on <a href="https://www.w3schools.com/css/css_grid.asp">W3Schools</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout">Mozilla</a>
+
+## Acknowledgements
+
+- 
+
+
+
 
