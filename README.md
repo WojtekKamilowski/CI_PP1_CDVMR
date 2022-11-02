@@ -578,9 +578,9 @@ To clone the GitHub repository you should:
 
 ### Code
 - HTML and CSS was inspired by <a href="https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode">Love Running CI Project</a>
-- Footer was inspired by the material available at<a href="https://css-tricks.com/couple-takes-sticky-footer/">css-tricks</a>
-- How to use flex was based on the information from<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">css-tricks</a> and <a href="https://blog.hubspot.com/website/center-div-css#:~:text=To%20center%20a%20div%20horizontally,equally%20between%20the%20two%20margins">HubSpot</a>
-- The 404 page was inspired by the project of <a href="https://github.com/4n4ru/CI_MS1_BodelschwingherHof">Ana Runje</a>
+- Footer was inspired by the material available at <a href="https://css-tricks.com/couple-takes-sticky-footer/">css-tricks</a>
+- How to use flex was based on the information from <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">css-tricks</a> and <a href="https://blog.hubspot.com/website/center-div-css#:~:text=To%20center%20a%20div%20horizontally,equally%20between%20the%20two%20margins">HubSpot</a>
+- The 404 page was inspired from the project of <a href="https://github.com/4n4ru/CI_MS1_BodelschwingherHof">Ana Runje</a>
 - Use of the CSS Grid was based on <a href="https://www.w3schools.com/css/css_grid.asp">W3Schools</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout">Mozilla</a>
 
 ## Acknowledgements
