@@ -380,7 +380,7 @@ The tool used to test the performance of the website was Google Lighthouse from 
 List of devices used to test the website:
 - HP Pavilion 14 
 - Sony Xperia L2
-- Motorola
+- Motorola Moto G
 
 The website was also tested using Google Chrome Developer Tools, Toggle Device Toolbar simulating view from twenty-five listed devices, including popular amongst users iPad and iPhone 5.
 
@@ -562,4 +562,9 @@ To clone the GitHub repository you should:
 6. Type git clone and paste the previously copied URL from GitHub then pressing the enter button should create a local clone.
 
 
+## Credits 
+
+### Media
+
+- <a href="assets/images/food_plate.jpg">food_plate</a> photo by <a href="https://unsplash.com/@jaywennington">Jay Wennington</a> on <a href="https://unsplash.com/photos/N_Y88TWmGwA">Unsplash</a>
 
