@@ -577,7 +577,6 @@ To clone the GitHub repository you should:
 - All icons were found on <a href="https://fontawesome.com/icons">Font Awesome</a> 
 
 ### Code
-
 - HTML and CSS was inspired by <a href="https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode">Love Running CI Project</a>
 - Footer was inspired by the material available at<a href="https://css-tricks.com/couple-takes-sticky-footer/">css-tricks</a>
 - How to use flex was based on the information from<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">css-tricks</a> and <a href="https://blog.hubspot.com/website/center-div-css#:~:text=To%20center%20a%20div%20horizontally,equally%20between%20the%20two%20margins">HubSpot</a>
@@ -585,8 +584,14 @@ To clone the GitHub repository you should:
 - Use of the CSS Grid was based on <a href="https://www.w3schools.com/css/css_grid.asp">W3Schools</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout">Mozilla</a>
 
 ## Acknowledgements
+I would like to thank you those who were a great support and inspiration during writing this project:
+- My mentor Mo Shami.
+- Code Institute for preparing the metarials and providing a wide range of available means of learning for the students.
+- My family who were the first users to test the website.
 
-- 
+
+
+
 
 
 
