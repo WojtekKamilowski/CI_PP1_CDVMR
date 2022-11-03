@@ -74,6 +74,8 @@
 - Easy to understand and informative content.
 - A simple mean of contacting the staff.
 
+[Back to Table Of Contents](#table-of-content)
+
 ### User Stories
 
 #### First-time User
