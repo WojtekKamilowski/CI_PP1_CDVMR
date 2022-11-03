@@ -16,7 +16,7 @@
     - [User Stories](#user-stories)
 3. [Design](#design)
     - [Design Choices](#design-choices)
-    - [Color](#colors)
+    - [Color](#color)
     - [Fonts](#fonts)
     - [Structure](#structure)
     - [Wireframes](#wireframes)
