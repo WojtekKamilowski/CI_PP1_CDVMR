@@ -43,7 +43,7 @@
 - Find the exact location of the restaurant and the neighbouring area with a scenic view of the city where it is located.
 - Find useful information: important notices (e.g. about a temporary closure due to a refurbishment), special offers or opening hours.
 - Get a feeling of what type of atmosphere, food offer, pricing range, building interior to expect during the visit in the restaurant.
-- Understand the name of the restaurant which originates from different languages than the most commonly used in the country where it is located. 
+- Understand the name of the restaurant which originates from different languages than the most commonly spoken in the country where it is located. 
 - Communicate with the restaurant management to provide feedback, ask questions or suggest some changes.
 
 ### Business Owner Goals
@@ -113,7 +113,7 @@ As the restaurant owner I want to:
 ## Design
 
 ### Design Choices 
-The main thought when designing the website was to introduce the restaurant as a fresh, welcoming, and warm place in a contemporary style with a mediterranean inspiration.
+The main thought when designing the website was to introduce the restaurant as a fresh, welcoming, and warm place in a contemporary style with a Mediterranean inspiration.
 The logo contains a lemon icon for users to associate the place with the freshness of this fruit commonly grown in the Mediterranean region.
 Restaurant's name displayed in the logo "Casa Dolce Vita" is a combination of "casa" which in Latin languages means "house" to let the user associate it with the warm and welcoming atmosphere of home, and "dolce vita" from Italian "sweet life" to suggest a tasteful dining experience.
 On the top of the home page the user can observe the word "Welcome!" with a dish plate in the background to feel the website has been designed for the users to eventually bring them to the introduced dining experience, stimulating consumer expectations and curiosity to visit the place which is aimed to add a marketing value for the business owner as a mean of gaining possible competitive advantage over the competition.
@@ -124,7 +124,7 @@ The design choice for other elements of the website such Announcements, Opening 
 [Back to Table Of Contents](#table-of-contents)
 
 ### Color
-The chosen color scheme was a combination of white and blue tones which is to symbolize the mediterranean theme, they are the colors of the mediterranean sea, and white houses which could be well known as a part of the Greek landscape. The initially chosen blue color was found on color-hex.com and was different to the one on the final version of the website as it was changed during accessibility tests and checking their contrast on WebAIM. 
+The chosen color scheme was a combination of white and blue tones which is to symbolize the Mediterranean theme, they are the colors of the Mediterranean sea, and white houses which could be well known as a part of the Greek landscape. The initially chosen blue color was found on color-hex.com and was different to the one on the final version of the website as it was changed during accessibility tests and checking their contrast on WebAIM. 
 
 ![Color scheme](docs/features/colors.jpg)
 
@@ -132,8 +132,8 @@ The chosen color scheme was a combination of white and blue tones which is to sy
 
 ### Fonts
 Fonts were found using fonts.google.com
-The font chosen for the logo h1 and the Welcome h2 was _Great Vibes_ to match the mediterranean theme of the restaurant. 
-For h2, h3, nav id menu a, footer, class cuisine type p on the menu page, and class message-box legend elements _Raleway_ was used to differentiate them.
+The font chosen for the logo h1 and the Welcome h2 was _Great Vibes_ to match the Mediterranean theme of the restaurant. 
+For h2, h3, nav id menu a, footer, class cuisine-type p on the menu page, and class message-box legend elements _Raleway_ was used to differentiate them.
 The font chosen for the body was _Roboto_.
 _Sans-serif_ was chosen as the fallback font for all elements.
 
@@ -142,8 +142,8 @@ _Sans-serif_ was chosen as the fallback font for all elements.
 ### Structure
 The structure was chosen to follow the common pattern of placing the website logo in the top left corner and the navigation links on the top right corner of the website.
 There are four pages that are parts of the website:
-- Home with two sections: first is the Welcome! h2 with its food_plate background image and second with id notice-board containing Announcements and Opening hours.
-- Menu presenting the menu carte with food served in three distinctive divs id: restaurant-menu-header, menu-images and restaurant-menu.
+- Home with three sections: first is the Welcome! h2 with its food_plate background imagem second containing Announcements and the third one is Opening hours.
+- Menu presenting the menu carte with food and drinks served in three distinctive divs id: restaurant-menu-header, menu-images and restaurant-menu.
 - About us with three sections for Our Place, Our Chef and Our Guests.
 - Contact consisting with a contact form and an iframe map.
 
@@ -191,7 +191,7 @@ There are four pages that are parts of the website:
 - GitHub
 - Gitpod
 - Balsamiq - to create the wireframes.
-- Font Awesome - to add logo, address, social media, and restaurant menu icons.
+- Font Awesome - to add logo, location point, social media, and restaurant menu icons.
 - favicon.io - to create the favicon.
 - Google Maps to add the link to the map.
 - Google Fonts to find and add Great Vibes, Raleway and Roboto fonts. 
@@ -207,7 +207,7 @@ On the website there are four pages with twelve features in total.
 <details>
     <summary>Logo and Navigation Bar</summary>  
     It is included on all four pages.<br> 
-    The logo consists of the icon and restaurant's name is a clickable link to Home page which is a common feature and users expect it.<br> 
+    The logo consists of the icon and restaurant's name is a clickable link to Home page which is a common feature on many websites so users expect it.<br> 
     On the right there are four links to each of the pages: Home, Menu, About us and Contact so the user can easily navigate through.<br> 
     To indicate for the user on which page is currently viewed it is underlined.<br> 
     When the user hovers the mouse over the other pages links it also underlines informing the user that the link will bring to the named page.<br> 
@@ -253,7 +253,7 @@ On the website there are four pages with twelve features in total.
     <summary>Restaurant menu header and menu images</summary>
     Positioned on the top of the menu page.<br>
     Displays MENU h2 and three menu images presenting food and drink.<br>
-    They are reponsive, the images wrap reverse for medium size screens so the third image from the left displayes on top of the two other images. For smaller screens     the images are position from the top to the bottom. <br>
+    They are reponsive, the images wrap reverse for medium size screens so the third image from the left displayes on top of the two other images. For smaller screens the images are positioned from the top to the bottom. <br>
     User stories covered: 8, 9.
     <img src="docs/features/feature-restaurant-menu-header-and-menu-images.jpg">
 </details>
@@ -291,7 +291,7 @@ On the website there are four pages with twelve features in total.
 </details>
 <details>
     <summary>Contact form</summary>
-    Placed in the center of the page,, on the left side of the Contact page.<br>
+    Placed on left side in the center of the Contact page.<br>
     Includes a form with name, email, and phone inputs, a textarea, and a submit button for the user.<br>
     The form is responsive, adjusting the size to the viewport and moves above the map for medium size screens.<br>
     User stories covered: 6.
@@ -299,7 +299,7 @@ On the website there are four pages with twelve features in total.
 </details>
 <details>
     <summary>Map</summary>
-    Placed in the center of the page, on the right side of the Contact page.<br>
+    Placed on the right side in the center of the Contact page.<br>
     Includes an iframe map from Google Maps.<br>
     The map is responsive, moves below the form for medium size screens and reduces its size for smaller screens.<br>
     User stories covered: 15.
