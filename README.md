@@ -107,6 +107,8 @@ As the restaurant owner I want to:
 15. Explain how to get to the restaurant and present its unique location. 
 16. Make the user feel welcomed and invited to visit the restaurant.
 
+[Back to Table Of Contents](#table-of-content)
+
 ## Design
 
 ### Design Choices 
@@ -137,6 +139,8 @@ There are four pages that are parts of the website:
 - Menu presenting the menu carte with food served in three distinctive divs id: restaurant-menu-header, menu-images and restaurant-menu.
 - About us with three sections for Our Place, Our Chef and Our Guests.
 - Contact consisting with a contact form and an iframe map.
+
+[Back to Table Of Contents](#table-of-content)
 
 ## Wireframes
 <details>
@@ -185,6 +189,8 @@ There are four pages that are parts of the website:
 - TinyPNG to compress the images.
 - color-hex to find the initial color's hex value.
 - WebAIM to identify the color that would match the design choice and accessibility requirements. 
+
+[Back to Table Of Contents](#table-of-content)
 
 ## Features
 On the website there are four pages with twelve features in total.
@@ -291,6 +297,8 @@ On the website there are four pages with twelve features in total.
     <img src="docs/features/feature-map.jpg">
 </details>
 
+[Back to Table Of Contents](#table-of-content)
+
 ## Validation
 
 ### HTML Validation
@@ -316,6 +324,8 @@ To validate style.css the W3C Jigsaw CSS Validation Service was used. There were
 
 ![CSS Validation](docs/validation/validation-css-style.jpg)
 
+[Back to Table Of Contents](#table-of-content)
+
 ## Accessibility
 Accessibility was tested using WAVE - Web Accessibility Evaluation Tool. All of the pages have no errors.
 An initial error regarding the contrast was fixed using WebAIM where a similar, however with a better contrast color was found for the background.
@@ -334,6 +344,8 @@ An initial error regarding the contrast was fixed using WebAIM where a similar, 
 
 ### 404
 ![Accessibility Validation 404](docs/validation/validation-accessibility-404.jpg)
+
+[Back to Table Of Contents](#table-of-content)
 
 ## Performance
 The tool used to test the performance of the website was Google Lighthouse from Google Chrome Developer Tools.
@@ -378,6 +390,8 @@ The tool used to test the performance of the website was Google Lighthouse from 
 #### Mobile
 ![Performance 404 Mobile](docs/validation/lighthouse-performance-mobile-404.jpg)
 
+[Back to Table Of Contents](#table-of-content)
+
 ## Device testing
 List of devices used to test the website:
 - HP Pavilion 14 
@@ -391,6 +405,8 @@ Following browsers were used to test the website:
 - Google Chrome
 - Mozilla Firefox
 - Microsoft Edge
+
+[Back to Table Of Contents](#table-of-content)
 
 ## Testing user stories 
 
@@ -533,7 +549,9 @@ Following browsers were used to test the website:
 | ------- | ------- | --------------- | ------------- |
 | Plate image | Open the home page | Welcome the user and a potential guest of the restaurant wih a food plate in the background | Works as expected  |
 
-![Testing user story 16](docs/user-story-testing/user-story-15.jpg)
+![Testing user story 16](docs/user-story-testing/user-story-16.jpg)
+
+[Back to Table Of Contents](#table-of-content)
 
 ## Bugs
 | Bug  | Fix  |
@@ -543,6 +561,8 @@ Following browsers were used to test the website:
 | Low colors contrast | Find a similar tone of blue color using WebAIM | 
 | Welcome! background image not visible on smaller screens, too dark not matching design choices | Find a brighter image with a more distanced focus on a plate with food | 
 | Google Maps iframe map do not fit on the page for smaller screens | Add max-width & height properties for media queries | 
+
+[Back to Table Of Contents](#table-of-content)
 
 ## Deployment 
 The website was deployed on GitHub Pages as per following steps:
@@ -563,6 +583,7 @@ To clone the GitHub repository you should:
 3. Open Git Bash and change the current working directory to the desired one.
 6. Type git clone and paste the previously copied URL from GitHub then pressing the enter button should create a local clone.
 
+[Back to Table Of Contents](#table-of-content)
 
 ## Credits 
 
@@ -584,6 +605,8 @@ To clone the GitHub repository you should:
 - How to use flex was based on the information from <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">css-tricks</a> and <a href="https://blog.hubspot.com/website/center-div-css#:~:text=To%20center%20a%20div%20horizontally,equally%20between%20the%20two%20margins">HubSpot</a>
 - The 404 page was inspired from the project of <a href="https://github.com/4n4ru/CI_MS1_BodelschwingherHof">Ana Runje</a>
 - Use of the CSS Grid was based on <a href="https://www.w3schools.com/css/css_grid.asp">W3Schools</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout">Mozilla</a>
+
+[Back to Table Of Contents](#table-of-content)
 
 ## Acknowledgements
 I would like to thank you those who were a great support and inspiration during writing this project:
