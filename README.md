@@ -474,7 +474,7 @@ Following browsers were used to test the website:
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
 | Logo and Navigation Bar | Navigate to the contact page by clicking on Contact | Contact page opens | Works as expected  |
-| Contact form | Fill up the form with the requested details | The input values are submitted via form correctly | Works as expected  |
+| Contact form | Fill up the form with the requested details and click Submit button | The input values are submitted via form correctly | Works as expected  |
 
 ![Testing user story 6](docs/user-story-testing/user-story-6.jpg)
 
