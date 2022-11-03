@@ -28,7 +28,7 @@
     - [CSS Validation](#CSS-validation)
     - [Accessibility](#accessibility)
     - [Performance](#performance)
-    - [Device testing](#performing-tests-on-various-devices)
+    - [Device testing](#device-testing)
     - [Browser compability](#browser-compability)
     - [Testing user stories](#testing-user-stories)
  8. [Bugs](#Bugs)
