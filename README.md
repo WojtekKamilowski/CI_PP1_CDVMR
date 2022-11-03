@@ -520,7 +520,7 @@ Following browsers were used to test the website:
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
 | Logo and Navigation Bar | Navigate to the about us page by clicking on About | About page opens | Works as expected  |
-| Our Place | Navigate to the about us page using the Logo and Navigation Bar feature | Display the text descrbing the restaurant | Works as expected |
+| Our Place | Navigate to the about us page using the Logo and Navigation Bar feature | Display the text describing the restaurant | Works as expected |
 
 ![Testing user story 10](docs/user-story-testing/user-story-10.jpg)
 
