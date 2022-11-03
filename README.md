@@ -380,7 +380,7 @@ The tool used to test the performance of the website was Google Lighthouse from 
 List of devices used to test the website:
 - HP Pavilion 14 
 - Sony Xperia L2
-- Motorola Moto G
+- Motorola Moto G20
 
 The website was also tested using Google Chrome Developer Tools, Toggle Device Toolbar simulating view from twenty-five listed devices, including popular amongst users iPad and iPhone 5.
 
