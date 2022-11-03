@@ -142,7 +142,7 @@ _Sans-serif_ was chosen as the fallback font for all elements.
 ### Structure
 The structure was chosen to follow the common pattern of placing the website logo in the top left corner and the navigation links on the top right corner of the website.
 There are four pages that are parts of the website:
-- Home with two sections: first is the Welcome! h2 with its food_plate image in the background and second with id notice-board containing Announcements and Opening hours.
+- Home with two sections: first is the Welcome! h2 with its food_plate background image and second with id notice-board containing Announcements and Opening hours.
 - Menu presenting the menu carte with food served in three distinctive divs id: restaurant-menu-header, menu-images and restaurant-menu.
 - About us with three sections for Our Place, Our Chef and Our Guests.
 - Contact consisting with a contact form and an iframe map.
@@ -643,6 +643,7 @@ To clone the GitHub repository you should:
 - How to use flex was based on the information from <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">css-tricks</a> and <a href="https://blog.hubspot.com/website/center-div-css#:~:text=To%20center%20a%20div%20horizontally,equally%20between%20the%20two%20margins">HubSpot</a>
 - The 404 page was inspired from the project of <a href="https://github.com/4n4ru/CI_MS1_BodelschwingherHof">Ana Runje</a>
 - Use of the CSS Grid was based on <a href="https://www.w3schools.com/css/css_grid.asp">W3Schools</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout">Mozilla</a>
+- Use of the title attribute for Home & 404 background image divs <a href="https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute">stack overflow</a>
 
 [Back to Table Of Contents](#table-of-contents)
 
