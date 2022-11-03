@@ -122,10 +122,14 @@ Images on the menu page were chosen to present the food served in aesthetic way 
 On the About us page the user can get to known the chef and restaurant's interior which was aimed to represent the friendly environment of the establishment and its staff. 
 The design choice for other elements of the website such Announcements, Opening hours, Food/Drinks Menus, Our Place/Chef/Guests, the contact form and the map was decided to clearly display relevant information for the user in a simple and easy to understand way.
 
+[Back to Table Of Contents](#table-of-content)
+
 ### Color
 The chosen color scheme was a combination of white and blue tones which is to symbolize the mediterranean theme, they are the colors of the mediterranean sea, and white houses which could be well known as a part of the Greek landscape. The initially chosen blue color was found on color-hex.com and was different to the one on the final version of the website as it was changed during accessibility tests and checking their contrast on WebAIM. 
 
 ![Color scheme](docs/features/colors.jpg)
+
+[Back to Table Of Contents](#table-of-content)
 
 ### Fonts
 Fonts were found using fonts.google.com
@@ -133,6 +137,8 @@ The font chosen for the logo h1 and the Welcome h2 was _Great Vibes_ to match th
 For h2, h3, nav id menu a, footer, class cuisine type p on the menu page, and class message-box legend elements _Raleway_ was used to differentiate them.
 The font chosen for the body was _Roboto_.
 _Sans-serif_ was chosen as the fallback font for all elements.
+
+[Back to Table Of Contents](#table-of-content)
 
 ### Structure
 The structure was chosen to follow the common pattern of placing the website logo in the top left corner and the navigation links on the top right corner of the website.
