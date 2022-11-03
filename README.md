@@ -29,7 +29,7 @@
     - [Accessibility](#accessibility)
     - [Performance](#performance)
     - [Device testing](#device-testing)
-    - [Browser compability](#browser-compability)
+    - [Browser compatibility](#browser-compatibility)
     - [Testing user stories](#testing-user-stories)
  8. [Bugs](#Bugs)
  9. [Deployment](#deployment)
