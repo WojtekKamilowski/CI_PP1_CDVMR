@@ -596,7 +596,7 @@ Following browsers were used to test the website:
 | ------- | ------- |
 | When viewed on mobile devices the pages have a white line on the right side that goes after the header and footer | Remove excessive paddings & change some paddings values from px to vh/vw |
 | Opening hours fieldset narrower than the Announcements fieldset and do not match on smaller screens | Adjust opening hours margins using media queries for 300px wide screens | 
-| Low colors contrast | Find a similar tone of blue color using WebAIM | 
+| Low colors contrast | Find a similar tone of blue color using WebAIM with a better contrast that pass the accessibility tests | 
 | Welcome! background image not visible on smaller screens, too dark not matching design choices | Find a brighter image with a more distanced focus on a plate with food | 
 | Google Maps iframe map do not fit on the page for smaller screens | Add max-width & height properties for media queries | 
 
