@@ -5,7 +5,7 @@
 
 [Live webpage](https://wojtekkamilowski.github.io/CI_PP1_CDVMR/)
 
-## Table of Content
+## Table of Contents
 
 1. [Project Goals](#project-goals)
     - [User Goals](#user-goals)
@@ -53,7 +53,7 @@
 - Inform users about important notices, special offers and when the restaurant can be visited.
 - Receive feedback/questions/suggestions and collect contact details to possibly address them when needed.
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## User Experience
 
@@ -74,7 +74,7 @@
 - Easy to understand and informative content.
 - A simple mean of contacting the staff.
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ### User Stories
 
@@ -109,7 +109,7 @@ As the restaurant owner I want to:
 15. Explain how to get to the restaurant and present its unique location. 
 16. Make the user feel welcomed and invited to visit the restaurant.
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## Design
 
@@ -122,14 +122,14 @@ Images on the menu page were chosen to present the food served in aesthetic way 
 On the About us page the user can get to known the chef and restaurant's interior which was aimed to represent the friendly environment of the establishment and its staff. 
 The design choice for other elements of the website such Announcements, Opening hours, Food/Drinks Menus, Our Place/Chef/Guests, the contact form and the map was decided to clearly display relevant information for the user in a simple and easy to understand way.
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ### Color
 The chosen color scheme was a combination of white and blue tones which is to symbolize the mediterranean theme, they are the colors of the mediterranean sea, and white houses which could be well known as a part of the Greek landscape. The initially chosen blue color was found on color-hex.com and was different to the one on the final version of the website as it was changed during accessibility tests and checking their contrast on WebAIM. 
 
 ![Color scheme](docs/features/colors.jpg)
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ### Fonts
 Fonts were found using fonts.google.com
@@ -138,7 +138,7 @@ For h2, h3, nav id menu a, footer, class cuisine type p on the menu page, and cl
 The font chosen for the body was _Roboto_.
 _Sans-serif_ was chosen as the fallback font for all elements.
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ### Structure
 The structure was chosen to follow the common pattern of placing the website logo in the top left corner and the navigation links on the top right corner of the website.
@@ -148,7 +148,7 @@ There are four pages that are parts of the website:
 - About us with three sections for Our Place, Our Chef and Our Guests.
 - Contact consisting with a contact form and an iframe map.
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## Wireframes
 <details>
@@ -182,7 +182,7 @@ There are four pages that are parts of the website:
     <img src="docs/wireframes/wireframe-404-smartphone.png">
 </details>
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## Languages
 - HTML
@@ -200,7 +200,7 @@ There are four pages that are parts of the website:
 - color-hex to find the initial color's hex value.
 - WebAIM to identify the color that would match the design choice and accessibility requirements. 
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## Features
 On the website there are four pages with twelve features in total.
@@ -307,7 +307,7 @@ On the website there are four pages with twelve features in total.
     <img src="docs/features/feature-map.jpg">
 </details>
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## Validation
 
@@ -334,7 +334,7 @@ To validate style.css the W3C Jigsaw CSS Validation Service was used. There were
 
 ![CSS Validation](docs/validation/validation-css-style.jpg)
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## Accessibility
 Accessibility was tested using WAVE - Web Accessibility Evaluation Tool. All of the pages have no errors.
@@ -355,7 +355,7 @@ An initial error regarding the contrast was fixed using WebAIM where a similar, 
 ### 404
 ![Accessibility Validation 404](docs/validation/validation-accessibility-404.jpg)
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## Performance
 The tool used to test the performance of the website was Google Lighthouse from Google Chrome Developer Tools.
@@ -400,7 +400,7 @@ The tool used to test the performance of the website was Google Lighthouse from 
 #### Mobile
 ![Performance 404 Mobile](docs/validation/lighthouse-performance-mobile-404.jpg)
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## Device testing
 List of devices used to test the website:
@@ -416,7 +416,7 @@ Following browsers were used to test the website:
 - Mozilla Firefox
 - Microsoft Edge
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## Testing user stories 
 
@@ -561,7 +561,7 @@ Following browsers were used to test the website:
 
 ![Testing user story 16](docs/user-story-testing/user-story-16.jpg)
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## Bugs
 | Bug  | Fix  |
@@ -572,7 +572,7 @@ Following browsers were used to test the website:
 | Welcome! background image not visible on smaller screens, too dark not matching design choices | Find a brighter image with a more distanced focus on a plate with food | 
 | Google Maps iframe map do not fit on the page for smaller screens | Add max-width & height properties for media queries | 
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## Deployment 
 The website was deployed on GitHub Pages as per following steps:
@@ -593,7 +593,7 @@ To clone the GitHub repository you should:
 3. Open Git Bash and change the current working directory to the desired one.
 6. Type git clone and paste the previously copied URL from GitHub then pressing the enter button should create a local clone.
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## Credits 
 
@@ -616,7 +616,7 @@ To clone the GitHub repository you should:
 - The 404 page was inspired from the project of <a href="https://github.com/4n4ru/CI_MS1_BodelschwingherHof">Ana Runje</a>
 - Use of the CSS Grid was based on <a href="https://www.w3schools.com/css/css_grid.asp">W3Schools</a> and <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout">Mozilla</a>
 
-[Back to Table Of Contents](#table-of-content)
+[Back to Table Of Contents](#table-of-contents)
 
 ## Acknowledgements
 I would like to thank you those who were a great support and inspiration during writing this project:
