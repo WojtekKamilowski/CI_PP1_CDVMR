@@ -8,8 +8,8 @@
 ## Table of Content
 
 1. [Project Goals](#project-goals)
-    -[User Goals](#user-goals)
-    - [Business Owner Goals](#site-owner-goals)
+    - [User Goals](#user-goals)
+    - [Business Owner Goals](#business-owner-goals)
 2. [User Experience](#user-experience)
     - [Target Audience](#target-audience)
     - [User Requirements and Expectations](#user-requirements-and-expectations)
@@ -52,6 +52,8 @@
 - Convince users to visit the restaurant by letting them familiarise with the product and feel welcome to visit.
 - Inform users about important notices, special offers and when the restaurant can be visited.
 - Receive feedback/questions/suggestions and collect contact details to possibly address them when needed.
+
+[Back to Table Of Contents](##table-of-contents)
 
 ## User Experience
 
