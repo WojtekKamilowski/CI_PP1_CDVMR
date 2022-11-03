@@ -182,6 +182,8 @@ There are four pages that are parts of the website:
     <img src="docs/wireframes/wireframe-404-smartphone.png">
 </details>
 
+[Back to Table Of Contents](#table-of-content)
+
 ## Languages
 - HTML
 - CSS
