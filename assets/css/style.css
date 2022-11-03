@@ -994,6 +994,11 @@ legend {
 
 /* 300px contact */
 
+.contact {
+    margin-left: 4vw;
+    margin-right: 4vw;
+}
+
 .contact-box, .message-box {
     max-width: 60%;
 }
@@ -1011,6 +1016,23 @@ legend {
 #broken-plate-image h2, #broken-plate-image p { 
     font-size: 100%;
     padding: 0;
+}
+
+}
+
+/* 240px */
+
+@media screen and (max-width: 240px) {
+
+/* 240px Contact */
+
+.contact {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.contact-box {
+    font-size: 60%;
 }
 
 }
