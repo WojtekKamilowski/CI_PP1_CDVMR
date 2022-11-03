@@ -463,7 +463,7 @@ Following browsers were used to test the website:
 
 | Feature | Action  | Expected Result | Actual Result |
 | ------- | ------- | --------------- | ------------- |
-| Footer | On any page of the website scroll down to the very bottom to see social media icons and click on them to open links of any of the pictured social media platforms | The social media websites open in a separate browser tab | Works as expected |
+| Footer | On any page of the website scroll down to the very bottom to see social media icons and click on them to open the links to the pictured social media platforms | The social media websites open in a separate browser tab | Works as expected |
 
 ![Testing user story 5](docs/user-story-testing/user-story-5.jpg)
 
