@@ -651,7 +651,6 @@ I would like to thank those who were a great support and inspiration during writ
 - My mentor Mo Shami.
 - Code Institute for preparing the materials and providing a wide range of available means of learning for the students.
 - My family who were the first users to test the website.
-
 [Back to Table Of Contents](#table-of-contents)
 
 
