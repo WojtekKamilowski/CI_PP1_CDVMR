@@ -427,6 +427,8 @@ Following browsers were used to test the website:
 
 ![Testing user story 1](docs/user-story-testing/user-story-1.jpg)
 
+[Back to Table Of Contents](#table-of-contents)
+
 2. As a first time user I want to know when I can visit the place.
 
 | Feature | Action  | Expected Result | Actual Result |
@@ -434,6 +436,8 @@ Following browsers were used to test the website:
 | Opening hours | On the home page scroll down to the Opening hours | Find the information about restaurant's opening hours | Works as expected |
 
 ![Testing user story 2](docs/user-story-testing/user-story-2.jpg)
+
+[Back to Table Of Contents](#table-of-contents)
 
 3. As a first time user I want to know how to contact the restaurant via phone or email.
 
@@ -443,6 +447,8 @@ Following browsers were used to test the website:
 
 ![Testing user story 3](docs/user-story-testing/user-story-3.jpg)
 
+[Back to Table Of Contents](#table-of-contents)
+
 4. As a first time user I want to know the address of the premises.
 
 | Feature | Action  | Expected Result | Actual Result |
@@ -451,6 +457,8 @@ Following browsers were used to test the website:
 
 ![Testing user story 4](docs/user-story-testing/user-story-4.jpg)
 
+[Back to Table Of Contents](#table-of-contents)
+
 5. As a first time user I want to visit restaurant's social media platforms and check the activity on them.
 
 | Feature | Action  | Expected Result | Actual Result |
@@ -458,6 +466,8 @@ Following browsers were used to test the website:
 | Footer | On any page of the website scroll down to the very bottom to see social media icons and click on them to open links of any of the pictured social media platforms | The social media websites open in a separate browser tab | Works as expected |
 
 ![Testing user story 5](docs/user-story-testing/user-story-5.jpg)
+
+[Back to Table Of Contents](#table-of-contents)
 
 6. As a returning user I want to contact the management and inform about my feedback after a visit.
 
@@ -468,6 +478,8 @@ Following browsers were used to test the website:
 
 ![Testing user story 6](docs/user-story-testing/user-story-6.jpg)
 
+[Back to Table Of Contents](#table-of-contents)
+
 7. As a returning user I want to check if there is a special offer available.
 
 | Feature | Action  | Expected Result | Actual Result |
@@ -475,6 +487,8 @@ Following browsers were used to test the website:
 | Announcements | On the home page scroll down to the Announcements | Find if a special offer is available | Works as expected  |
 
 ![Testing user story 7](docs/user-story-testing/user-story-7.jpg)
+
+[Back to Table Of Contents](#table-of-contents)
 
 8. As a returning user I want to check if the restaurant menu is same as during the last visit.
 
@@ -484,8 +498,9 @@ Following browsers were used to test the website:
 | Restaurant menu header and menu images | Navigate to the menu page using the Logo and Navigation Bar feature | See the images displaying what kind of food is served in the restaurant | Works as expected |
 | Food Menu and Drinks Menu | On the menu page scroll below menu images | Find what is the food and drink offered and what is the price range | Works as expected  |
 
-
 ![Testing user story 8](docs/user-story-testing/user-story-8.jpg)
+
+[Back to Table Of Contents](#table-of-contents)
 
 9. As the restaurant owner I want to advertise the place through presentation of food and drink served.
 
@@ -498,6 +513,8 @@ Following browsers were used to test the website:
 
 ![Testing user story 9](docs/user-story-testing/user-story-9.jpg)
 
+[Back to Table Of Contents](#table-of-contents)
+
 10. As the restaurant owner I want to introduce what type of place the user can expect during the visit.
 
 | Feature | Action  | Expected Result | Actual Result |
@@ -506,6 +523,8 @@ Following browsers were used to test the website:
 | Our Place | Navigate to the about us page using the Logo and Navigation Bar feature | Display the text descrbing the restaurant | Works as expected |
 
 ![Testing user story 10](docs/user-story-testing/user-story-10.jpg)
+
+[Back to Table Of Contents](#table-of-contents)
 
 11. As the restaurant owner I want to reveal the interior design of the restaurant.
 
@@ -516,6 +535,8 @@ Following browsers were used to test the website:
 
 ![Testing user story 11](docs/user-story-testing/user-story-11.jpg)
 
+[Back to Table Of Contents](#table-of-contents)
+
 12. As the restaurant owner I want to present the head chef to the user.
 
 | Feature | Action  | Expected Result | Actual Result |
@@ -524,6 +545,8 @@ Following browsers were used to test the website:
 | Our Chef | Navigate to the about us page using the Logo and Navigation Bar feature and scroll below Our Place | Show the photo of restaurant's head chef | Works as expected |
 
 ![Testing user story 12](docs/user-story-testing/user-story-12.jpg)
+
+[Back to Table Of Contents](#table-of-contents)
 
 13. As the restaurant owner I want to inform the user who manages preparation of the dishes and the professional background of this person.
 
@@ -534,6 +557,8 @@ Following browsers were used to test the website:
 
 ![Testing user story 13](docs/user-story-testing/user-story-13.jpg)
 
+[Back to Table Of Contents](#table-of-contents)
+
 14. As the restaurant owner I want to share other guests reviews and what they felt during their dining experience.
 
 | Feature | Action  | Expected Result | Actual Result |
@@ -543,6 +568,8 @@ Following browsers were used to test the website:
 
 ![Testing user story 14](docs/user-story-testing/user-story-14.jpg)
 
+[Back to Table Of Contents](#table-of-contents)
+
 15. As the restaurant owner I want to explain how to get to the restaurant and present its unique location.
 
 | Feature | Action  | Expected Result | Actual Result |
@@ -551,6 +578,8 @@ Following browsers were used to test the website:
 | Map | Open the contact page using Logo and Navigation Bar feature | Present the location of the restaurant on Google Maps map | Works as expected |
 
 ![Testing user story 15](docs/user-story-testing/user-story-15.jpg)
+
+[Back to Table Of Contents](#table-of-contents)
 
 16. As the restaurant owner I want to make the user feel welcomed and invited to visit the restaurant.
 
