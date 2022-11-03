@@ -53,7 +53,7 @@
 - Inform users about important notices, special offers and when the restaurant can be visited.
 - Receive feedback/questions/suggestions and collect contact details to possibly address them when needed.
 
-[Back to Table Of Contents](#table-of-contents)
+[Back to Table Of Contents](#table-of-content)
 
 ## User Experience
 
